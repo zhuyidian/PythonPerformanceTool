@@ -1,0 +1,14 @@
+# PythonPerformanceTool
+/PythonPerformanceTool/.gradle/
+/PythonPerformanceTool/.idea/
+/PythonPerformanceTool/.svn/
+/PythonPerformanceTool/java_pid5600.hprof   
+/PythonPerformanceTool/java_pid8156.hprof 
+/PythonPerformanceTool/*.hprof 
+/PythonPerformanceTool/local.properties
+/PythonPerformanceTool/*.iml
+
+#performance
+/PythonPerformanceTool/performance/.idea/
+/PythonPerformanceTool/performance/build/
+
