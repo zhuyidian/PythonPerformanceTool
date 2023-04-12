@@ -1,162 +1,25 @@
-
-
-
-User 26%, System 8%, IOW 2%, IRQ 1%
-User 308 + Nice 0 + Sys 104 + Idle 694 + IOW 31 + IRQ 0 + SIRQ 20 = 1157
-
-  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
- 2220  2  23% R    99 1864756K 204060K  fg system   com.tianci.movieplatform
- 2575  3   3% S    32 1521996K  49728K  bg u0_a13   com.coocaa.sysreport
- 1362  3   3% S    14 136268K  16460K  fg system   /system/bin/surfaceflinger
- 1375  2   2% S    15  65008K  11676K  fg system   /system/bin/tvserver
- 2746  1   1% S    92 1632792K  65216K  fg system   com.tianci.de
- 1849  1   1% S    75 2055192K  93520K  fg system   system_server
-  821  0   1% S     1      0K      0K     root     mmcqd/0
- 1356  1   1% S     4  15980K   3648K     logd     /system/bin/logd
- 4740  0   0% S     1      0K      0K     root     kworker/u8:1
-17078  1   0% R     1   6204K   1528K     shell    top
- 2305  0   0% S     1      0K      0K     root     RTW_CMD_THREAD
- 3268  0   0% S    46 1582812K  74644K  fg system   com.skyworth.angel.voice
- 2054  3   0% S    27 2082372K  68576K  fg u0_a7    com.android.systemui
-    9  2   0% S     1      0K      0K     root     rcu_sched
- 2138  2   0% S    53 1565724K  66088K  fg system   com.tianci.system
-    3  0   0% S     1      0K      0K     root     ksoftirqd/0
-    1  0   0% S     1   3872K    952K     root     /init
-16507  1   0% S     1      0K      0K     root     kworker/u8:0
- 1652  2   0% S     1      0K      0K     root     HI_VFMW_VideoDe
- 2954  1   0% S    13 1490204K  33724K  bg system   com.skyworth.dtv
- 1653  2   0% D     1      0K      0K     root     VdecKernelThrea
-16583  1   0% S     1      0K      0K     root     kworker/1:2
-  878  3   0% D     1      0K      0K     root     HDMIRX main tas
- 1359  2   0% S     1   7232K   1504K     root     /system/bin/lmkd
-  958  3   0% S     1      0K      0K     root     kworker/3:0
-  931  0   0% D     1      0K      0K     root     HI_VPSS_Process
- 3850  3   0% S    19 1505416K  37260K  bg system   com.bajintech.karaok
- 4243  3   0% S    58 1605560K  75288K  fg system   com.coocaa.educate
- 1326  3   0% S     1      0K      0K     root     jbd2/mmcblk0p18
-  530  3   0% S     1      0K      0K     root     kworker/3:1
-  678  1   0% S     1      0K      0K     root     kpsmoused
-  688  1   0% S     1      0K      0K     root     cfinteractive
-  693  1   0% S     1      0K      0K     root     dw-mci-card
-  695  1   0% S     1      0K      0K     root     dw-mci-card
-  718  3   0% S     1      0K      0K     root     vmalloc
-  720  1   0% S     1      0K      0K     root     binder
-  754  1   0% S     1      0K      0K     root     mali_dvfs
-  756  0   0% S     1      0K      0K     root     kworker/u9:0
-  780  1   0% S     1      0K      0K     root     deferwq
-  799  3   0% D     1      0K      0K     root     HI_HDDEC
-  809  1   0% D     1      0K      0K     root     HI_PQ_Process
-  816  0   0% D     1      0K      0K     root     HI_DISP_DHDRese
-  822  0   0% S     1      0K      0K     root     mmcqd/0boot0
-  823  0   0% S     1      0K      0K     root     mmcqd/0boot1
-  824  1   0% S     1      0K      0K     root     mmcqd/0rpmb
-  959  1   0% S     1   2840K    452K     root     /sbin/ueventd
- 1321  1   0% S     1      0K      0K     root     jbd2/mmcblk0p12
- 1322  1   0% S     1      0K      0K     root     ext4-dio-unwrit
- 1327  1   0% S     1      0K      0K     root     ext4-dio-unwrit
- 1331  1   0% S     1      0K      0K     root     jbd2/mmcblk0p17
- 1332  1   0% S     1      0K      0K     root     ext4-dio-unwrit
- 1336  2   0% S     1      0K      0K     root     jbd2/mmcblk0p13
- 1337  1   0% S     1      0K      0K     root     ext4-dio-unwrit
- 1341  2   0% S     1      0K      0K     root     jbd2/mmcblk0p14
- 1342  1   0% S     1      0K      0K     root     ext4-dio-unwrit
- 1346  2   0% S     1      0K      0K     root     jbd2/mmcblk0p15
- 1347  1   0% S     1      0K      0K     root     ext4-dio-unwrit
- 1354  1   0% S     1      0K      0K     root     jbd2/mmcblk0p16
- 1355  1   0% S     1      0K      0K     root     ext4-dio-unwrit
- 1357  2   0% S     1   3908K    300K  fg root     /sbin/healthd
- 1358  2   0% S     1   4108K    952K     root     /system/bin/sh
- 1360  0   0% S     1   4136K    688K     system   /system/bin/servicemanager
- 1361  3   0% S    11  30780K   2616K     root     /system/bin/vold
- 1363  2   0% S     9  26848K   2160K     root     /system/bin/netd
- 1364  0   0% S     1   3840K    832K     root     /system/bin/debuggerd
- 1365  0   0% S     1   5560K    960K     root     /system/bin/debuggerd64
- 1367  3   0% S     2  14060K   3920K  fg drm      /system/bin/drmserver
- 1368  2   0% S    10  91408K  16504K  fg media    /system/bin/mediaserver
- 1369  3   0% S     1   4192K    736K     install  /system/bin/installd
- 1370  2   0% S     1   9260K   2604K  fg keystore /system/bin/keystore
- 1371  2   0% S     2  38916K  10056K  fg root     /system/bin/hiaoservice
- 1372  2   0% S     2  36776K   9140K  fg root     /system/bin/hisysmanager
- 1373  0   0% S     2   8988K   1596K  fg root     /system/bin/hikaraokeservice
- 1374  2   0% S     2   8556K   1312K  fg root     /system/bin/netshared
- 1376  0   0% S     5  12904K   1544K  fg root     /system/bin/dtvloaderserver
- 1377  1   0% S     2   7220K   1584K     root     /system/bin/virtualkeypad
- 1378  0   0% S     3   6316K    664K     root     system/vendor/bin/coocaa_guard
- 1380  2   0% S     6 2036988K  53996K     root     zygote64
- 1381  3   0% S     6 1464508K  45920K     root     zygote
- 1383  0   0% S     5  14644K   1908K     root     /system/bin/android_ir_user
- 1384  0   0% S     1      0K      0K     root     kworker/0:1H
- 1395  2   0% D     1      0K      0K     root     vauido
- 1406  0   0% S     1      0K      0K     root     bt_usb0
- 1416  1   0% S     1   4108K    924K     root     sh
- 1480  0   0% S     2  19380K   4860K  fg root     /system/bin/stbserver
- 1481  1   0% Z     1      0K      0K     root     sh
- 1494  1   0% S     1      0K      0K     root     kworker/1:1H
- 1497  2   0% S     1      0K      0K     root     kworker/2:1H
- 1506  3   0% S     1      0K      0K     root     kworker/3:1H
- 1713  2   0% S     1      0K      0K     root     HIFB_WorkQueque
- 1778  0   0% S     9  15520K   1700K     root     VirtualEvent
- 1782  1   0% S     1   3068K    312K     root     smobsd
- 1893  2   0% S     1      0K      0K     root     hisi-alsa-ao
- 2126  0   0% S     1      0K      0K     root     cfg80211
- 2170  1   0% S    14 1481212K  30164K  fg system   com.hisilicon.android.hiRMService
- 2197  2   0% S    15 1483432K  28000K  fg system   com.skyworth.android.skyRMService
- 2219  0   0% S     1  10968K   3844K     wifi     /system/bin/wpa_supplicant
- 2236  1   0% D     1      0K      0K     root     OmxVdecTask
- 2334  0   0% S     1   4852K    848K     dhcp     /system/bin/dhcpcd
- 2420  2   0% S    40 1554740K  65996K  fg u0_a17   com.coocaa.os.ccosservice
- 2441  0   0% S     1      0K      0K     root     kworker/u9:1
- 2503  1   0% S    36 1562572K  55324K  fg system   com.tianci.push
- 2606  0   0% S    14 1508100K  39272K  fg system   com.coocaa.os.softsettings.provider
- 2716  0   0% D     1      0K      0K     root     daemon_task
- 2719  3   0% S    35 1510180K  33944K  fg bluetoot com.android.bluetooth
- 2763  3   0% S     5   9992K    544K     shell    /sbin/adbd
- 2835  0   0% S    15 1517248K  32376K  bg system   com.skyworthdigital.idtv
- 2855  2   0% S    15 2059072K  36116K  bg u0_a2    android.process.media
- 2886  1   0% S    12 2051368K  28636K  bg u0_a4    com.android.managedprovisioning
- 2917  1   0% S    12 1485536K  27244K  bg system   com.skyworth.bluetoothsoundbarservice
- 3098  0   0% S    12 1476888K  25848K  bg u0_a16   com.coocaa.messageprovider
- 3303  1   0% S    32 1531960K  52032K  fg system   com.skyworth.smarthome_tv
- 3383  0   0% S    26 1534152K  49932K  fg system   com.skyworth.smarthome_tv:aiotlib
- 3432  2   0% S    37 1568948K  85956K  bg system   com.skyworth.setting
- 4127  1   0% S    29 1517644K  44708K  bg u0_a21   com.tianci.user
-12570  0   0% S     1      0K      0K     root     kworker/u8:2
-14024  0   0% S     1      0K      0K     root     kworker/0:0
-15234  2   0% S    14 114084K   8880K     shell    /data/local/tmp/atx-agent
-15320  0   0% S    17 1314260K  32600K     shell    apkagent.cli
-15401  1   0% S    23 2093664K  54808K  fg system   com.github.uiautomator
-16549  0   0% S     1      0K      0K     root     kworker/0:2
-16581  3   0% S     1      0K      0K     root     kworker/3:2
-16582  2   0% S     1      0K      0K     root     kworker/2:1
-19698  1   0% S     1      0K      0K     root     kworker/1:0
-21641  2   0% S     1      0K      0K     root     kworker/2:2
-25746  2   0% S     1      0K      0K     root     kworker/2:0
- 1523  2   0% S     1   4440K   1344K     root     ./system/bin/hidraw_daemon_absolute_3751
-    2  3   0% S     1      0K      0K     root     kthreadd
-    5  0   0% S     1      0K      0K     root     kworker/0:0H
-    7  0   0% S     1      0K      0K     root     migration/0
-    8  0   0% S     1      0K      0K     root     rcu_bh
-   10  1   0% S     1      0K      0K     root     migration/1
-   11  1   0% S     1      0K      0K     root     ksoftirqd/1
-   13  1   0% S     1      0K      0K     root     kworker/1:0H
-   14  2   0% S     1      0K      0K     root     migration/2
-   15  2   0% S     1      0K      0K     root     ksoftirqd/2
-   17  2   0% S     1      0K      0K     root     kworker/2:0H
-   18  3   0% S     1      0K      0K     root     migration/3
-   19  3   0% S     1      0K      0K     root     ksoftirqd/3
-   21  3   0% S     1      0K      0K     root     kworker/3:0H
-   22  1   0% S     1      0K      0K     root     khelper
-   23  1   0% S     1      0K      0K     root     kdevtmpfs
-   36  0   0% S     1      0K      0K     root     kworker/0:1
-   37  1   0% S     1      0K      0K     root     kworker/1:1
-  321  1   0% S     1      0K      0K     root     writeback
-  324  1   0% S     1      0K      0K     root     bioset
-  325  1   0% S     1      0K      0K     root     crypto
-  327  2   0% S     1      0K      0K     root     kblockd
-  334  1   0% S     1      0K      0K     root     ata_sff
-  344  0   0% S     1      0K      0K     root     khubd
-  439  1   0% S     1      0K      0K     root     rpciod
-  450  1   0% S     1      0K      0K     root     kswapd0
-  502  0   0% S     1      0K      0K     root     fsnotify_mark
-  521  1   0% S     1      0K      0K     root     nfsiod
-  527  2   0% S     1      0K      0K     root     cifsiod
+Using fallback suid method
+[H[JMem: 1587980K used, 449344K free, 0K shrd, 77924K buff, 680740K cached
+CPU:  2.3% usr  2.3% sys  0.0% nic 95.2% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 11.61 11.49 11.54 2/1153 15403
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+15402  6053 2000     R     2120  0.1   2  2.3 busybox top -n 1
+  821     2 0        SW       0  0.0   0  2.3 [mmcqd/0]
+15401  1380 1000     S    2044m102.6   3  0.0 com.github.uiautomator
+ 2054  1380 10007    S    2035m102.1   0  0.0 com.android.systemui
+ 6129  1380 1000     S    2013m101.0   0  0.0 com.coocaa.factory
+ 2855  1380 10002    S    2010m100.9   0  0.0 android.process.media
+ 1849  1380 1000     S <  2009m100.8   0  0.0 system_server
+ 2886  1380 10004    S    2003m100.5   1  0.0 com.android.managedprovisioning
+ 1380     1 0        S    1989m 99.8   1  0.0 zygote64
+ 2220  1381 1000     S <  1823m 91.5   0  0.0 com.tianci.movieplatform
+ 2746  1381 1000     S    1606m 80.6   1  0.0 com.tianci.de
+ 4243  1381 1000     S <  1567m 78.6   3  0.0 com.coocaa.educate
+ 3268  1381 1000     S    1546m 77.6   2  0.0 com.skyworth.angel.voice
+ 3432  1381 1000     S    1534m 77.0   1  0.0 com.skyworth.setting
+ 2138  1381 1000     S    1527m 76.7   2  0.0 com.tianci.system
+ 2503  1381 1000     S    1525m 76.6   1  0.0 com.tianci.push
+ 2420  1381 10017    S    1519m 76.2   3  0.0 com.coocaa.os.ccosservice
+ 3383  1381 1000     S    1498m 75.2   0  0.0 com.skyworth.smarthome_tv:aiotlib
+ 3303  1381 1000     S    1495m 75.0   3  0.0 com.skyworth.smarthome_tv
+15675  1381 10013    S    1485m 74.5   3  0.0 com.coocaa.sysreport

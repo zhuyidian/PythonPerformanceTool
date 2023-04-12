@@ -1,0 +1,5 @@
+usr_cpu,sys_cpu,nic_cpu,idle_cpu,io_cpu,irq_cpu,sirq_cpu,process_name,process_cpu
+2.2%,2.2%,0.0%,95.4%,0.0%,0.0%,0.0%,com.tianci.movi,0.0
+2.3%,2.3%,0.0%,95.3%,0.0%,0.0%,0.0%,com.tianci.movi,1.5
+0.0%,2.2%,0.0%,97.7%,0.0%,0.0%,0.0%,com.tianci.movi,0.0
+2.3%,2.3%,0.0%,95.2%,0.0%,0.0%,0.0%,com.tianci.movi,0.0
