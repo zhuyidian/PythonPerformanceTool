@@ -152,7 +152,7 @@ class CpuinfoManager:
         f.close()
 
     def write_to_excel(self,excel_path_name,txt_path_name,analyse_resource_image:AnalyseResourceImage):
-        print(f'write to excel: excel_path_name={excel_path_name},txt_path_name={txt_path_name}')
+        # print(f'write to excel: excel_path_name={excel_path_name},txt_path_name={txt_path_name}')
         file = open(txt_path_name, "a+")
 
         usr_highs,sys_highs,nic_highs,idle_highs,io_highs,irq_highs,sirq_highs = [],[],[],[],[],[],[]

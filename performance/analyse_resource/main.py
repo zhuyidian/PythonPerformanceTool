@@ -1,3 +1,4 @@
+import multiprocessing
 from analyse_resource.cpuinfo_manager import CpuinfoManager
 from analyse_resource.image.analyse_resource_image import AnalyseResourceImage
 from analyse_resource.meminfo_manager import MeminfoManager
@@ -76,6 +77,9 @@ def task_meminfo(name,start_time,tol_time,root_dir,sub_dir):
     print('%s sub process %s is done.' % (name, os.getpid()))
 
 if __name__ == "__main__":
+    # 在此处添加
+    multiprocessing.freeze_support()
+
     # 记录开始时间点
     start_time_str = time.strftime("%y_%m_%d-%H_%M_%S", time.localtime())
 

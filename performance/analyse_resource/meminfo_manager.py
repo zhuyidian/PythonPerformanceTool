@@ -272,7 +272,7 @@ class MeminfoManager:
         f.close()
 
     def write_to_excel(self, excel_path_name, txt_path_name, analyse_resource_image: AnalyseResourceImage):
-        print(f'write to excel: excel_path_name={excel_path_name},txt_path_name={txt_path_name}')
+        # print(f'write to excel: excel_path_name={excel_path_name},txt_path_name={txt_path_name}')
         file = open(txt_path_name, "a+")
 
         total_ram_highs, free_ram_highs, used_ram_highs, lost_ram_highs, free_highs, used_pss_highs, kernel_highs, buffers_highs, \
