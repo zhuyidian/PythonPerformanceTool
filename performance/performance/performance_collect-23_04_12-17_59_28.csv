@@ -1,1 +1,0 @@
-usr_cpu_min,usr_cpu_max,usr_cpu_average,sys_cpu_min,sys_cpu_max,sys_cpu_average,nic_cpu_min,nic_cpu_max,nic_cpu_average,idle_cpu_min,idle_cpu_max,idle_cpu_average,io_cpu_min,io_cpu_max,io_cpu_average,irq_cpu_min,irq_cpu_max,irq_cpu_average,sirq_cpu_min,sirq_cpu_max,sirq_cpu_average,process_name,process_cpu_min,process_cpu_max,process_cpu_average

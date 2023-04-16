@@ -6,6 +6,8 @@ import time
 import csv
 from matplotlib import pyplot as plt
 
+from utils.resource_utils import get_current_package_for_adb
+
 start_time_str = "" # 脚本开始执行时间
 time_list = []  # 测量时间点，画图用
 
@@ -82,6 +84,10 @@ def get_current_appname_for_adb():
         text = name
         f_name.write(text)
     print(f"当前前台运行的包名为: {text}")
+    adb_ps = adb_test.shell("ps | grep com.tianci.movie  | awk '{ print $2 }'")
+    out, err = adb_ps.communicate()
+    ps_info = out.decode('unicode-escape')
+    print(f"当前前台运行的pid为: {ps_info}")
 
 # 获取当前前台进程简化名称（包名）
 # 数据结构: package_name，app_list
@@ -107,38 +113,14 @@ def write_performance_cvs_head_to_file():
 
     headers = []
     headers.append('usr_cpu')
-    # headers.append('usr_cpu_min')
-    # headers.append('usr_cpu_max')
-    # headers.append('usr_cpu_average')
     headers.append('sys_cpu')
-    # headers.append('sys_cpu_min')
-    # headers.append('sys_cpu_max')
-    # headers.append('sys_cpu_average')
     headers.append('nic_cpu')
-    # headers.append('nic_cpu_min')
-    # headers.append('nic_cpu_max')
-    # headers.append('nic_cpu_average')
     headers.append('idle_cpu')
-    # headers.append('idle_cpu_min')
-    # headers.append('idle_cpu_max')
-    # headers.append('idle_cpu_average')
     headers.append('io_cpu')
-    # headers.append('io_cpu_min')
-    # headers.append('io_cpu_max')
-    # headers.append('io_cpu_average')
     headers.append('irq_cpu')
-    # headers.append('irq_cpu_min')
-    # headers.append('irq_cpu_max')
-    # headers.append('irq_cpu_average')
     headers.append('sirq_cpu')
-    # headers.append('sirq_cpu_min')
-    # headers.append('sirq_cpu_max')
-    # headers.append('sirq_cpu_average')
     headers.append('process_name')
     headers.append('process_cpu')
-    # headers.append('process_cpu_min')
-    # headers.append('process_cpu_max')
-    # headers.append('process_cpu_average')
     with open(performance_filename, 'w+', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=headers)
         writer.writeheader()
@@ -300,35 +282,43 @@ def do_calculate_cpu_collect(type,highs_float):
         system_usrcpu_collect_list.append(low_value)
         system_usrcpu_collect_list.append(high_value)
         system_usrcpu_collect_list.append(average_value)
+        print(f'system_usrcpu_collect_list:{system_usrcpu_collect_list}')
     elif type == 'sys_cpu':
         system_syscpu_collect_list.append(low_value)
         system_syscpu_collect_list.append(high_value)
         system_syscpu_collect_list.append(average_value)
+        print(f'system_syscpu_collect_list:{system_syscpu_collect_list}')
     elif type == 'nic_cpu':
         system_niccpu_collect_list.append(low_value)
         system_niccpu_collect_list.append(high_value)
         system_niccpu_collect_list.append(average_value)
+        print(f'system_niccpu_collect_list:{system_niccpu_collect_list}')
     elif type == 'idle_cpu':
         system_idlecpu_collect_list.append(low_value)
         system_idlecpu_collect_list.append(high_value)
         system_idlecpu_collect_list.append(average_value)
+        print(f'system_idlecpu_collect_list:{system_idlecpu_collect_list}')
     elif type == 'io_cpu':
         system_iocpu_collect_list.append(low_value)
         system_iocpu_collect_list.append(high_value)
         system_iocpu_collect_list.append(average_value)
+        print(f'system_iocpu_collect_list:{system_iocpu_collect_list}')
     elif type == 'irq_cpu':
         system_irqcpu_collect_list.append(low_value)
         system_irqcpu_collect_list.append(high_value)
         system_irqcpu_collect_list.append(average_value)
+        print(f'system_irqcpu_collect_list:{system_irqcpu_collect_list}')
     elif type == 'sirq_cpu':
         system_sirqcpu_collect_list.append(low_value)
         system_sirqcpu_collect_list.append(high_value)
         system_sirqcpu_collect_list.append(average_value)
+        print(f'system_sirqcpu_collect_list:{system_sirqcpu_collect_list}')
     else:
         process_cpu_collect_list.append(type)
         process_cpu_collect_list.append(low_value)
         process_cpu_collect_list.append(high_value)
         process_cpu_collect_list.append(average_value)
+        print(f'process_cpu_collect_list:{process_cpu_collect_list}')
 
 # 控制监测时间
 def exe_process_time_control():
@@ -362,7 +352,16 @@ def write_performance_cvs_cpuinfo_to_file():
 # 将数值写入csv，用于汇总
 def write_performance_collect_cvs_cpuinfo_to_file():
     global performance_collect_filename
-
+    with open(performance_collect_filename, 'a+', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow([system_usrcpu_collect_list[0], system_usrcpu_collect_list[1], system_usrcpu_collect_list[2],\
+                         system_syscpu_collect_list[0], system_syscpu_collect_list[1], system_syscpu_collect_list[2],\
+                         system_niccpu_collect_list[0], system_niccpu_collect_list[1], system_niccpu_collect_list[2],\
+                         system_idlecpu_collect_list[0], system_idlecpu_collect_list[1], system_idlecpu_collect_list[2],\
+                         system_iocpu_collect_list[0], system_iocpu_collect_list[1], system_iocpu_collect_list[2],\
+                         system_irqcpu_collect_list[0], system_irqcpu_collect_list[1], system_irqcpu_collect_list[2],\
+                         system_sirqcpu_collect_list[0], system_sirqcpu_collect_list[1], system_sirqcpu_collect_list[2],\
+                         process_cpu_collect_list[0], process_cpu_collect_list[1], process_cpu_collect_list[2],process_cpu_collect_list[3]])
 
 # 绘制折线图，生成测试报告
 # def do_mapping():
@@ -527,6 +526,8 @@ if __name__ == "__main__":
     create_dir_or_file(performance_child_dir)
 
     get_current_appname_for_adb()
+    pid,package_name = get_current_package_for_adb()
+
     get_current_applist_for_file()
     write_performance_cvs_head_to_file()
     write_performance_collect_cvs_head_to_file()
@@ -535,7 +536,8 @@ if __name__ == "__main__":
     start_time = time.time()
 
     # 设定时间内的CPU信息
-    exe_process_time_control()
-
-    write_performance_cvs_cpuinfo_to_file()
-    do_mapping()
+    # exe_process_time_control()
+    #
+    # write_performance_cvs_cpuinfo_to_file()
+    # do_mapping()
+    # write_performance_collect_cvs_cpuinfo_to_file()

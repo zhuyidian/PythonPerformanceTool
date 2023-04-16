@@ -1,25 +1,0 @@
-Using fallback suid method
-[H[JMem: 1587980K used, 449344K free, 0K shrd, 77924K buff, 680740K cached
-CPU:  2.3% usr  2.3% sys  0.0% nic 95.2% idle  0.0% io  0.0% irq  0.0% sirq
-Load average: 11.61 11.49 11.54 2/1153 15403
-[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
-15402  6053 2000     R     2120  0.1   2  2.3 busybox top -n 1
-  821     2 0        SW       0  0.0   0  2.3 [mmcqd/0]
-15401  1380 1000     S    2044m102.6   3  0.0 com.github.uiautomator
- 2054  1380 10007    S    2035m102.1   0  0.0 com.android.systemui
- 6129  1380 1000     S    2013m101.0   0  0.0 com.coocaa.factory
- 2855  1380 10002    S    2010m100.9   0  0.0 android.process.media
- 1849  1380 1000     S <  2009m100.8   0  0.0 system_server
- 2886  1380 10004    S    2003m100.5   1  0.0 com.android.managedprovisioning
- 1380     1 0        S    1989m 99.8   1  0.0 zygote64
- 2220  1381 1000     S <  1823m 91.5   0  0.0 com.tianci.movieplatform
- 2746  1381 1000     S    1606m 80.6   1  0.0 com.tianci.de
- 4243  1381 1000     S <  1567m 78.6   3  0.0 com.coocaa.educate
- 3268  1381 1000     S    1546m 77.6   2  0.0 com.skyworth.angel.voice
- 3432  1381 1000     S    1534m 77.0   1  0.0 com.skyworth.setting
- 2138  1381 1000     S    1527m 76.7   2  0.0 com.tianci.system
- 2503  1381 1000     S    1525m 76.6   1  0.0 com.tianci.push
- 2420  1381 10017    S    1519m 76.2   3  0.0 com.coocaa.os.ccosservice
- 3383  1381 1000     S    1498m 75.2   0  0.0 com.skyworth.smarthome_tv:aiotlib
- 3303  1381 1000     S    1495m 75.0   3  0.0 com.skyworth.smarthome_tv
-15675  1381 10013    S    1485m 74.5   3  0.0 com.coocaa.sysreport

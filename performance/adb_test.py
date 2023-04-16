@@ -4,6 +4,7 @@ import subprocess
 from tkinter import ttk
 import tkinter as tk
 import time
+import uiautomator2 as u2
 
 serial_num = ""
 command = ""  # 判断是否设置环境变量ANDROID_HOME
@@ -206,16 +207,17 @@ if __name__ == "__main__":
         print (os.popen('top -n 2 -d 0.02').read())
         time.sleep(time2sleep)
     """
-    top_info = shell("busybox top -n 1")
-    out,err = top_info.communicate()
-    out_info = out.decode('unicode-escape')
-    print(out_info)
-    with open('top.txt', 'w', encoding='utf-8') as f:
-        f.write(out_info)
+    # top_info = shell("busybox top -n 1")
+    # out,err = top_info.communicate()
+    # out_info = out.decode('unicode-escape')
+    # print(out_info)
+    # with open('top.txt', 'w', encoding='utf-8') as f:
+    #     f.write(out_info)
     # lines = []
     # lines = out_info.split('\n')
     # print(f'CPU: {lines[2]}')
     # with open('top.txt', 'w', encoding='utf-8') as f:
     #     f.write(lines[2])
-
-
+    d = u2.connect()
+    output, exit_code = d.shell("busybox top -n 1", timeout=60)
+    print(f'u2: output={output}')
