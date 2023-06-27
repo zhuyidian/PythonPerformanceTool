@@ -1,0 +1,1848 @@
+[H[JMem: 446192K used, 16936K free, 0K shrd, 764K buff, 63824K cached
+CPU:  29% usr  33% sys   0% nic  33% idle   0% io   0% irq   4% sirq
+Load average: 10.70 8.71 5.70 6/768 13670
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 1347   743 default  S <   349m  77%   1  23% system_server
+13233   743 default  R     489m 108%   2  16% com.ccos.tv.homepage
+ 2849   743 default  S     384m  85%   1   5% com.tianci.de
+13667  1439 2000     R     1160   0%   1   5% busybox top -n 1
+  742     1 default  S <  39868   9%   2   4% /system/bin/surfaceflinger
+ 2896   743 default  S     559m 123%   3   2% com.tianci.movieplatform
+ 1595   743 default  S     337m  75%   1   2% com.tianci.system
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+ 1439     1 2000     S     6648   1%   3   2% /sbin/adbd
+  457     3 root     SW       0   0%   3   2% [mmcqd/0]
+   10     3 root     SW       0   0%   3   2% [rcu_preempt]
+ 1612     3 root     SW       0   0%   2   2% [RTW_CMD_THREAD]
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 3901   743 10018    S     314m  69%   0   0% com.tianci.user
+ 2474   743 10015    S     308m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   3   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   0   0% com.tianci.push
+ 3951   743 10014    S     295m  65%   3   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   2   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+[H[JMem: 438468K used, 24660K free, 0K shrd, 476K buff, 54388K cached
+CPU:  18% usr  28% sys   0% nic  28% idle  22% io   0% irq   1% sirq
+Load average: 10.70 8.71 5.70 4/764 13700
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     489m 108%   1  13% com.ccos.tv.homepage
+  457     3 root     SW       0   0%   3   9% [mmcqd/0]
+ 2896   743 default  S     559m 123%   3   2% com.tianci.movieplatform
+ 2849   743 default  S     382m  84%   2   2% com.tianci.de
+ 1347   743 default  S <   349m  77%   2   2% system_server
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+13691  1439 2000     R     1160   0%   3   2% busybox top -n 1
+   21     3 root     SW       0   0%   3   2% [ksoftirqd/3]
+ 1595   743 default  S     337m  75%   1   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 3901   743 10018    S     314m  69%   0   0% com.tianci.user
+ 2474   743 10015    S     308m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   3   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   0   0% com.tianci.push
+ 3951   743 10014    S     295m  65%   3   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   2   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   2   0% com.coocaa.messageprovider
+[H[JMem: 440724K used, 22404K free, 0K shrd, 592K buff, 61916K cached
+CPU:  60% usr  30% sys   0% nic   1% idle   0% io   0% irq   7% sirq
+Load average: 10.70 8.71 5.70 6/767 13735
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     480m 106%   1  40% com.ccos.tv.homepage
+ 1347   743 default  S <   349m  77%   3  25% system_server
+ 1439     1 2000     S     6648   1%   2   8% /sbin/adbd
+ 2014  1439 2000     S     1756   0%   2   8% logcat -v long
+ 2849   743 default  S     383m  85%   3   6% com.tianci.de
+ 1149  1130 root     S    41904   9%   3   4% TvServer 0 270610432
+13732  1439 2000     R     1160   0%   0   4% busybox top -n 1
+ 1025     3 root     SW       0   0%   0   4% [kworker/0:2]
+  457     3 root     SW       0   0%   0   2% [mmcqd/0]
+ 2896   743 default  S     559m 123%   0   0% com.tianci.movieplatform
+ 1595   743 default  S     337m  75%   1   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 3901   743 10018    S     314m  69%   0   0% com.tianci.user
+ 2474   743 10015    S     308m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   3   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   0   0% com.tianci.push
+ 3951   743 10014    S     295m  65%   3   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   2   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+[H[JMem: 442364K used, 20764K free, 0K shrd, 464K buff, 56036K cached
+CPU:  50% usr  41% sys   0% nic   1% idle   3% io   0% irq   3% sirq
+Load average: 10.16 8.63 5.69 5/769 13783
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  S     485m 107%   1  46% com.ccos.tv.homepage
+ 2014  1439 2000     R     2148   0%   1   6% logcat -v long
+ 2849   743 default  S     387m  85%   3   5% com.tianci.de
+13768  1439 2000     R     1152   0%   0   5% busybox top -n 1
+  457     3 root     SW       0   0%   2   5% [mmcqd/0]
+ 1149  1130 root     S    41904   9%   3   3% TvServer 0 270610432
+ 1439     1 2000     S     6648   1%   1   3% /sbin/adbd
+ 2896   743 default  S     559m 123%   0   2% com.tianci.movieplatform
+ 1612     3 root     SW       0   0%   0   2% [RTW_CMD_THREAD]
+   30     3 root     SW       0   0%   1   2% [kworker/1:1]
+   17     3 root     SW       0   0%   2   2% [ksoftirqd/2]
+ 1347   743 default  S <   349m  77%   0   0% system_server
+ 1595   743 default  S     337m  75%   2   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 3901   743 10018    S     314m  69%   0   0% com.tianci.user
+ 2474   743 10015    S     309m  68%   2   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   3   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   0   0% com.tianci.push
+ 3951   743 10014    S     295m  65%   3   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   2   0% android.process.media
+[H[JMem: 438232K used, 24896K free, 0K shrd, 464K buff, 62088K cached
+CPU:  56% usr  22% sys   0% nic  16% idle   0% io   0% irq   3% sirq
+Load average: 10.16 8.63 5.69 7/770 13812
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     472m 104%   1  38% com.ccos.tv.homepage
+ 1347   743 default  S <   349m  77%   3  25% system_server
+ 1439     1 2000     R     6648   1%   3   6% /sbin/adbd
+13810  1439 2000     R     1160   0%   0   6% busybox top -n 1
+ 2896   743 default  S     559m 123%   0   2% com.tianci.movieplatform
+ 2849   743 default  S     386m  85%   3   2% com.tianci.de
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+ 2014  1439 2000     R      924   0%   3   2% logcat -v long
+ 1377     3 root     SW       0   0%   0   2% [kworker/u:3]
+ 1595   743 default  S     337m  75%   3   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 3901   743 10018    S     314m  69%   0   0% com.tianci.user
+ 2474   743 10015    S     309m  68%   0   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   3   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   0   0% com.tianci.push
+ 3951   743 10014    S     295m  65%   3   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   2   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+[H[JMem: 435300K used, 27828K free, 0K shrd, 496K buff, 57016K cached
+CPU:  50% usr  40% sys   0% nic   1% idle   1% io   0% irq   5% sirq
+Load average: 10.16 8.63 5.69 8/765 13851
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     473m 104%   1  48% com.ccos.tv.homepage
+  349     3 root     RW       0   0%   0  11% [kswapd0]
+ 1439     1 2000     S     5624   1%   2   7% /sbin/adbd
+ 2014  1439 2000     S      924   0%   2   7% logcat -v long
+ 2849   743 default  S     383m  85%   3   5% com.tianci.de
+  457     3 root     SW       0   0%   3   5% [mmcqd/0]
+ 1149  1130 root     S    41904   9%   3   4% TvServer 0 270610432
+13849  1439 2000     R     1152   0%   0   4% busybox top -n 1
+ 2896   743 default  S     559m 123%   0   2% com.tianci.movieplatform
+   13     3 root     SW       0   0%   1   2% [ksoftirqd/1]
+13448     3 root     SW       0   0%   3   2% [kworker/3:0]
+ 1347   743 default  S <   349m  77%   3   0% system_server
+ 1595   743 default  S     337m  75%   3   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 3901   743 10018    S     314m  69%   0   0% com.tianci.user
+ 2474   743 10015    S     309m  68%   0   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   3   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   0   0% com.tianci.push
+ 3951   743 10014    S     295m  65%   3   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   2   0% android.process.media
+[H[JMem: 433100K used, 30028K free, 0K shrd, 508K buff, 54684K cached
+CPU:  44% usr  19% sys   0% nic  36% idle   0% io   0% irq   0% sirq
+Load average: 11.43 8.92 5.80 5/767 13874
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  S     472m 104%   3  26% com.ccos.tv.homepage
+ 1347   743 default  S <   349m  77%   0  24% system_server
+ 2849   743 default  S     383m  85%   3   4% com.tianci.de
+13871  1439 2000     R     1160   0%   2   4% busybox top -n 1
+ 1575   743 default  S     275m  61%   2   2% com.dunn.instrument
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+ 1439     1 2000     S     6648   1%   2   2% /sbin/adbd
+ 2896   743 default  S     559m 123%   0   0% com.tianci.movieplatform
+ 1595   743 default  S     337m  75%   3   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 3901   743 10018    S     314m  69%   0   0% com.tianci.user
+ 2474   743 10015    S     309m  68%   0   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   3   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   0   0% com.tianci.push
+ 3951   743 10014    S     295m  65%   3   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   2   0% android.process.media
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   2   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+[H[JMem: 429804K used, 33324K free, 0K shrd, 512K buff, 56644K cached
+CPU:  29% usr  23% sys   0% nic  41% idle   3% io   0% irq   1% sirq
+Load average: 11.43 8.92 5.80 6/765 13900
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  D     460m 102%   0  18% com.ccos.tv.homepage
+ 2014  1439 2000     S     1124   0%   1   6% logcat -v long
+ 1439     1 2000     S     5624   1%   0   4% /sbin/adbd
+13899  1439 2000     R     1152   0%   2   4% busybox top -n 1
+  457     3 root     RW       0   0%   3   4% [mmcqd/0]
+ 2849   743 default  S     383m  85%   3   2% com.tianci.de
+   31     3 root     SW       0   0%   2   2% [kworker/2:1]
+ 2896   743 default  S     559m 123%   0   0% com.tianci.movieplatform
+ 1347   743 default  S <   349m  77%   0   0% system_server
+ 1595   743 default  S     337m  75%   3   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 3901   743 10018    S     314m  69%   0   0% com.tianci.user
+ 2474   743 10015    S     309m  68%   0   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   3   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   0   0% com.tianci.push
+ 3951   743 10014    S     295m  65%   3   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   2   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+[H[JMem: 442816K used, 20312K free, 0K shrd, 536K buff, 55252K cached
+CPU:  58% usr  37% sys   0% nic   0% idle   0% io   0% irq   3% sirq
+Load average: 11.43 8.92 5.80 5/767 13920
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  S     473m 105%   2  37% com.ccos.tv.homepage
+ 1347   743 default  S <   349m  77%   0  23% system_server
+ 1439     1 2000     S     6648   1%   2   9% /sbin/adbd
+ 2014  1439 2000     S      884   0%   2   9% logcat -v long
+  349     3 root     DW       0   0%   0   9% [kswapd0]
+   31     3 root     SW       0   0%   2   4% [kworker/2:1]
+13919  1439 2000     R     1160   0%   1   2% busybox top -n 1
+   10     3 root     SW       0   0%   0   2% [rcu_preempt]
+ 2896   743 default  S     559m 123%   0   0% com.tianci.movieplatform
+ 2849   743 default  R     383m  85%   3   0% com.tianci.de
+ 1595   743 default  S     337m  75%   3   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 3901   743 10018    S     314m  69%   0   0% com.tianci.user
+ 2474   743 10015    S     309m  68%   0   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   3   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   0   0% com.tianci.push
+ 3951   743 10014    S     295m  65%   3   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   2   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+[H[JMem: 430732K used, 32396K free, 0K shrd, 528K buff, 54240K cached
+CPU:  49% usr  19% sys   0% nic  25% idle   0% io   0% irq   5% sirq
+Load average: 11.43 8.92 5.80 3/765 13947
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  S     456m 101%   1  44% com.ccos.tv.homepage
+ 2014  1439 2000     R     5748   1%   3  11% logcat -v long
+ 2849   743 default  S     383m  85%   0   4% com.tianci.de
+ 1149  1130 root     S    41904   9%   3   4% TvServer 0 270610432
+  742     1 default  S <  39788   9%   1   4% /system/bin/surfaceflinger
+13944  1439 2000     R     1152   0%   0   4% busybox top -n 1
+ 2896   743 default  S     558m 123%   0   2% com.tianci.movieplatform
+   10     3 root     SW       0   0%   0   2% [rcu_preempt]
+ 1347   743 default  S <   348m  77%   0   0% system_server
+ 1595   743 default  S     338m  75%   3   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 3901   743 10018    S     314m  69%   0   0% com.tianci.user
+ 2474   743 10015    S     309m  68%   0   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   3   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   0   0% com.tianci.push
+ 3951   743 10014    S     295m  65%   3   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   2   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+[H[JMem: 430124K used, 33004K free, 0K shrd, 528K buff, 55912K cached
+CPU:  44% usr  24% sys   0% nic  24% idle   0% io   0% irq   8% sirq
+Load average: 11.32 8.94 5.82 5/760 13971
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     456m 101%   0  30% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   0  24% system_server
+ 2849   743 default  S     383m  85%   3   4% com.tianci.de
+13969  1439 2000     R     1160   0%   3   4% busybox top -n 1
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+ 1439     1 2000     S     6648   1%   0   2% /sbin/adbd
+ 2014  1439 2000     S     1180   0%   0   2% logcat -v long
+13448     3 root     SW       0   0%   3   2% [kworker/3:0]
+ 2896   743 default  S     552m 122%   0   0% com.tianci.movieplatform
+ 1595   743 default  S     338m  75%   3   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 3901   743 10018    S     314m  69%   0   0% com.tianci.user
+ 2474   743 10015    S     308m  68%   0   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   3   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   0   0% com.tianci.push
+ 3951   743 10014    S     295m  65%   3   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   2   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+[H[JMem: 430208K used, 32920K free, 0K shrd, 536K buff, 56732K cached
+CPU:  54% usr  14% sys   0% nic  29% idle   0% io   0% irq   2% sirq
+Load average: 11.32 8.94 5.82 6/757 14004
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     455m 100%   1  47% com.ccos.tv.homepage
+ 2849   743 default  S     383m  85%   0   4% com.tianci.de
+ 1439     1 2000     S     5624   1%   0   4% /sbin/adbd
+14003  1439 2000     R     1152   0%   3   4% busybox top -n 1
+ 1347   743 default  S <   348m  77%   3   2% system_server
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+  742     1 default  S <  39788   9%   0   2% /system/bin/surfaceflinger
+ 2014  1439 2000     S     1676   0%   0   2% logcat -v long
+   31     3 root     SW       0   0%   2   2% [kworker/2:1]
+   30     3 root     SW       0   0%   1   2% [kworker/1:1]
+ 2896   743 default  S     551m 122%   0   0% com.tianci.movieplatform
+ 1595   743 default  S     338m  75%   3   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 3901   743 10018    S     314m  69%   0   0% com.tianci.user
+ 2474   743 10015    S     308m  68%   0   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   3   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   0   0% com.tianci.push
+ 3951   743 10014    S     295m  65%   3   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   2   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+[H[JMem: 434868K used, 28260K free, 0K shrd, 536K buff, 59764K cached
+CPU:  72% usr  23% sys   3% nic   0% idle   0% io   0% irq   0% sirq
+Load average: 11.32 8.94 5.82 6/760 14029
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  S     457m 101%   2  51% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   3  31% system_server
+ 2849   743 default  R     383m  85%   0   2% com.tianci.de
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+14024  1439 2000     R     1160   0%   0   2% busybox top -n 1
+ 1612     3 root     SW       0   0%   0   2% [RTW_CMD_THREAD]
+ 2896   743 default  S     551m 122%   0   0% com.tianci.movieplatform
+ 1595   743 default  S     338m  75%   3   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 3901   743 10018    S     314m  69%   0   0% com.tianci.user
+ 2474   743 10015    S     309m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   3   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   0   0% com.tianci.push
+ 3951   743 10014    S     295m  65%   3   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   2   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   2   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+[H[JMem: 437012K used, 26116K free, 0K shrd, 428K buff, 57020K cached
+CPU:  28% usr  25% sys   0% nic  42% idle   3% io   0% irq   0% sirq
+Load average: 10.73 8.86 5.81 4/758 14055
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     462m 102%   1  27% com.ccos.tv.homepage
+14053  1439 2000     R     1152   0%   0   4% busybox top -n 1
+ 2896   743 default  S     551m 122%   0   2% com.tianci.movieplatform
+ 2849   743 default  S     383m  85%   0   2% com.tianci.de
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+ 1439     1 2000     S     5624   1%   1   2% /sbin/adbd
+  457     3 root     RW       0   0%   2   2% [mmcqd/0]
+ 1347   743 default  S <   348m  77%   3   0% system_server
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 3901   743 10018    S     314m  69%   0   0% com.tianci.user
+ 2474   743 10015    S     309m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   3   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   0   0% com.tianci.push
+ 3951   743 10014    S     295m  65%   3   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   2   0% android.process.media
+ 1575   743 default  S     275m  61%   3   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   2   0% com.coocaa.messageprovider
+[H[JMem: 440604K used, 22524K free, 0K shrd, 464K buff, 60592K cached
+CPU:  60% usr  36% sys   0% nic   1% idle   0% io   0% irq   1% sirq
+Load average: 10.73 8.86 5.81 3/757 14072
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     461m 102%   0  45% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   3  21% system_server
+ 1439     1 2000     S     6648   1%   2   7% /sbin/adbd
+ 2014  1439 2000     S     1676   0%   1   5% logcat -v long
+  457     3 root     SW       0   0%   3   5% [mmcqd/0]
+14071  1439 2000     R     1160   0%   1   3% busybox top -n 1
+ 2849   743 default  S     383m  85%   3   2% com.tianci.de
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+   30     3 root     SW       0   0%   1   2% [kworker/1:1]
+ 2896   743 default  S     551m 122%   0   0% com.tianci.movieplatform
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 3901   743 10018    S     314m  69%   0   0% com.tianci.user
+ 2474   743 10015    S     309m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   3   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   0   0% com.tianci.push
+ 3951   743 10014    S     295m  65%   3   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   2   0% android.process.media
+ 1575   743 default  S     275m  61%   3   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+[H[JMem: 426332K used, 36796K free, 0K shrd, 320K buff, 47160K cached
+CPU:  58% usr  28% sys   0% nic   8% idle   4% io   0% irq   2% sirq
+Load average: 10.73 8.86 5.81 10/736 14100
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     481m 106%   0  42% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   2  23% system_server
+ 1439     1 2000     S     6648   1%   2   8% /sbin/adbd
+ 2014  1439 2000     S     2124   0%   1   4% logcat -v long
+14097  1439 2000     R     1152   0%   1   4% busybox top -n 1
+ 2849   743 default  S     383m  85%   0   2% com.tianci.de
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+  457     3 root     SW       0   0%   1   2% [mmcqd/0]
+   30     3 root     SW       0   0%   1   2% [kworker/1:1]
+ 2896   743 default  S     551m 122%   0   0% com.tianci.movieplatform
+ 1595   743 default  S     338m  75%   2   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   1   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     295m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+[H[JMem: 432720K used, 30408K free, 0K shrd, 320K buff, 47968K cached
+CPU:  18% usr  27% sys   0% nic  54% idle   0% io   0% irq   0% sirq
+Load average: 10.99 8.94 5.85 2/733 14122
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  S     497m 110%   1  10% com.ccos.tv.homepage
+  742     1 default  S <  40812   9%   1   4% /system/bin/surfaceflinger
+ 2896   743 default  S     549m 121%   0   2% com.tianci.movieplatform
+ 2849   743 default  S     383m  85%   0   2% com.tianci.de
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+ 1439     1 2000     S     5624   1%   1   2% /sbin/adbd
+14115  1439 2000     R     1152   0%   2   2% busybox top -n 1
+ 1347   743 default  S <   348m  77%   2   0% system_server
+ 1595   743 default  S     338m  75%   2   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   1   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     295m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+[H[JMem: 428008K used, 35120K free, 0K shrd, 440K buff, 49444K cached
+CPU:  48% usr  34% sys   0% nic  15% idle   1% io   0% irq   0% sirq
+Load average: 10.99 8.94 5.85 3/734 14157
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     489m 108%   3  40% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   3  15% system_server
+ 2849   743 default  S     383m  85%   0   4% com.tianci.de
+ 1439     1 2000     S     6648   1%   1   4% /sbin/adbd
+ 2014  1439 2000     S     2124   0%   3   4% logcat -v long
+14156  1439 2000     R     1152   0%   2   4% busybox top -n 1
+ 1595   743 default  S     338m  75%   2   2% com.tianci.system
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+  742     1 default  S <  39788   9%   3   2% /system/bin/surfaceflinger
+  457     3 root     SW       0   0%   3   2% [mmcqd/0]
+ 1377     3 root     SW       0   0%   0   2% [kworker/u:3]
+   31     3 root     SW       0   0%   2   2% [kworker/2:1]
+ 2896   743 default  S     549m 121%   3   0% com.tianci.movieplatform
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   1   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     295m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+[H[JMem: 433348K used, 29780K free, 0K shrd, 440K buff, 52108K cached
+CPU:   5% usr  13% sys   0% nic  81% idle   0% io   0% irq   0% sirq
+Load average: 10.99 8.94 5.85 2/731 14193
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 2896   743 default  S     549m 121%   3   2% com.tianci.movieplatform
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+14191  1439 2000     R     1152   0%   1   2% busybox top -n 1
+13233   743 default  S     494m 109%   3   0% com.ccos.tv.homepage
+ 2849   743 default  S     383m  85%   0   0% com.tianci.de
+ 1347   743 default  S <   348m  77%   3   0% system_server
+ 1595   743 default  S     338m  75%   2   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   1   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+  746     1 1013     S    40956   9%   3   0% /system/bin/mediaserver
+  742     1 default  S <  39788   9%   2   0% /system/bin/surfaceflinger
+[H[JMem: 431436K used, 31692K free, 0K shrd, 544K buff, 55108K cached
+CPU:  48% usr  38% sys   0% nic  11% idle   0% io   0% irq   1% sirq
+Load average: 10.83 8.94 5.87 6/733 14219
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  S     479m 106%   3  31% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   0  24% system_server
+ 1439     1 2000     S     6648   1%   0   7% /sbin/adbd
+ 2014  1439 2000     S     2124   0%   0   6% logcat -v long
+  457     3 root     RW       0   0%   0   6% [mmcqd/0]
+14217  1439 2000     R     1152   0%   1   4% busybox top -n 1
+ 2849   743 default  S     383m  85%   0   2% com.tianci.de
+ 1736   743 default  S     300m  66%   2   2% com.tianci.push
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+  742     1 default  S <  39788   9%   1   2% /system/bin/surfaceflinger
+    7     3 root     SW       0   0%   0   2% [kworker/u:0]
+ 1025     3 root     SW       0   0%   0   2% [kworker/0:2]
+ 2896   743 default  S     549m 121%   3   0% com.tianci.movieplatform
+ 1595   743 default  S     338m  75%   2   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   1   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+[H[JMem: 438212K used, 24916K free, 0K shrd, 552K buff, 56388K cached
+CPU:   5% usr  11% sys   0% nic  83% idle   0% io   0% irq   0% sirq
+Load average: 10.83 8.94 5.87 2/730 14246
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 2849   743 default  S     383m  85%   1   2% com.tianci.de
+  742     1 default  S <  39788   9%   2   2% /system/bin/surfaceflinger
+14244  1439 2000     R     1152   0%   2   2% busybox top -n 1
+ 2896   743 default  S     549m 121%   3   0% com.tianci.movieplatform
+13233   743 default  S     483m 107%   3   0% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   3   0% system_server
+ 1595   743 default  S     338m  75%   2   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     308m  68%   1   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+ 1149  1130 root     S    41904   9%   3   0% TvServer 0 270610432
+  746     1 1013     S    40956   9%   3   0% /system/bin/mediaserver
+[H[JMem: 440168K used, 22960K free, 0K shrd, 552K buff, 57192K cached
+CPU:  70% usr  27% sys   0% nic   1% idle   0% io   0% irq   0% sirq
+Load average: 10.83 8.94 5.87 9/732 14270
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  D     482m 106%   3  59% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   3  16% system_server
+ 2849   743 default  S     383m  85%   1   3% com.tianci.de
+ 1439     1 2000     S     6648   1%   2   3% /sbin/adbd
+14268  1439 2000     R     1152   0%   1   3% busybox top -n 1
+  457     3 root     SW       0   0%   1   3% [mmcqd/0]
+ 2896   743 default  S     549m 121%   3   2% com.tianci.movieplatform
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+  742     1 default  S <  39788   9%   1   2% /system/bin/surfaceflinger
+ 2014  1439 2000     S     2124   0%   2   2% logcat -v long
+   31     3 root     SW       0   0%   2   2% [kworker/2:1]
+   21     3 root     SW       0   0%   3   2% [ksoftirqd/3]
+ 1595   743 default  S     338m  75%   2   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     308m  68%   1   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+[H[JMem: 432576K used, 30552K free, 0K shrd, 520K buff, 57876K cached
+CPU:  42% usr  22% sys   0% nic  30% idle   0% io   0% irq   6% sirq
+Load average: 10.83 8.94 5.87 3/730 14309
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     467m 103%   2  28% com.ccos.tv.homepage
+ 1439     1 2000     S     5624   1%   3   8% /sbin/adbd
+ 2849   743 default  S     383m  85%   2   6% com.tianci.de
+ 2014  1439 2000     R     2124   0%   3   6% logcat -v long
+ 2896   743 default  S     549m 121%   2   2% com.tianci.movieplatform
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+  742     1 default  S <  39788   9%   2   2% /system/bin/surfaceflinger
+14305  1439 2000     R     1152   0%   1   2% busybox top -n 1
+ 1612     3 root     SW       0   0%   0   2% [RTW_CMD_THREAD]
+ 1025     3 root     SW       0   0%   0   2% [kworker/0:2]
+ 1347   743 default  S <   348m  77%   2   0% system_server
+ 1595   743 default  S     338m  75%   2   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   1   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+[H[JMem: 439924K used, 23204K free, 0K shrd, 536K buff, 61236K cached
+CPU:  38% usr  18% sys   0% nic  40% idle   0% io   0% irq   1% sirq
+Load average: 11.01 9.01 5.91 4/733 14337
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  S     477m 105%   3  20% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   2  20% system_server
+ 2849   743 default  S     383m  85%   2   2% com.tianci.de
+ 1439     1 2000     S     6648   1%   0   2% /sbin/adbd
+14335  1439 2000     R     1152   0%   0   2% busybox top -n 1
+ 2896   743 default  S     550m 121%   2   0% com.tianci.movieplatform
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+ 1149  1130 root     S    41904   9%   3   0% TvServer 0 270610432
+  746     1 1013     S    40956   9%   3   0% /system/bin/mediaserver
+[H[JMem: 438632K used, 24496K free, 0K shrd, 536K buff, 63352K cached
+CPU:  46% usr  32% sys   0% nic  16% idle   0% io   0% irq   4% sirq
+Load average: 11.01 9.01 5.91 5/731 14371
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  D     473m 104%   0  34% com.ccos.tv.homepage
+ 2014  1439 2000     S     2124   0%   0   9% logcat -v long
+ 1439     1 2000     S     5624   1%   0   8% /sbin/adbd
+ 2849   743 default  S     383m  85%   2   6% com.tianci.de
+  457     3 root     RW       0   0%   3   6% [mmcqd/0]
+ 2896   743 default  S     550m 121%   2   4% com.tianci.movieplatform
+ 1149  1130 root     S    41904   9%   3   4% TvServer 0 270610432
+14368  1439 2000     R     1152   0%   2   4% busybox top -n 1
+   30     3 root     SW       0   0%   1   4% [kworker/1:1]
+ 1347   743 default  S <   348m  77%   2   2% system_server
+  742     1 default  S <  39788   9%   3   2% /system/bin/surfaceflinger
+   17     3 root     SW       0   0%   2   2% [ksoftirqd/2]
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+[H[JMem: 429608K used, 33520K free, 0K shrd, 512K buff, 52044K cached
+CPU:  55% usr  25% sys   0% nic   6% idle   8% io   0% irq   4% sirq
+Load average: 11.01 9.01 5.91 5/735 14391
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     479m 106%   3  32% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   2  28% system_server
+ 2014  1439 2000     R     2124   0%   2  11% logcat -v long
+ 1439     1 2000     S     6648   1%   2   9% /sbin/adbd
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+14390  1439 2000     R     1152   0%   1   2% busybox top -n 1
+   31     3 root     SW       0   0%   2   2% [kworker/2:1]
+ 2896   743 default  S     550m 121%   2   0% com.tianci.movieplatform
+ 2849   743 default  S     383m  85%   2   0% com.tianci.de
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+[H[JMem: 430796K used, 32332K free, 0K shrd, 328K buff, 47752K cached
+CPU:  50% usr  22% sys   0% nic  22% idle   1% io   0% irq   1% sirq
+Load average: 11.41 9.13 5.96 3/733 14419
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     484m 107%   1  39% com.ccos.tv.homepage
+  742     1 default  S <  43392   9%   3   9% /system/bin/surfaceflinger
+14417  1439 2000     R     1152   0%   2   6% busybox top -n 1
+ 2896   743 default  S     550m 121%   2   4% com.tianci.movieplatform
+ 2849   743 default  S     383m  85%   2   4% com.tianci.de
+ 1347   743 default  S <   348m  77%   2   4% system_server
+ 1149  1130 root     S    41904   9%   3   4% TvServer 0 270610432
+ 1439     1 2000     R     5624   1%   1   2% /sbin/adbd
+ 2014  1439 2000     S     2124   0%   0   2% logcat -v long
+  457     3 root     SW       0   0%   3   2% [mmcqd/0]
+   30     3 root     SW       0   0%   1   2% [kworker/1:1]
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+[H[JMem: 428548K used, 34580K free, 0K shrd, 328K buff, 49452K cached
+CPU:  64% usr  27% sys   0% nic   1% idle   1% io   0% irq   3% sirq
+Load average: 11.41 9.13 5.96 6/733 14438
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     481m 106%   0  51% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   1  25% system_server
+ 1439     1 2000     S     6648   1%   2   4% /sbin/adbd
+ 2896   743 default  S     550m 121%   0   2% com.tianci.movieplatform
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+  742     1 default  S <  39868   9%   2   2% /system/bin/surfaceflinger
+  739     1 root     S     3024   1%   0   2% /system/bin/keypad
+ 2014  1439 2000     S     2124   0%   0   2% logcat -v long
+14437  1439 2000     R     1152   0%   3   2% busybox top -n 1
+  457     3 root     SW       0   0%   3   2% [mmcqd/0]
+   31     3 root     SW       0   0%   2   2% [kworker/2:1]
+ 2849   743 default  S     383m  85%   2   0% com.tianci.de
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+[H[JMem: 420236K used, 42892K free, 0K shrd, 336K buff, 50620K cached
+CPU:  20% usr  26% sys   0% nic  54% idle   0% io   0% irq   0% sirq
+Load average: 11.41 9.13 5.96 2/731 14467
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     470m 104%   2  24% com.ccos.tv.homepage
+ 2849   743 default  S     383m  85%   1   4% com.tianci.de
+14466  1439 2000     R     1152   0%   1   4% busybox top -n 1
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+  742     1 default  S <  39948   9%   3   2% /system/bin/surfaceflinger
+ 2014  1439 2000     S     2124   0%   1   2% logcat -v long
+ 2896   743 default  S     550m 121%   0   0% com.tianci.movieplatform
+ 1347   743 default  S <   348m  77%   0   0% system_server
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+[H[JMem: 419708K used, 43420K free, 0K shrd, 336K buff, 52540K cached
+CPU:  53% usr  24% sys   0% nic  22% idle   0% io   0% irq   0% sirq
+Load average: 11.53 9.19 6.00 11/733 14498
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     465m 103%   2  39% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   0  26% system_server
+14496  1439 2000     R     1152   0%   3   4% busybox top -n 1
+ 2849   743 default  S     383m  85%   1   2% com.tianci.de
+ 1595   743 default  S     338m  75%   0   2% com.tianci.system
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+ 1439     1 2000     R     6648   1%   0   2% /sbin/adbd
+ 2896   743 default  S     550m 121%   0   0% com.tianci.movieplatform
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     308m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+  746     1 1013     S    40956   9%   3   0% /system/bin/mediaserver
+[H[JMem: 417064K used, 46064K free, 0K shrd, 340K buff, 53356K cached
+CPU:  50% usr  19% sys   0% nic  25% idle   1% io   0% irq   1% sirq
+Load average: 11.53 9.19 6.00 3/732 14546
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     462m 102%   1  47% com.ccos.tv.homepage
+ 2849   743 default  S     384m  85%   1   6% com.tianci.de
+ 1439     1 2000     S     5624   1%   0   4% /sbin/adbd
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+  742     1 default  S <  39788   9%   0   2% /system/bin/surfaceflinger
+ 2014  1439 2000     S     2124   0%   0   2% logcat -v long
+14543  1439 2000     R     1152   0%   3   2% busybox top -n 1
+  457     3 root     SW       0   0%   0   2% [mmcqd/0]
+ 2896   743 default  S     550m 121%   0   0% com.tianci.movieplatform
+ 1347   743 default  S <   348m  77%   0   0% system_server
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     308m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+[H[JMem: 424268K used, 38860K free, 0K shrd, 348K buff, 54428K cached
+CPU:  69% usr  21% sys   0% nic   7% idle   0% io   0% irq   1% sirq
+Load average: 11.53 9.19 6.00 6/733 14589
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     470m 104%   0  44% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   0  20% system_server
+ 1149  1130 root     S    41904   9%   3   6% TvServer 0 270610432
+ 2896   743 default  S     550m 121%   0   4% com.tianci.movieplatform
+ 2849   743 default  S     383m  85%   1   4% com.tianci.de
+  742     1 default  S <  39788   9%   1   4% /system/bin/surfaceflinger
+ 1439     1 2000     S     6648   1%   0   4% /sbin/adbd
+14587  1439 2000     R     1152   0%   3   4% busybox top -n 1
+  457     3 root     SW       0   0%   0   2% [mmcqd/0]
+ 1377     3 root     SW       0   0%   1   2% [kworker/u:3]
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     308m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+[H[JMem: 426436K used, 36692K free, 0K shrd, 348K buff, 56532K cached
+CPU:  47% usr  26% sys   0% nic  19% idle   0% io   0% irq   6% sirq
+Load average: 11.65 9.25 6.04 7/734 14632
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  S     470m 104%   1  35% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   1  10% system_server
+ 1439     1 2000     S     6648   1%   1   8% /sbin/adbd
+ 1149  1130 root     S    41904   9%   3   6% TvServer 0 270610432
+ 2014  1439 2000     S     2124   0%   1   6% logcat -v long
+14628  1439 2000     R     1152   0%   3   6% busybox top -n 1
+ 2896   743 default  S     550m 121%   0   2% com.tianci.movieplatform
+ 2849   743 default  S     383m  85%   3   2% com.tianci.de
+   31     3 root     SW       0   0%   2   2% [kworker/2:1]
+13448     3 root     SW       0   0%   3   2% [kworker/3:0]
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   3   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+[H[JMem: 432024K used, 31104K free, 0K shrd, 348K buff, 57456K cached
+CPU:  26% usr  18% sys   0% nic  56% idle   0% io   0% irq   0% sirq
+Load average: 11.65 9.25 6.04 2/732 14673
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 1347   743 default  S <   348m  77%   2  12% system_server
+ 4955   743 default  S     330m  73%   1   8% com.tianci.movieplatform:daemon
+ 2849   743 default  S     383m  85%   3   6% com.tianci.de
+ 2896   743 default  S     550m 121%   0   2% com.tianci.movieplatform
+ 2474   743 10015    S     309m  68%   3   2% com.coocaa.os.ccosservice
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+  742     1 default  S <  39868   9%   2   2% /system/bin/surfaceflinger
+  457     3 root     SW       0   0%   1   2% [mmcqd/0]
+13233   743 default  S     481m 106%   1   0% com.ccos.tv.homepage
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   3   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+  746     1 1013     S    40956   9%   3   0% /system/bin/mediaserver
+[H[JMem: 430244K used, 32884K free, 0K shrd, 356K buff, 57348K cached
+CPU:  53% usr  29% sys   0% nic  17% idle   0% io   0% irq   0% sirq
+Load average: 11.65 9.25 6.04 10/734 14712
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     480m 106%   1  38% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   0  19% system_server
+ 1439     1 2000     R     6648   1%   0   5% /sbin/adbd
+ 2014  1439 2000     R     2264   0%   3   5% logcat -v long
+ 1149  1130 root     S    41904   9%   3   3% TvServer 0 270610432
+  742     1 default  S <  39868   9%   0   3% /system/bin/surfaceflinger
+14710  1439 2000     R     1152   0%   1   3% busybox top -n 1
+ 2896   743 default  S     550m 121%   0   2% com.tianci.movieplatform
+  756     1 1023     S     3520   1%   3   2% /system/bin/sdcard -u 1023 -g 1023
+  739     1 root     S     3024   1%   1   2% /system/bin/keypad
+   31     3 root     SW       0   0%   2   2% [kworker/2:1]
+13448     3 root     SW       0   0%   3   2% [kworker/3:0]
+ 2849   743 default  S     383m  85%   1   0% com.tianci.de
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+[H[JMem: 437524K used, 25604K free, 0K shrd, 356K buff, 56352K cached
+CPU:   4% usr  14% sys   0% nic  80% idle   0% io   0% irq   2% sirq
+Load average: 11.44 9.25 6.05 2/732 14750
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 2896   743 default  S     550m 121%   0   2% com.tianci.movieplatform
+ 2849   743 default  S     383m  85%   2   2% com.tianci.de
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+ 1439     1 2000     S     5624   1%   3   2% /sbin/adbd
+14744  1439 2000     R     1160   0%   2   2% busybox top -n 1
+13233   743 default  S     498m 110%   1   0% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   0   0% system_server
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   3   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+  746     1 1013     S    40956   9%   3   0% /system/bin/mediaserver
+[H[JMem: 436976K used, 26152K free, 0K shrd, 356K buff, 56424K cached
+CPU:  22% usr  21% sys   0% nic  56% idle   0% io   0% irq   0% sirq
+Load average: 11.44 9.25 6.05 3/734 14770
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 1347   743 default  S <   348m  77%   3  19% system_server
+ 2849   743 default  S     383m  85%   2   2% com.tianci.de
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+14769  1439 2000     R     1152   0%   3   2% busybox top -n 1
+ 2896   743 default  S     550m 121%   0   0% com.tianci.movieplatform
+13233   743 default  S     498m 110%   1   0% com.ccos.tv.homepage
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   3   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+  746     1 1013     S    40956   9%   3   0% /system/bin/mediaserver
+  742     1 default  S <  39948   9%   2   0% /system/bin/surfaceflinger
+[H[JMem: 432392K used, 30736K free, 0K shrd, 356K buff, 56556K cached
+CPU:  45% usr  37% sys   0% nic  13% idle   0% io   0% irq   3% sirq
+Load average: 11.44 9.25 6.05 8/732 14799
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     490m 108%   3  45% com.ccos.tv.homepage
+ 1439     1 2000     S     5624   1%   0   9% /sbin/adbd
+ 2014  1439 2000     R     2264   0%   3   8% logcat -v long
+ 2849   743 default  S     383m  85%   2   6% com.tianci.de
+14796  1439 2000     R     1152   0%   2   4% busybox top -n 1
+  457     3 root     SW       0   0%   2   4% [mmcqd/0]
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+  742     1 default  S <  39788   9%   2   2% /system/bin/surfaceflinger
+  286     3 root     SW       0   0%   0   2% [kworker/u:2]
+   30     3 root     SW       0   0%   1   2% [kworker/1:1]
+13448     3 root     SW       0   0%   3   2% [kworker/3:0]
+ 2896   743 default  S     550m 121%   0   0% com.tianci.movieplatform
+ 1347   743 default  S <   348m  77%   3   0% system_server
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+[H[JMem: 436196K used, 26932K free, 0K shrd, 364K buff, 56164K cached
+CPU:  16% usr  11% sys   0% nic  72% idle   0% io   0% irq   0% sirq
+Load average: 11.44 9.25 6.05 3/734 14820
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 1347   743 default  S <   348m  77%   3  22% system_server
+ 2849   743 default  S     383m  85%   2   2% com.tianci.de
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+14818  1439 2000     R     1152   0%   3   2% busybox top -n 1
+ 2896   743 default  S     550m 121%   0   0% com.tianci.movieplatform
+13233   743 default  S     501m 111%   2   0% com.ccos.tv.homepage
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   3   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+  746     1 1013     S    40956   9%   3   0% /system/bin/mediaserver
+  742     1 default  S <  39788   9%   2   0% /system/bin/surfaceflinger
+[H[JMem: 434712K used, 28416K free, 0K shrd, 364K buff, 56164K cached
+CPU:   5% usr  16% sys   0% nic  78% idle   0% io   0% irq   0% sirq
+Load average: 10.68 9.13 6.03 2/731 14846
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 2896   743 default  S     550m 121%   0   2% com.tianci.movieplatform
+14845  1439 2000     R     1152   0%   2   2% busybox top -n 1
+13233   743 default  S     501m 111%   3   0% com.ccos.tv.homepage
+ 2849   743 default  S     383m  85%   3   0% com.tianci.de
+ 1347   743 default  S <   348m  77%   3   0% system_server
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     308m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   3   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+ 1149  1130 root     S    41904   9%   3   0% TvServer 0 270610432
+  746     1 1013     S    40956   9%   3   0% /system/bin/mediaserver
+  742     1 default  S <  39868   9%   3   0% /system/bin/surfaceflinger
+[H[JMem: 432088K used, 31040K free, 0K shrd, 364K buff, 56400K cached
+CPU:  40% usr  32% sys   0% nic  20% idle   0% io   0% irq   6% sirq
+Load average: 10.68 9.13 6.03 9/733 14876
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 1347   743 default  S <   348m  77%   2  24% system_server
+13233   743 default  R     494m 109%   2  22% com.ccos.tv.homepage
+ 2849   743 default  S     384m  85%   1   7% com.tianci.de
+ 1439     1 2000     S     6648   1%   0   5% /sbin/adbd
+ 1149  1130 root     S    41904   9%   3   3% TvServer 0 270610432
+  742     1 default  S <  39868   9%   3   3% /system/bin/surfaceflinger
+ 2014  1439 2000     R     2264   0%   0   3% logcat -v long
+14871  1439 2000     R     1152   0%   3   3% busybox top -n 1
+ 2896   743 default  S     550m 121%   0   2% com.tianci.movieplatform
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     308m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   3   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+[H[JMem: 422760K used, 40368K free, 0K shrd, 372K buff, 56524K cached
+CPU:  50% usr  32% sys   0% nic  12% idle   0% io   0% irq   6% sirq
+Load average: 10.68 9.13 6.03 3/733 14914
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     473m 105%   1  38% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   3  10% system_server
+ 2014  1439 2000     R     2264   0%   0  10% logcat -v long
+ 1439     1 2000     S     6648   1%   0   8% /sbin/adbd
+ 2849   743 default  S     383m  85%   2   6% com.tianci.de
+ 2896   743 default  S     550m 121%   0   4% com.tianci.movieplatform
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+  742     1 default  R <  39788   9%   0   2% /system/bin/surfaceflinger
+14909  1439 2000     R     1152   0%   3   2% busybox top -n 1
+  286     3 root     SW       0   0%   0   2% [kworker/u:2]
+ 1025     3 root     SW       0   0%   0   2% [kworker/0:2]
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     308m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   3   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+[H[JMem: 425804K used, 37324K free, 0K shrd, 372K buff, 58296K cached
+CPU:  50% usr  34% sys   0% nic  12% idle   0% io   0% irq   4% sirq
+Load average: 10.55 9.13 6.05 3/733 14941
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     474m 105%   3  34% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   1  12% system_server
+ 1439     1 2000     S     5624   1%   1  10% /sbin/adbd
+ 2014  1439 2000     S     1296   0%   0   6% logcat -v long
+  457     3 root     SW       0   0%   1   6% [mmcqd/0]
+ 2849   743 default  S     383m  85%   2   2% com.tianci.de
+ 1595   743 default  S     338m  75%   0   2% com.tianci.system
+14939  1439 2000     R     1152   0%   2   2% busybox top -n 1
+   10     3 root     SW       0   0%   3   2% [rcu_preempt]
+ 1025     3 root     SW       0   0%   0   2% [kworker/0:2]
+   13     3 root     SW       0   0%   1   2% [ksoftirqd/1]
+ 2896   743 default  S     550m 121%   0   0% com.tianci.movieplatform
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   3   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+[H[JMem: 437460K used, 25668K free, 0K shrd, 372K buff, 60400K cached
+CPU:  27% usr  33% sys   0% nic  19% idle  13% io   0% irq   5% sirq
+Load average: 10.55 9.13 6.05 6/735 14979
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 1347   743 default  S <   348m  77%   0  25% system_server
+  457     3 root     SW       0   0%   2  18% [mmcqd/0]
+13233   743 default  R     486m 107%   1   4% com.ccos.tv.homepage
+ 2849   743 default  S     383m  85%   2   4% com.tianci.de
+ 2896   743 default  S     550m 121%   0   2% com.tianci.movieplatform
+ 1439     1 2000     S     6648   1%   2   2% /sbin/adbd
+14976  1439 2000     R     1152   0%   0   2% busybox top -n 1
+   31     3 root     SW       0   0%   2   2% [kworker/2:1]
+ 1595   743 default  S     338m  75%   1   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   3   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+[H[JMem: 432952K used, 30176K free, 0K shrd, 364K buff, 58620K cached
+CPU:  22% usr  23% sys   0% nic  45% idle   2% io   0% irq   5% sirq
+Load average: 10.55 9.13 6.05 7/732 15019
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  S     480m 106%   3  17% com.ccos.tv.homepage
+15015  1439 2000     R     1152   0%   0   6% busybox top -n 1
+ 2849   743 default  S     382m  84%   2   4% com.tianci.de
+  457     3 root     SW       0   0%   0   4% [mmcqd/0]
+ 2896   743 default  S     550m 121%   0   3% com.tianci.movieplatform
+ 1149  1130 root     S    41904   9%   3   1% TvServer 0 270610432
+ 1439     1 2000     R     5624   1%   2   1% /sbin/adbd
+13448     3 root     SW       0   0%   3   1% [kworker/3:0]
+ 1347   743 default  S <   348m  77%   0   0% system_server
+ 1595   743 default  S     338m  75%   1   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   3   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+[H[JMem: 436972K used, 26156K free, 0K shrd, 372K buff, 61660K cached
+CPU:  26% usr  30% sys   0% nic  40% idle   1% io   0% irq   0% sirq
+Load average: 10.66 9.17 6.08 3/735 15053
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 1347   743 default  S <   348m  77%   0  21% system_server
+13233   743 default  S     485m 107%   0   8% com.ccos.tv.homepage
+  457     3 root     SW       0   0%   3   6% [mmcqd/0]
+ 2849   743 default  S     383m  85%   0   4% com.tianci.de
+15049  1439 2000     R     1152   0%   1   2% busybox top -n 1
+ 2896   743 default  S     550m 121%   0   0% com.tianci.movieplatform
+ 1595   743 default  S     338m  75%   1   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   3   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+ 1149  1130 root     S    41904   9%   3   0% TvServer 0 270610432
+  746     1 1013     S    40956   9%   3   0% /system/bin/mediaserver
+[H[JMem: 438404K used, 24724K free, 0K shrd, 360K buff, 59748K cached
+CPU:  20% usr  20% sys   0% nic  40% idle  14% io   0% irq   4% sirq
+Load average: 10.66 9.17 6.08 4/732 15085
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     492m 109%   2  16% com.ccos.tv.homepage
+ 2849   743 default  S     383m  85%   0   8% com.tianci.de
+  742     1 default  S <  39788   9%   3   8% /system/bin/surfaceflinger
+ 1149  1130 root     S    41904   9%   3   4% TvServer 0 270610432
+15083  1439 2000     R     1152   0%   3   4% busybox top -n 1
+ 2896   743 default  S     549m 121%   0   2% com.tianci.movieplatform
+  349     3 root     DW       0   0%   1   2% [kswapd0]
+ 1347   743 default  S <   348m  77%   0   0% system_server
+ 1595   743 default  S     338m  75%   1   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   3   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+[H[JMem: 437624K used, 25504K free, 0K shrd, 360K buff, 59680K cached
+CPU:  26% usr  21% sys   0% nic  47% idle   0% io   0% irq   4% sirq
+Load average: 10.66 9.17 6.08 3/733 15112
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 1347   743 default  S <   348m  77%   0  26% system_server
+13233   743 default  S     492m 109%   0   4% com.ccos.tv.homepage
+ 2849   743 default  S     382m  84%   1   4% com.tianci.de
+  742     1 default  S <  39788   9%   2   4% /system/bin/surfaceflinger
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+ 1439     1 2000     S     6648   1%   1   2% /sbin/adbd
+15110  1439 2000     R     1152   0%   2   2% busybox top -n 1
+ 1377     3 root     SW       0   0%   1   2% [kworker/u:3]
+ 2896   743 default  S     549m 121%   0   0% com.tianci.movieplatform
+ 1595   743 default  S     338m  75%   1   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   3   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+[H[JMem: 438304K used, 24824K free, 0K shrd, 368K buff, 60000K cached
+CPU:  33% usr  28% sys   0% nic  33% idle   1% io   0% irq   3% sirq
+Load average: 10.66 9.17 6.08 8/731 15147
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     492m 109%   3  26% com.ccos.tv.homepage
+ 2849   743 default  S     382m  84%   3   9% com.tianci.de
+  742     1 default  S <  39788   9%   3   9% /system/bin/surfaceflinger
+ 1149  1130 root     S    41904   9%   3   4% TvServer 0 270610432
+15142  1439 2000     R     1152   0%   1   4% busybox top -n 1
+ 2896   743 default  S     549m 121%   0   2% com.tianci.movieplatform
+ 1595   743 default  S     338m  75%   1   2% com.tianci.system
+ 1439     1 2000     S     5624   1%   0   2% /sbin/adbd
+  457     3 root     RW       0   0%   3   2% [mmcqd/0]
+    7     3 root     SW       0   0%   2   2% [kworker/u:0]
+  286     3 root     SW       0   0%   2   2% [kworker/u:2]
+12698     3 root     SW<      0   0%   3   2% [kworker/u:0H]
+ 1347   743 default  S <   348m  77%   0   0% system_server
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   3   0% com.dunn.instrument
+[H[JMem: 428892K used, 34236K free, 0K shrd, 412K buff, 52096K cached
+CPU:  29% usr  51% sys   0% nic  16% idle   0% io   0% irq   3% sirq
+Load average: 10.53 9.17 6.10 8/732 15178
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  S     492m 109%   1  26% com.ccos.tv.homepage
+  349     3 root     RW       0   0%   2  19% [kswapd0]
+ 1347   743 default  S <   348m  77%   0  18% system_server
+ 2849   743 default  S     382m  84%   3   3% com.tianci.de
+  742     1 default  S <  39788   9%   0   3% /system/bin/surfaceflinger
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+ 1439     1 2000     S     6648   1%   0   2% /sbin/adbd
+ 2014  1439 2000     S     1736   0%   1   2% logcat -v long
+15176  1439 2000     R     1152   0%   3   2% busybox top -n 1
+  457     3 root     RW       0   0%   0   2% [mmcqd/0]
+ 2896   743 default  S     549m 121%   0   0% com.tianci.movieplatform
+ 1595   743 default  S     338m  75%   1   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     308m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   3   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+[H[JMem: 427816K used, 35312K free, 0K shrd, 2352K buff, 49216K cached
+CPU:   3% usr  13% sys   0% nic  82% idle   0% io   0% irq   0% sirq
+Load average: 10.53 9.17 6.10 2/730 15213
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 2896   743 default  S     549m 121%   0   2% com.tianci.movieplatform
+ 2849   743 default  S     382m  84%   3   2% com.tianci.de
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+ 1439     1 2000     S     5624   1%   2   2% /sbin/adbd
+15210  1439 2000     R     1152   0%   2   2% busybox top -n 1
+13233   743 default  S     492m 109%   0   0% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   2   0% system_server
+ 1595   743 default  S     338m  75%   1   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     308m  68%   3   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   3   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+  746     1 1013     S    40956   9%   3   0% /system/bin/mediaserver
+[H[JMem: 428368K used, 34760K free, 0K shrd, 2360K buff, 49216K cached
+CPU:  28% usr  17% sys   0% nic  53% idle   0% io   0% irq   0% sirq
+Load average: 10.53 9.17 6.10 3/734 15242
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 1347   743 default  S <   348m  77%   1  21% system_server
+ 2849   743 default  S     383m  85%   0   4% com.tianci.de
+ 2896   743 default  S     549m 121%   0   2% com.tianci.movieplatform
+ 1595   743 default  S     338m  75%   0   2% com.tianci.system
+15237  1439 2000     R     1152   0%   0   2% busybox top -n 1
+ 1612     3 root     SW       0   0%   1   2% [RTW_CMD_THREAD]
+13233   743 default  S     492m 109%   0   0% com.ccos.tv.homepage
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   0   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   3   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+ 1149  1130 root     S    41904   9%   3   0% TvServer 0 270610432
+  746     1 1013     S    40956   9%   3   0% /system/bin/mediaserver
+[H[JMem: 428908K used, 34220K free, 0K shrd, 2360K buff, 49536K cached
+CPU:  15% usr  15% sys   0% nic  69% idle   0% io   0% irq   0% sirq
+Load average: 10.17 9.12 6.10 3/732 15279
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 1595   743 default  S     338m  75%   0   8% com.tianci.system
+ 1347   743 default  S <   348m  77%   1   6% system_server
+13233   743 default  S     492m 109%   1   2% com.ccos.tv.homepage
+ 2849   743 default  S     383m  85%   0   2% com.tianci.de
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+  742     1 default  S <  39788   9%   1   2% /system/bin/surfaceflinger
+ 1439     1 2000     S     5624   1%   2   2% /sbin/adbd
+ 1503     1 1010     S     3364   1%   1   2% /system/bin/wpa_supplicant -ip2p0
+ 2014  1439 2000     S     1736   0%   1   2% logcat -v long
+15277  1439 2000     R     1152   0%   2   2% busybox top -n 1
+ 2896   743 default  S     549m 121%   2   0% com.tianci.movieplatform
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   2   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+[H[JMem: 427536K used, 35592K free, 0K shrd, 2360K buff, 49956K cached
+CPU:   2% usr  22% sys   0% nic  75% idle   0% io   0% irq   0% sirq
+Load average: 10.17 9.12 6.10 3/731 15316
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  S     492m 109%   3   2% com.ccos.tv.homepage
+ 2849   743 default  S     382m  84%   3   2% com.tianci.de
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+ 1439     1 2000     S     5624   1%   3   2% /sbin/adbd
+15308  1439 2000     R     1152   0%   1   2% busybox top -n 1
+   31     3 root     SW       0   0%   2   2% [kworker/2:1]
+ 2896   743 default  S     549m 121%   2   0% com.tianci.movieplatform
+ 1347   743 default  S <   348m  77%   0   0% system_server
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   2   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+[H[JMem: 428284K used, 34844K free, 0K shrd, 2360K buff, 50084K cached
+CPU:  18% usr  22% sys   0% nic  58% idle   0% io   0% irq   0% sirq
+Load average: 10.17 9.12 6.10 4/733 15337
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 1347   743 default  S <   348m  77%   0  21% system_server
+ 2896   743 default  S     549m 121%   2   2% com.tianci.movieplatform
+ 2849   743 default  S     382m  84%   3   2% com.tianci.de
+15335  1439 2000     R     1152   0%   3   2% busybox top -n 1
+13233   743 default  S     492m 109%   2   0% com.ccos.tv.homepage
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   2   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+ 1149  1130 root     S    41904   9%   3   0% TvServer 0 270610432
+  746     1 1013     S    40956   9%   3   0% /system/bin/mediaserver
+  742     1 default  S <  39788   9%   2   0% /system/bin/surfaceflinger
+[H[JMem: 427500K used, 35628K free, 0K shrd, 2368K buff, 50088K cached
+CPU:  13% usr  23% sys   0% nic  59% idle   0% io   0% irq   3% sirq
+Load average: 9.99 9.10 6.11 6/731 15367
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     490m 108%   1   7% com.ccos.tv.homepage
+15366  1439 2000     R     1152   0%   3   5% busybox top -n 1
+ 2849   743 default  S     382m  84%   3   3% com.tianci.de
+ 1347   743 default  S <   348m  77%   2   3% system_server
+ 1149  1130 root     S    41904   9%   3   3% TvServer 0 270610432
+ 1439     1 2000     S     5624   1%   2   3% /sbin/adbd
+ 2014  1439 2000     R     2304   0%   0   3% logcat -v long
+ 2896   743 default  S     549m 121%   2   2% com.tianci.movieplatform
+  742     1 default  S <  39788   9%   2   2% /system/bin/surfaceflinger
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   2   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+[H[JMem: 428228K used, 34900K free, 0K shrd, 2368K buff, 50180K cached
+CPU:  16% usr  22% sys   0% nic  57% idle   0% io   0% irq   4% sirq
+Load average: 9.99 9.10 6.11 6/729 15393
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 1347   743 default  S <   348m  77%   1  22% system_server
+13233   743 default  R     487m 108%   3   4% com.ccos.tv.homepage
+ 2849   743 default  S     382m  84%   2   4% com.tianci.de
+ 2896   743 default  S     549m 121%   2   2% com.tianci.movieplatform
+ 1439     1 2000     S     6648   1%   3   2% /sbin/adbd
+ 2014  1439 2000     R     2304   0%   2   2% logcat -v long
+15389  1439 2000     R     1152   0%   1   2% busybox top -n 1
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   2   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+ 1149  1130 root     S    41904   9%   3   0% TvServer 0 270610432
+[H[JMem: 428536K used, 34592K free, 0K shrd, 2476K buff, 49616K cached
+CPU:  10% usr  12% sys   0% nic  76% idle   0% io   0% irq   2% sirq
+Load average: 9.99 9.10 6.11 2/730 15438
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  S     490m 108%   1   4% com.ccos.tv.homepage
+15431  1439 2000     R     1152   0%   1   4% busybox top -n 1
+ 2896   743 default  S     549m 121%   2   2% com.tianci.movieplatform
+ 2849   743 default  S     382m  84%   2   2% com.tianci.de
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+ 1439     1 2000     S     5624   1%   0   2% /sbin/adbd
+ 2014  1439 2000     S     2304   0%   3   2% logcat -v long
+   10     3 root     SW       0   0%   1   2% [rcu_preempt]
+ 1347   743 default  S <   348m  77%   1   0% system_server
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   2   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+[H[JMem: 430268K used, 32860K free, 0K shrd, 2484K buff, 50272K cached
+CPU:  60% usr  29% sys   0% nic   3% idle   0% io   0% irq   6% sirq
+Load average: 9.99 9.10 6.11 7/734 15469
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     492m 109%   0  47% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   1  22% system_server
+ 1439     1 2000     R     6648   1%   0   7% /sbin/adbd
+ 2014  1439 2000     S     2304   0%   0   5% logcat -v long
+15466  1439 2000     R     1152   0%   2   5% busybox top -n 1
+  457     3 root     SW       0   0%   2   3% [mmcqd/0]
+ 2896   743 default  S     549m 121%   2   2% com.tianci.movieplatform
+ 2849   743 default  S     382m  84%   0   2% com.tianci.de
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+   31     3 root     SW       0   0%   2   2% [kworker/2:1]
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   2   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   1   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+[H[JMem: 423724K used, 39404K free, 0K shrd, 2484K buff, 50884K cached
+CPU:  50% usr  13% sys   0% nic  27% idle   0% io   0% irq   9% sirq
+Load average: 9.99 9.12 6.13 4/730 15502
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  S     476m 105%   3  43% com.ccos.tv.homepage
+ 2849   743 default  S     382m  84%   0   5% com.tianci.de
+ 1439     1 2000     S     5624   1%   1   5% /sbin/adbd
+ 1149  1130 root     S    41904   9%   3   3% TvServer 0 270610432
+ 2014  1439 2000     S     1892   0%   0   3% logcat -v long
+15499  1439 2000     R     1152   0%   3   3% busybox top -n 1
+ 2896   743 default  S     549m 121%   2   2% com.tianci.movieplatform
+ 1347   743 default  S <   348m  77%   1   2% system_server
+  742     1 default  S <  39788   9%   3   2% /system/bin/surfaceflinger
+  457     3 root     SW       0   0%   3   2% [mmcqd/0]
+ 1377     3 root     SW       0   0%   3   2% [kworker/u:3]
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     308m  68%   2   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+[H[JMem: 418396K used, 44732K free, 0K shrd, 2484K buff, 51064K cached
+CPU:  67% usr  25% sys   0% nic   5% idle   0% io   0% irq   1% sirq
+Load average: 9.99 9.12 6.13 5/732 15524
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  S     464m 103%   2  47% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   3  24% system_server
+ 2849   743 default  S     382m  84%   0   5% com.tianci.de
+ 1439     1 2000     S     6648   1%   2   5% /sbin/adbd
+ 1149  1130 root     S    41904   9%   3   3% TvServer 0 270610432
+ 2014  1439 2000     S     1892   0%   2   3% logcat -v long
+15522  1439 2000     R     1152   0%   0   3% busybox top -n 1
+  742     1 default  S <  39788   9%   2   2% /system/bin/surfaceflinger
+    2     3 root     SW       0   0%   0   2% [hw_watchdog]
+ 2896   743 default  S     549m 121%   2   0% com.tianci.movieplatform
+ 1595   743 default  S     338m  75%   0   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     308m  68%   2   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+[H[JMem: 416604K used, 46524K free, 0K shrd, 2484K buff, 53360K cached
+CPU:  28% usr  38% sys   0% nic  26% idle   0% io   0% irq   5% sirq
+Load average: 9.99 9.12 6.13 11/733 15556
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     458m 101%   2  21% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   0  12% system_server
+ 1439     1 2000     S     6648   1%   1   8% /sbin/adbd
+ 2014  1439 2000     S     1144   0%   0   8% logcat -v long
+ 1149  1130 root     S    41904   9%   3   4% TvServer 0 270610432
+  742     1 default  S <  40812   9%   3   4% /system/bin/surfaceflinger
+15551  1439 2000     R     1152   0%   3   4% busybox top -n 1
+ 1025     3 root     SW       0   0%   0   4% [kworker/0:2]
+ 2896   743 default  S     549m 121%   2   2% com.tianci.movieplatform
+ 2849   743 default  S     382m  84%   3   2% com.tianci.de
+ 1595   743 default  S     338m  75%   3   2% com.tianci.system
+ 2474   743 10015    S     309m  68%   2   2% com.coocaa.os.ccosservice
+ 1612     3 root     SW       0   0%   0   2% [RTW_CMD_THREAD]
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+[H[JMem: 418132K used, 44996K free, 0K shrd, 2492K buff, 54944K cached
+CPU:  50% usr  17% sys   0% nic  30% idle   0% io   0% irq   1% sirq
+Load average: 10.24 9.18 6.16 3/729 15576
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  S     456m 101%   2  29% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   2  12% system_server
+ 1595   743 default  S     338m  75%   3   6% com.tianci.system
+ 2896   743 default  S     548m 121%   2   2% com.tianci.movieplatform
+ 2849   743 default  S     382m  84%   3   2% com.tianci.de
+  742     1 default  S <  39788   9%   0   2% /system/bin/surfaceflinger
+ 1439     1 2000     S     5624   1%   0   2% /sbin/adbd
+15575  1439 2000     R     1152   0%   1   2% busybox top -n 1
+   31     3 root     SW       0   0%   2   2% [kworker/2:1]
+13448     3 root     SW       0   0%   3   2% [kworker/3:0]
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   2   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+[H[JMem: 416960K used, 46168K free, 0K shrd, 2492K buff, 55224K cached
+CPU:  60% usr  30% sys   0% nic   6% idle   0% io   0% irq   4% sirq
+Load average: 10.24 9.18 6.16 4/731 15603
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     453m 100%   2  40% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   3  24% system_server
+ 2014  1439 2000     R     2764   1%   1  10% logcat -v long
+ 1439     1 2000     R     6648   1%   1   6% /sbin/adbd
+ 1149  1130 root     S    41904   9%   3   4% TvServer 0 270610432
+15602  1439 2000     R     1152   0%   0   4% busybox top -n 1
+ 2849   743 default  S     382m  84%   1   2% com.tianci.de
+ 1025     3 root     SW       0   0%   0   2% [kworker/0:2]
+   30     3 root     SW       0   0%   1   2% [kworker/1:1]
+ 2896   743 default  S     548m 121%   0   0% com.tianci.movieplatform
+ 1595   743 default  S     338m  75%   3   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   2   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+[H[JMem: 414168K used, 48960K free, 0K shrd, 2492K buff, 55320K cached
+CPU:  42% usr  36% sys   0% nic  21% idle   0% io   0% irq   0% sirq
+Load average: 10.24 9.18 6.16 6/729 15629
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     450m  99%   0  31% com.ccos.tv.homepage
+ 2014  1439 2000     S     2764   1%   3  12% logcat -v long
+ 1439     1 2000     S     5624   1%   2  10% /sbin/adbd
+   30     3 root     SW       0   0%   1   4% [kworker/1:1]
+15622  1439 2000     R     1152   0%   1   2% busybox top -n 1
+ 2896   743 default  S     548m 121%   0   0% com.tianci.movieplatform
+ 2849   743 default  S     382m  84%   1   0% com.tianci.de
+ 1347   743 default  S <   348m  77%   3   0% system_server
+ 1595   743 default  S     338m  75%   3   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   2   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+[H[JMem: 420024K used, 43104K free, 0K shrd, 2492K buff, 56700K cached
+CPU:  33% usr  26% sys   0% nic  39% idle   0% io   0% irq   0% sirq
+Load average: 10.22 9.19 6.18 6/732 15653
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 1347   743 default  S <   348m  77%   3  23% system_server
+13233   743 default  S     458m 101%   2  19% com.ccos.tv.homepage
+ 2896   743 default  S     548m 121%   0   2% com.tianci.movieplatform
+ 2849   743 default  S     383m  85%   0   2% com.tianci.de
+15648  1439 2000     R     1152   0%   1   2% busybox top -n 1
+ 1595   743 default  S     338m  75%   3   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   2   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+ 1149  1130 root     S    41904   9%   3   0% TvServer 0 270610432
+  746     1 1013     S    40956   9%   3   0% /system/bin/mediaserver
+  742     1 default  S <  39788   9%   2   0% /system/bin/surfaceflinger
+[H[JMem: 423072K used, 40056K free, 0K shrd, 2492K buff, 56824K cached
+CPU:  80% usr  14% sys   0% nic   2% idle   0% io   0% irq   4% sirq
+Load average: 10.22 9.19 6.18 4/729 15681
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  S     460m 102%   2  78% com.ccos.tv.homepage
+ 1439     1 2000     S     5624   1%   2   6% /sbin/adbd
+ 2014  1439 2000     S     2764   1%   2   6% logcat -v long
+ 2896   743 default  S     548m 121%   0   2% com.tianci.movieplatform
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+   10     3 root     SW       0   0%   3   2% [rcu_preempt]
+   31     3 root     RW       0   0%   2   2% [kworker/2:1]
+ 2849   743 default  S     382m  84%   0   0% com.tianci.de
+ 1347   743 default  S <   348m  77%   3   0% system_server
+ 1595   743 default  S     338m  75%   3   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   2   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+[H[JMem: 429280K used, 33848K free, 0K shrd, 2448K buff, 56960K cached
+CPU:  50% usr  15% sys   0% nic  27% idle   0% io   0% irq   5% sirq
+Load average: 10.22 9.19 6.18 3/732 15706
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  S     470m 104%   1  27% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   1  25% system_server
+ 2849   743 default  S     382m  84%   0   4% com.tianci.de
+ 2896   743 default  S     548m 121%   0   2% com.tianci.movieplatform
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+ 1439     1 2000     S     6648   1%   1   2% /sbin/adbd
+15702  1439 2000     R     1152   0%   0   2% busybox top -n 1
+ 1595   743 default  S     338m  75%   3   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   2   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+  746     1 1013     S    40956   9%   3   0% /system/bin/mediaserver
+[H[JMem: 426856K used, 36272K free, 0K shrd, 2456K buff, 57044K cached
+CPU:  51% usr  25% sys   0% nic  16% idle   0% io   0% irq   5% sirq
+Load average: 10.12 9.19 6.20 9/729 15737
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     469m 104%   2  44% com.ccos.tv.homepage
+ 2014  1439 2000     S     1228   0%   1   7% logcat -v long
+ 2849   743 default  S     382m  84%   0   6% com.tianci.de
+ 1439     1 2000     S     5624   1%   3   6% /sbin/adbd
+15734  1439 2000     R     1152   0%   3   6% busybox top -n 1
+ 2896   743 default  S     548m 121%   0   4% com.tianci.movieplatform
+ 1149  1130 root     S    41904   9%   3   4% TvServer 0 270610432
+13448     3 root     SW       0   0%   3   2% [kworker/3:0]
+ 1347   743 default  S <   348m  77%   1   0% system_server
+ 1595   743 default  S     338m  75%   3   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   2   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+[H[JMem: 429776K used, 33352K free, 0K shrd, 2456K buff, 58180K cached
+CPU:  63% usr  26% sys   0% nic   1% idle   0% io   0% irq   8% sirq
+Load average: 10.12 9.19 6.20 7/730 15758
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     470m 104%   1  46% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   1  26% system_server
+ 1439     1 2000     S     6648   1%   0   6% /sbin/adbd
+ 1149  1130 root     S    41904   9%   3   4% TvServer 0 270610432
+ 2014  1439 2000     R     2652   1%   0   4% logcat -v long
+ 2849   743 default  S     382m  84%   0   3% com.tianci.de
+15756  1439 2000     R     1152   0%   1   3% busybox top -n 1
+ 2896   743 default  S     548m 121%   0   1% com.tianci.movieplatform
+  742     1 default  S <  39788   9%   0   1% /system/bin/surfaceflinger
+  457     3 root     SW       0   0%   1   1% [mmcqd/0]
+ 1025     3 root     SW       0   0%   0   1% [kworker/0:2]
+ 1595   743 default  S     338m  75%   3   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     308m  68%   2   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+[H[JMem: 434932K used, 28196K free, 0K shrd, 2536K buff, 59008K cached
+CPU:  46% usr  32% sys   0% nic  21% idle   0% io   0% irq   0% sirq
+Load average: 10.12 9.19 6.20 4/728 15787
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     474m 105%   0  54% com.ccos.tv.homepage
+ 2849   743 default  S     382m  84%   0   5% com.tianci.de
+15785  1439 2000     R     1152   0%   2   5% busybox top -n 1
+ 1439     1 2000     S     5624   1%   3   4% /sbin/adbd
+ 2896   743 default  S     548m 121%   0   2% com.tianci.movieplatform
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+ 2014  1439 2000     S     2652   1%   1   2% logcat -v long
+  457     3 root     SW       0   0%   0   2% [mmcqd/0]
+ 1347   743 default  S <   348m  77%   1   0% system_server
+ 1595   743 default  S     338m  75%   3   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     308m  68%   2   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+[H[JMem: 432380K used, 30748K free, 0K shrd, 2544K buff, 59708K cached
+CPU:  44% usr  30% sys   0% nic  22% idle   0% io   0% irq   2% sirq
+Load average: 10.75 9.34 6.26 9/733 15810
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     468m 103%   2  24% com.ccos.tv.homepage
+ 2896   743 default  S     548m 121%   0   7% com.tianci.movieplatform
+ 1439     1 2000     S     6648   1%   2   7% /sbin/adbd
+ 1347   743 default  S <   348m  77%   1   6% system_server
+15805  1439 2000     R     1152   0%   0   6% busybox top -n 1
+ 1149  1130 root     S    41904   9%   3   4% TvServer 0 270610432
+ 2014  1439 2000     S     2652   1%   2   4% logcat -v long
+ 2849   743 default  S     382m  84%   1   3% com.tianci.de
+  742     1 default  S <  39788   9%   1   3% /system/bin/surfaceflinger
+ 1612     3 root     SW       0   0%   0   1% [RTW_CMD_THREAD]
+  703     3 root     SW<      0   0%   2   1% [kworker/2:1H]
+ 1595   743 default  S     338m  75%   3   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   0   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+[H[JMem: 421252K used, 41876K free, 0K shrd, 2452K buff, 51216K cached
+CPU:  56% usr  31% sys   0% nic   7% idle   0% io   0% irq   3% sirq
+Load average: 10.75 9.34 6.26 4/732 15837
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     471m 104%   2  36% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   2  23% system_server
+ 2014  1439 2000     R     2652   1%   0  12% logcat -v long
+ 1439     1 2000     S     6648   1%   3   8% /sbin/adbd
+13448     3 root     SW       0   0%   3   6% [kworker/3:0]
+15836  1439 2000     R     1152   0%   3   4% busybox top -n 1
+ 2849   743 default  S     382m  84%   1   2% com.tianci.de
+  742     1 default  S <  40812   9%   3   2% /system/bin/surfaceflinger
+ 2896   743 default  S     548m 121%   0   0% com.tianci.movieplatform
+ 1595   743 default  S     338m  75%   3   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   0   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+[H[JMem: 424792K used, 38336K free, 0K shrd, 2328K buff, 52504K cached
+CPU:  63% usr  31% sys   0% nic   0% idle   0% io   0% irq   4% sirq
+Load average: 10.75 9.34 6.26 11/729 15875
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  S     476m 105%   1  60% com.ccos.tv.homepage
+ 1439     1 2000     S     5624   1%   3   8% /sbin/adbd
+ 2849   743 default  S     382m  84%   1   6% com.tianci.de
+ 2014  1439 2000     S     2652   1%   3   6% logcat -v long
+ 1149  1130 root     S    41904   9%   3   5% TvServer 0 270610432
+15872  1439 2000     R     1152   0%   2   5% busybox top -n 1
+  457     3 root     SW       0   0%   1   5% [mmcqd/0]
+  742     1 default  S <  39788   9%   0   3% /system/bin/surfaceflinger
+ 2896   743 default  S     548m 121%   0   2% com.tianci.movieplatform
+   13     3 root     SW       0   0%   1   2% [ksoftirqd/1]
+ 1347   743 default  S <   348m  77%   2   0% system_server
+ 1595   743 default  S     338m  75%   3   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   0   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+[H[JMem: 417880K used, 45248K free, 0K shrd, 2276K buff, 52340K cached
+CPU:  55% usr  35% sys   0% nic   3% idle   0% io   0% irq   5% sirq
+Load average: 11.01 9.41 6.30 8/731 15901
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     465m 103%   0  34% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   2  25% system_server
+ 1439     1 2000     S     6648   1%   0  11% /sbin/adbd
+ 2014  1439 2000     R     2652   1%   1  11% logcat -v long
+ 2896   743 default  S     548m 121%   0   4% com.tianci.movieplatform
+ 1149  1130 root     S    41904   9%   3   4% TvServer 0 270610432
+ 1025     3 root     SW       0   0%   0   4% [kworker/0:2]
+  742     1 default  S <  39788   9%   1   2% /system/bin/surfaceflinger
+15899  1439 2000     R     1152   0%   2   2% busybox top -n 1
+   31     3 root     SW       0   0%   2   2% [kworker/2:1]
+ 2849   743 default  S     382m  84%   1   0% com.tianci.de
+ 1595   743 default  S     338m  75%   3   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   0   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+[H[JMem: 415296K used, 47832K free, 0K shrd, 2252K buff, 52368K cached
+CPU:  60% usr  20% sys   0% nic  16% idle   0% io   0% irq   2% sirq
+Load average: 11.01 9.41 6.30 4/729 15931
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  R     458m 101%   2  54% com.ccos.tv.homepage
+ 1439     1 2000     S     5624   1%   3   6% /sbin/adbd
+ 2014  1439 2000     S     2652   1%   3   4% logcat -v long
+ 2896   743 default  S     548m 121%   0   2% com.tianci.movieplatform
+ 2849   743 default  S     382m  84%   3   2% com.tianci.de
+ 1584   743 default  S     273m  60%   2   2% com.skyworth.android.skyRMService
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+  742     1 default  S <  39788   9%   2   2% /system/bin/surfaceflinger
+15929  1439 2000     R     1152   0%   1   2% busybox top -n 1
+ 1347   743 default  S <   348m  77%   2   0% system_server
+ 1595   743 default  S     338m  75%   3   0% com.tianci.system
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   0   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+[H[JMem: 420832K used, 42296K free, 0K shrd, 2244K buff, 52600K cached
+CPU:  58% usr  21% sys   0% nic  19% idle   0% io   0% irq   0% sirq
+Load average: 11.01 9.41 6.30 6/731 15952
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+13233   743 default  S     471m 104%   2  39% com.ccos.tv.homepage
+ 1347   743 default  S <   348m  77%   2  22% system_server
+ 1439     1 2000     S     6648   1%   1   4% /sbin/adbd
+ 2896   743 default  S     548m 121%   0   2% com.tianci.movieplatform
+ 2849   743 default  S     382m  84%   3   2% com.tianci.de
+ 1595   743 default  S     338m  75%   3   2% com.tianci.system
+ 1149  1130 root     S    41904   9%   3   2% TvServer 0 270610432
+15951  1439 2000     R     1152   0%   2   2% busybox top -n 1
+ 4955   743 default  S     330m  73%   1   0% com.tianci.movieplatform:daemon
+ 2474   743 10015    S     309m  68%   0   0% com.coocaa.os.ccosservice
+ 1876   743 default  S     306m  68%   2   0% com.coocaa.os.softsettings.provide
+ 1736   743 default  S     300m  66%   2   0% com.tianci.push
+ 3951   743 10014    S     294m  65%   1   0% com.coocaa.sysreport
+ 3037   743 10002    S     276m  61%   1   0% android.process.media
+ 1575   743 default  S     275m  61%   2   0% com.dunn.instrument
+ 1775  1682 root     S     274m  61%   2   0% app_process /system/bin com.dunn.i
+ 1584   743 default  S     273m  60%   2   0% com.skyworth.android.skyRMService
+13488   743 10012    S     271m  60%   3   0% com.coocaa.messageprovider
+  743     1 root     S     265m  59%   0   0% zygote /bin/app_process -Xzygote /
+  746     1 1013     S    40956   9%   3   0% /system/bin/mediaserver

@@ -8,7 +8,7 @@ from analyse_resource.excel.analyse_resource_excel_data import AnalyseResourceEx
 from analyse_resource.image.analyse_resource_image import AnalyseResourceImage
 from analyse_resource.process_manager import ProcessManager
 from utils import resource_utils, file_utils
-from utils.analyse_data_utils import analyse_min_max_average
+from utils.analyse_data_utils import analyse_min_max_average, analyse_str_is_int
 from utils.resource_utils import get_current_package_for_adb
 
 
@@ -201,11 +201,12 @@ class MeminfoManager:
                     ram = line.strip().split(':', 1)[1].split('K', 1)[0].replace(',', '').strip()
                 elif 'kB' in line:
                     ram = line.strip().split(':', 1)[1].split('kB', 1)[0].replace(',', '').strip()
-                if ram.isdigit():
+                # if ram.isdigit():
+                if analyse_str_is_int(ram):
                     lost_ram = round(float(ram) / 1024, 2)
                     # print(f'get meminfo: ram={ram}, lost_ram={lost_ram}')
                 else:
-                    print(f'get meminfo: lost ram parse error!!!!!!!!!!!!!!!!!!line={line}')
+                    print(f'get meminfo: lost ram parse error!!!!!!!!!!!!!!!!!!ram={ram},line={line}')
             elif 'ZRAM' in line and 'total swap' in line: # ZRAM
                 # print(f'line={line}')
                 ram = ''
@@ -442,7 +443,7 @@ class MeminfoManager:
         file.close()
         analyse_resource_excel = AnalyseResourceExcel(excel_path_name,'mem')
         # write first row
-        head_data_list = ['name','mem_min(MB)','mem_max(MB)','mem_average(MB)']
+        head_data_list = ['pid','name','mem_min(MB)','mem_max(MB)','mem_average(MB)']
         analyse_resource_excel.write_first_row_data(head_data_list)
         # write rows
         analyse_resource_excel.write_rows_data(self.analyse_resource_excel_data_list)
@@ -450,8 +451,8 @@ class MeminfoManager:
 if __name__ == "__main__":
     meminfo_manager = MeminfoManager()
     for i in range(1):
-        meminfo_manager.get_meminfo_once()   # 连接adb方式测试
-        # meminfo_manager.get_meminfo_once_test('sample/dumpsys_meminfo_2') # 使用文件方式测试
+        # meminfo_manager.get_meminfo_once()   # 连接adb方式测试
+        meminfo_manager.get_meminfo_once_test('sample/dumpsys_meminfo_3') # 使用文件方式测试
 
     for bean in meminfo_manager.system_meminfo_list:
         print(

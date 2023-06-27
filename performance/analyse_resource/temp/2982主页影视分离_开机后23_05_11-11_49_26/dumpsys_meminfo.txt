@@ -1,0 +1,3218 @@
+Applications Memory Usage (kB):
+Uptime: 49934 Realtime: 49934
+
+Total PSS by process:
+    63176 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    25352 kB: com.tianci.de (pid 2460)
+    25323 kB: com.tianci.system (pid 1590)
+    20374 kB: system (pid 1349)
+    13467 kB: com.tianci.user (pid 2488)
+    13320 kB: com.tianci.movieplatform (pid 2560)
+    13122 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    11345 kB: com.coocaa.sysreport (pid 2327)
+     9867 kB: com.coocaa.os.ccosservice (pid 1867)
+     9392 kB: mediaserver (pid 746)
+     8617 kB: app_process (pid 1799)
+     7204 kB: com.tianci.push (pid 1720)
+     6454 kB: zygote (pid 744)
+     5662 kB: android.process.media (pid 2647)
+     4843 kB: com.dunn.instrument (pid 1581)
+     3896 kB: TvServer (pid 1118)
+     2112 kB: surfaceflinger (pid 743)
+     1362 kB: logcat (pid 2093)
+     1179 kB: drmserver (pid 745)
+      954 kB: wpa_supplicant (pid 1505)
+      577 kB: VirtualEvent (pid 1263)
+      553 kB: netd (pid 741)
+      492 kB: vold (pid 737)
+      423 kB: keystore (pid 748)
+      420 kB: FileDesc_server (pid 749)
+      343 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      258 kB: keypad (pid 740)
+      229 kB: dhcpcd (pid 1878)
+      223 kB: hardwared (pid 738)
+      216 kB: adbd (pid 1439)
+      206 kB: coocaa_guard (pid 753)
+      179 kB: dumpsys (pid 2640)
+      174 kB: sdcard (pid 757)
+      169 kB: sh (pid 1706)
+      168 kB: RootApp (pid 1111)
+      160 kB: installd (pid 747)
+      150 kB: debuggerd (pid 742)
+      143 kB: sh (pid 1335)
+      116 kB: healthd (pid 733)
+      115 kB: smobsd (pid 1266)
+      113 kB: servicemanager (pid 735)
+      109 kB: sh (pid 734)
+      109 kB: logwrapper (pid 1106)
+       72 kB: ueventd (pid 512)
+
+Total PSS by OOM adjustment:
+    45645 kB: Native
+                9392 kB: mediaserver (pid 746)
+                8617 kB: app_process (pid 1799)
+                6454 kB: zygote (pid 744)
+                5662 kB: android.process.media (pid 2647)
+                3896 kB: TvServer (pid 1118)
+                2112 kB: surfaceflinger (pid 743)
+                1362 kB: logcat (pid 2093)
+                1179 kB: drmserver (pid 745)
+                 954 kB: wpa_supplicant (pid 1505)
+                 577 kB: VirtualEvent (pid 1263)
+                 553 kB: netd (pid 741)
+                 492 kB: vold (pid 737)
+                 423 kB: keystore (pid 748)
+                 420 kB: FileDesc_server (pid 749)
+                 343 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 258 kB: keypad (pid 740)
+                 229 kB: dhcpcd (pid 1878)
+                 223 kB: hardwared (pid 738)
+                 216 kB: adbd (pid 1439)
+                 206 kB: coocaa_guard (pid 753)
+                 179 kB: dumpsys (pid 2640)
+                 174 kB: sdcard (pid 757)
+                 169 kB: sh (pid 1706)
+                 168 kB: RootApp (pid 1111)
+                 160 kB: installd (pid 747)
+                 150 kB: debuggerd (pid 742)
+                 143 kB: sh (pid 1335)
+                 116 kB: healthd (pid 733)
+                 115 kB: smobsd (pid 1266)
+                 113 kB: servicemanager (pid 735)
+                 109 kB: sh (pid 734)
+                 109 kB: logwrapper (pid 1106)
+                  72 kB: ueventd (pid 512)
+    20374 kB: System
+               20374 kB: system (pid 1349)
+     4843 kB: Persistent
+                4843 kB: com.dunn.instrument (pid 1581)
+   147497 kB: Foreground
+               63176 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               25352 kB: com.tianci.de (pid 2460)
+               25323 kB: com.tianci.system (pid 1590)
+               13320 kB: com.tianci.movieplatform (pid 2560)
+               13122 kB: com.coocaa.os.softsettings.provider (pid 2298)
+                7204 kB: com.tianci.push (pid 1720)
+     9867 kB: Visible
+                9867 kB: com.coocaa.os.ccosservice (pid 1867)
+    24812 kB: Cached
+               13467 kB: com.tianci.user (pid 2488)
+               11345 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    77639 kB: .dex mmap
+    48276 kB: Dalvik
+    47380 kB: Dalvik Other
+    28217 kB: .so mmap
+    19757 kB: Unknown
+     8157 kB: Native
+     7187 kB: .apk mmap
+     6998 kB: Other dev
+     5067 kB: Other mmap
+     3264 kB: Stack
+      840 kB: .ttf mmap
+      156 kB: .jar mmap
+       96 kB: Ashmem
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 236288 kB (24812 cached pss + 170452 cached + 41024 free)
+ Used RAM: 260134 kB (228226 used pss + 9764 buffers + 228 shmem + 21916 slab)
+ Lost RAM: -33294 kB
+     ZRAM: 584 kB physical used for 500 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 53062 Realtime: 53062
+
+Total PSS by process:
+    76233 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    25854 kB: com.tianci.de (pid 2460)
+    22400 kB: com.tianci.system (pid 1590)
+    21004 kB: system (pid 1349)
+    20403 kB: com.tianci.movieplatform (pid 2560)
+    13279 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    12911 kB: com.tianci.user (pid 2488)
+    11231 kB: com.coocaa.sysreport (pid 2327)
+     9530 kB: com.coocaa.os.ccosservice (pid 1867)
+     9388 kB: mediaserver (pid 746)
+     8559 kB: app_process (pid 1799)
+     7087 kB: com.tianci.push (pid 1720)
+     6357 kB: zygote (pid 744)
+     5554 kB: android.process.media (pid 2647)
+     5070 kB: com.tianci.ad (pid 2726)
+     4801 kB: com.dunn.instrument (pid 1581)
+     3896 kB: TvServer (pid 1118)
+     2108 kB: surfaceflinger (pid 743)
+     1178 kB: drmserver (pid 745)
+      954 kB: wpa_supplicant (pid 1505)
+      802 kB: logcat (pid 2093)
+      577 kB: VirtualEvent (pid 1263)
+      551 kB: netd (pid 741)
+      490 kB: vold (pid 737)
+      422 kB: keystore (pid 748)
+      420 kB: FileDesc_server (pid 749)
+      342 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      258 kB: keypad (pid 740)
+      229 kB: dhcpcd (pid 1878)
+      222 kB: hardwared (pid 738)
+      216 kB: adbd (pid 1439)
+      206 kB: coocaa_guard (pid 753)
+      173 kB: sdcard (pid 757)
+      169 kB: sh (pid 1706)
+      168 kB: RootApp (pid 1111)
+      160 kB: installd (pid 747)
+      150 kB: debuggerd (pid 742)
+      143 kB: sh (pid 1335)
+      116 kB: healthd (pid 733)
+      115 kB: smobsd (pid 1266)
+      112 kB: servicemanager (pid 735)
+      109 kB: logwrapper (pid 1106)
+      105 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+        0 kB: dumpsys (pid 2640)
+
+Total PSS by OOM adjustment:
+    39067 kB: Native
+                9388 kB: mediaserver (pid 746)
+                8559 kB: app_process (pid 1799)
+                6357 kB: zygote (pid 744)
+                3896 kB: TvServer (pid 1118)
+                2108 kB: surfaceflinger (pid 743)
+                1178 kB: drmserver (pid 745)
+                 954 kB: wpa_supplicant (pid 1505)
+                 802 kB: logcat (pid 2093)
+                 577 kB: VirtualEvent (pid 1263)
+                 551 kB: netd (pid 741)
+                 490 kB: vold (pid 737)
+                 422 kB: keystore (pid 748)
+                 420 kB: FileDesc_server (pid 749)
+                 342 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 258 kB: keypad (pid 740)
+                 229 kB: dhcpcd (pid 1878)
+                 222 kB: hardwared (pid 738)
+                 216 kB: adbd (pid 1439)
+                 206 kB: coocaa_guard (pid 753)
+                 173 kB: sdcard (pid 757)
+                 169 kB: sh (pid 1706)
+                 168 kB: RootApp (pid 1111)
+                 160 kB: installd (pid 747)
+                 150 kB: debuggerd (pid 742)
+                 143 kB: sh (pid 1335)
+                 116 kB: healthd (pid 733)
+                 115 kB: smobsd (pid 1266)
+                 112 kB: servicemanager (pid 735)
+                 109 kB: logwrapper (pid 1106)
+                 105 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+                   0 kB: dumpsys (pid 2640)
+    21004 kB: System
+               21004 kB: system (pid 1349)
+     4801 kB: Persistent
+                4801 kB: com.dunn.instrument (pid 1581)
+   175880 kB: Foreground
+               76233 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               25854 kB: com.tianci.de (pid 2460)
+               22400 kB: com.tianci.system (pid 1590)
+               20403 kB: com.tianci.movieplatform (pid 2560)
+               13279 kB: com.coocaa.os.softsettings.provider (pid 2298)
+                7087 kB: com.tianci.push (pid 1720)
+                5554 kB: android.process.media (pid 2647)
+                5070 kB: com.tianci.ad (pid 2726)
+     9530 kB: Visible
+                9530 kB: com.coocaa.os.ccosservice (pid 1867)
+    24142 kB: Cached
+               12911 kB: com.tianci.user (pid 2488)
+               11231 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    81857 kB: .dex mmap
+    52302 kB: Dalvik
+    50671 kB: Dalvik Other
+    28478 kB: .so mmap
+    26361 kB: Unknown
+     7606 kB: Native
+     6004 kB: Ashmem
+     5971 kB: .apk mmap
+     5493 kB: Other dev
+     4977 kB: Other mmap
+     3388 kB: Stack
+     1152 kB: .ttf mmap
+      160 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 206770 kB (24142 cached pss + 173664 cached + 8964 free)
+ Used RAM: 286502 kB (250282 used pss + 12740 buffers + 228 shmem + 23252 slab)
+ Lost RAM: -30144 kB
+     ZRAM: 584 kB physical used for 500 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 56505 Realtime: 56505
+
+Total PSS by process:
+    82499 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    26608 kB: com.tianci.de (pid 2460)
+    24058 kB: com.tianci.movieplatform (pid 2560)
+    22346 kB: com.tianci.system (pid 1590)
+    20324 kB: system (pid 1349)
+    15420 kB: com.tianci.ad (pid 2726)
+    13279 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    12197 kB: com.tianci.user (pid 2828)
+    11386 kB: com.coocaa.sysreport (pid 2327)
+     9554 kB: com.coocaa.os.ccosservice (pid 1867)
+     9387 kB: mediaserver (pid 746)
+     8568 kB: app_process (pid 1799)
+     7142 kB: com.tianci.push (pid 1720)
+     6367 kB: zygote (pid 744)
+     5564 kB: android.process.media (pid 2647)
+     4863 kB: com.dunn.instrument (pid 1581)
+     3895 kB: TvServer (pid 1118)
+     2110 kB: surfaceflinger (pid 743)
+     1177 kB: drmserver (pid 745)
+      949 kB: wpa_supplicant (pid 1505)
+      806 kB: logcat (pid 2093)
+      577 kB: VirtualEvent (pid 1263)
+      552 kB: netd (pid 741)
+      491 kB: vold (pid 737)
+      420 kB: keystore (pid 748)
+      419 kB: FileDesc_server (pid 749)
+      342 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      258 kB: keypad (pid 740)
+      229 kB: dhcpcd (pid 1878)
+      222 kB: hardwared (pid 738)
+      216 kB: adbd (pid 1439)
+      206 kB: coocaa_guard (pid 753)
+      179 kB: dumpsys (pid 2938)
+      173 kB: sdcard (pid 757)
+      169 kB: sh (pid 1706)
+      168 kB: RootApp (pid 1111)
+      160 kB: installd (pid 747)
+      150 kB: debuggerd (pid 742)
+      143 kB: sh (pid 1335)
+      116 kB: healthd (pid 733)
+      115 kB: smobsd (pid 1266)
+      109 kB: logwrapper (pid 1106)
+      108 kB: servicemanager (pid 735)
+      105 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+
+Total PSS by OOM adjustment:
+    39258 kB: Native
+                9387 kB: mediaserver (pid 746)
+                8568 kB: app_process (pid 1799)
+                6367 kB: zygote (pid 744)
+                3895 kB: TvServer (pid 1118)
+                2110 kB: surfaceflinger (pid 743)
+                1177 kB: drmserver (pid 745)
+                 949 kB: wpa_supplicant (pid 1505)
+                 806 kB: logcat (pid 2093)
+                 577 kB: VirtualEvent (pid 1263)
+                 552 kB: netd (pid 741)
+                 491 kB: vold (pid 737)
+                 420 kB: keystore (pid 748)
+                 419 kB: FileDesc_server (pid 749)
+                 342 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 258 kB: keypad (pid 740)
+                 229 kB: dhcpcd (pid 1878)
+                 222 kB: hardwared (pid 738)
+                 216 kB: adbd (pid 1439)
+                 206 kB: coocaa_guard (pid 753)
+                 179 kB: dumpsys (pid 2938)
+                 173 kB: sdcard (pid 757)
+                 169 kB: sh (pid 1706)
+                 168 kB: RootApp (pid 1111)
+                 160 kB: installd (pid 747)
+                 150 kB: debuggerd (pid 742)
+                 143 kB: sh (pid 1335)
+                 116 kB: healthd (pid 733)
+                 115 kB: smobsd (pid 1266)
+                 109 kB: logwrapper (pid 1106)
+                 108 kB: servicemanager (pid 735)
+                 105 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+    20324 kB: System
+               20324 kB: system (pid 1349)
+     4863 kB: Persistent
+                4863 kB: com.dunn.instrument (pid 1581)
+   172858 kB: Foreground
+               82499 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               26608 kB: com.tianci.de (pid 2460)
+               22346 kB: com.tianci.system (pid 1590)
+               15420 kB: com.tianci.ad (pid 2726)
+               13279 kB: com.coocaa.os.softsettings.provider (pid 2298)
+                7142 kB: com.tianci.push (pid 1720)
+                5564 kB: android.process.media (pid 2647)
+    45809 kB: Visible
+               24058 kB: com.tianci.movieplatform (pid 2560)
+               12197 kB: com.tianci.user (pid 2828)
+                9554 kB: com.coocaa.os.ccosservice (pid 1867)
+    11386 kB: Cached
+               11386 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    87994 kB: .dex mmap
+    55392 kB: Dalvik
+    53052 kB: Dalvik Other
+    29795 kB: .so mmap
+    27617 kB: Unknown
+    11583 kB: Other dev
+     7616 kB: Native
+     6004 kB: Ashmem
+     5502 kB: .apk mmap
+     5027 kB: Other mmap
+     3644 kB: Stack
+     1104 kB: .ttf mmap
+      160 kB: .jar mmap
+        8 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 183626 kB (11386 cached pss + 168652 cached + 3588 free)
+ Used RAM: 319528 kB (283112 used pss + 12712 buffers + 228 shmem + 23476 slab)
+ Lost RAM: -40026 kB
+     ZRAM: 584 kB physical used for 504 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 60050 Realtime: 60050
+
+Total PSS by process:
+    82573 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    26456 kB: com.tianci.de (pid 2460)
+    24523 kB: com.tianci.movieplatform (pid 2560)
+    18719 kB: system (pid 1349)
+    18629 kB: com.tianci.system (pid 1590)
+    15642 kB: com.tianci.ad (pid 2726)
+    13258 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    13220 kB: com.tianci.user (pid 2828)
+    11311 kB: com.coocaa.sysreport (pid 2327)
+     9215 kB: mediaserver (pid 746)
+     8540 kB: app_process (pid 1799)
+     7641 kB: com.coocaa.os.ccosservice (pid 1867)
+     5564 kB: android.process.media (pid 2647)
+     5267 kB: zygote (pid 744)
+     4938 kB: com.tianci.push (pid 1720)
+     4623 kB: com.dunn.instrument (pid 1581)
+     3907 kB: TvServer (pid 1118)
+     1958 kB: surfaceflinger (pid 743)
+      961 kB: drmserver (pid 745)
+      953 kB: wpa_supplicant (pid 1505)
+      806 kB: logcat (pid 2093)
+      577 kB: VirtualEvent (pid 1263)
+      352 kB: netd (pid 741)
+      334 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      229 kB: dhcpcd (pid 1878)
+      216 kB: adbd (pid 1439)
+      211 kB: vold (pid 737)
+      169 kB: sh (pid 1706)
+      168 kB: RootApp (pid 1111)
+      154 kB: coocaa_guard (pid 753)
+      143 kB: sh (pid 1335)
+      115 kB: smobsd (pid 1266)
+      112 kB: healthd (pid 733)
+      109 kB: logwrapper (pid 1106)
+      108 kB: keystore (pid 748)
+      107 kB: FileDesc_server (pid 749)
+       93 kB: sdcard (pid 757)
+       77 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+       52 kB: servicemanager (pid 735)
+       46 kB: keypad (pid 740)
+       36 kB: installd (pid 747)
+       34 kB: hardwared (pid 738)
+       30 kB: debuggerd (pid 742)
+        0 kB: dumpsys (pid 2938)
+
+Total PSS by OOM adjustment:
+    35451 kB: Native
+                9215 kB: mediaserver (pid 746)
+                8540 kB: app_process (pid 1799)
+                5267 kB: zygote (pid 744)
+                3907 kB: TvServer (pid 1118)
+                1958 kB: surfaceflinger (pid 743)
+                 961 kB: drmserver (pid 745)
+                 953 kB: wpa_supplicant (pid 1505)
+                 806 kB: logcat (pid 2093)
+                 577 kB: VirtualEvent (pid 1263)
+                 352 kB: netd (pid 741)
+                 334 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 229 kB: dhcpcd (pid 1878)
+                 216 kB: adbd (pid 1439)
+                 211 kB: vold (pid 737)
+                 169 kB: sh (pid 1706)
+                 168 kB: RootApp (pid 1111)
+                 154 kB: coocaa_guard (pid 753)
+                 143 kB: sh (pid 1335)
+                 115 kB: smobsd (pid 1266)
+                 112 kB: healthd (pid 733)
+                 109 kB: logwrapper (pid 1106)
+                 108 kB: keystore (pid 748)
+                 107 kB: FileDesc_server (pid 749)
+                  93 kB: sdcard (pid 757)
+                  77 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+                  52 kB: servicemanager (pid 735)
+                  46 kB: keypad (pid 740)
+                  36 kB: installd (pid 747)
+                  34 kB: hardwared (pid 738)
+                  30 kB: debuggerd (pid 742)
+                   0 kB: dumpsys (pid 2938)
+    18719 kB: System
+               18719 kB: system (pid 1349)
+     4623 kB: Persistent
+                4623 kB: com.dunn.instrument (pid 1581)
+   167060 kB: Foreground
+               82573 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               26456 kB: com.tianci.de (pid 2460)
+               18629 kB: com.tianci.system (pid 1590)
+               15642 kB: com.tianci.ad (pid 2726)
+               13258 kB: com.coocaa.os.softsettings.provider (pid 2298)
+                5564 kB: android.process.media (pid 2647)
+                4938 kB: com.tianci.push (pid 1720)
+    32164 kB: Visible
+               24523 kB: com.tianci.movieplatform (pid 2560)
+                7641 kB: com.coocaa.os.ccosservice (pid 1867)
+    24531 kB: Cached
+               13220 kB: com.tianci.user (pid 2828)
+               11311 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    77807 kB: .dex mmap
+    55663 kB: Dalvik
+    53512 kB: Dalvik Other
+    27985 kB: Unknown
+    27765 kB: .so mmap
+    11575 kB: Other dev
+     7396 kB: Native
+     6004 kB: Ashmem
+     5123 kB: .apk mmap
+     4850 kB: Other mmap
+     3600 kB: Stack
+     1104 kB: .ttf mmap
+      160 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 199535 kB (24531 cached pss + 152412 cached + 22592 free)
+ Used RAM: 292613 kB (258017 used pss + 10808 buffers + 228 shmem + 23560 slab)
+ Lost RAM: -29020 kB
+     ZRAM: 1752 kB physical used for 3032 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 62463 Realtime: 62463
+
+Total PSS by process:
+    79559 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    26463 kB: com.tianci.de (pid 2460)
+    25963 kB: com.tianci.movieplatform (pid 2560)
+    18842 kB: system (pid 1349)
+    17481 kB: com.tianci.system (pid 1590)
+    15445 kB: com.tianci.ad (pid 2726)
+    13258 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    13076 kB: com.tianci.user (pid 2828)
+    11362 kB: com.coocaa.sysreport (pid 2327)
+     9215 kB: mediaserver (pid 746)
+     8540 kB: app_process (pid 1799)
+     7235 kB: com.coocaa.os.ccosservice (pid 1867)
+     5562 kB: android.process.media (pid 2647)
+     5268 kB: zygote (pid 744)
+     4939 kB: com.tianci.push (pid 1720)
+     4624 kB: com.dunn.instrument (pid 1581)
+     4095 kB: TvServer (pid 1118)
+     1933 kB: surfaceflinger (pid 743)
+      961 kB: drmserver (pid 745)
+      953 kB: wpa_supplicant (pid 1505)
+      810 kB: logcat (pid 2093)
+      577 kB: VirtualEvent (pid 1263)
+      352 kB: netd (pid 741)
+      334 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      229 kB: dhcpcd (pid 1878)
+      216 kB: adbd (pid 1439)
+      211 kB: vold (pid 737)
+      179 kB: dumpsys (pid 3114)
+      169 kB: sh (pid 1706)
+      168 kB: RootApp (pid 1111)
+      153 kB: coocaa_guard (pid 753)
+      143 kB: sh (pid 1335)
+      115 kB: smobsd (pid 1266)
+      112 kB: healthd (pid 733)
+      109 kB: logwrapper (pid 1106)
+      108 kB: keystore (pid 748)
+      107 kB: FileDesc_server (pid 749)
+       93 kB: sdcard (pid 757)
+       77 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+       52 kB: servicemanager (pid 735)
+       46 kB: keypad (pid 740)
+       36 kB: installd (pid 747)
+       34 kB: hardwared (pid 738)
+       30 kB: debuggerd (pid 742)
+
+Total PSS by OOM adjustment:
+    35797 kB: Native
+                9215 kB: mediaserver (pid 746)
+                8540 kB: app_process (pid 1799)
+                5268 kB: zygote (pid 744)
+                4095 kB: TvServer (pid 1118)
+                1933 kB: surfaceflinger (pid 743)
+                 961 kB: drmserver (pid 745)
+                 953 kB: wpa_supplicant (pid 1505)
+                 810 kB: logcat (pid 2093)
+                 577 kB: VirtualEvent (pid 1263)
+                 352 kB: netd (pid 741)
+                 334 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 229 kB: dhcpcd (pid 1878)
+                 216 kB: adbd (pid 1439)
+                 211 kB: vold (pid 737)
+                 179 kB: dumpsys (pid 3114)
+                 169 kB: sh (pid 1706)
+                 168 kB: RootApp (pid 1111)
+                 153 kB: coocaa_guard (pid 753)
+                 143 kB: sh (pid 1335)
+                 115 kB: smobsd (pid 1266)
+                 112 kB: healthd (pid 733)
+                 109 kB: logwrapper (pid 1106)
+                 108 kB: keystore (pid 748)
+                 107 kB: FileDesc_server (pid 749)
+                  93 kB: sdcard (pid 757)
+                  77 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+                  52 kB: servicemanager (pid 735)
+                  46 kB: keypad (pid 740)
+                  36 kB: installd (pid 747)
+                  34 kB: hardwared (pid 738)
+                  30 kB: debuggerd (pid 742)
+    18842 kB: System
+               18842 kB: system (pid 1349)
+     4624 kB: Persistent
+                4624 kB: com.dunn.instrument (pid 1581)
+   162707 kB: Foreground
+               79559 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               26463 kB: com.tianci.de (pid 2460)
+               17481 kB: com.tianci.system (pid 1590)
+               15445 kB: com.tianci.ad (pid 2726)
+               13258 kB: com.coocaa.os.softsettings.provider (pid 2298)
+                5562 kB: android.process.media (pid 2647)
+                4939 kB: com.tianci.push (pid 1720)
+    33198 kB: Visible
+               25963 kB: com.tianci.movieplatform (pid 2560)
+                7235 kB: com.coocaa.os.ccosservice (pid 1867)
+    24438 kB: Cached
+               13076 kB: com.tianci.user (pid 2828)
+               11362 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    78733 kB: .dex mmap
+    53795 kB: Dalvik Other
+    51339 kB: Dalvik
+    27870 kB: .so mmap
+    27801 kB: Unknown
+    11579 kB: Other dev
+     7432 kB: Native
+     6004 kB: Ashmem
+     5158 kB: .apk mmap
+     5027 kB: Other mmap
+     3600 kB: Stack
+     1104 kB: .ttf mmap
+      160 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 202658 kB (24438 cached pss + 156512 cached + 21708 free)
+ Used RAM: 289680 kB (255168 used pss + 10676 buffers + 228 shmem + 23608 slab)
+ Lost RAM: -29210 kB
+     ZRAM: 1752 kB physical used for 3048 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 64774 Realtime: 64774
+
+Total PSS by process:
+    79526 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    26463 kB: com.tianci.de (pid 2460)
+    26070 kB: com.tianci.movieplatform (pid 2560)
+    18850 kB: system (pid 1349)
+    17481 kB: com.tianci.system (pid 1590)
+    15445 kB: com.tianci.ad (pid 2726)
+    13258 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    13076 kB: com.tianci.user (pid 2828)
+    11361 kB: com.coocaa.sysreport (pid 2327)
+     9215 kB: mediaserver (pid 746)
+     8540 kB: app_process (pid 1799)
+     7236 kB: com.coocaa.os.ccosservice (pid 1867)
+     5562 kB: android.process.media (pid 2647)
+     5268 kB: zygote (pid 744)
+     4939 kB: com.tianci.push (pid 1720)
+     4624 kB: com.dunn.instrument (pid 1581)
+     4095 kB: TvServer (pid 1118)
+     1934 kB: surfaceflinger (pid 743)
+      961 kB: drmserver (pid 745)
+      953 kB: wpa_supplicant (pid 1505)
+      810 kB: logcat (pid 2093)
+      577 kB: VirtualEvent (pid 1263)
+      352 kB: netd (pid 741)
+      334 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      229 kB: dhcpcd (pid 1878)
+      216 kB: adbd (pid 1439)
+      211 kB: vold (pid 737)
+      169 kB: sh (pid 1706)
+      168 kB: RootApp (pid 1111)
+      154 kB: coocaa_guard (pid 753)
+      143 kB: sh (pid 1335)
+      115 kB: smobsd (pid 1266)
+      112 kB: healthd (pid 733)
+      109 kB: logwrapper (pid 1106)
+      108 kB: keystore (pid 748)
+      107 kB: FileDesc_server (pid 749)
+       93 kB: sdcard (pid 757)
+       77 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+       52 kB: servicemanager (pid 735)
+       46 kB: keypad (pid 740)
+       36 kB: installd (pid 747)
+       34 kB: hardwared (pid 738)
+       30 kB: debuggerd (pid 742)
+        0 kB: dumpsys (pid 3114)
+
+Total PSS by OOM adjustment:
+    35620 kB: Native
+                9215 kB: mediaserver (pid 746)
+                8540 kB: app_process (pid 1799)
+                5268 kB: zygote (pid 744)
+                4095 kB: TvServer (pid 1118)
+                1934 kB: surfaceflinger (pid 743)
+                 961 kB: drmserver (pid 745)
+                 953 kB: wpa_supplicant (pid 1505)
+                 810 kB: logcat (pid 2093)
+                 577 kB: VirtualEvent (pid 1263)
+                 352 kB: netd (pid 741)
+                 334 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 229 kB: dhcpcd (pid 1878)
+                 216 kB: adbd (pid 1439)
+                 211 kB: vold (pid 737)
+                 169 kB: sh (pid 1706)
+                 168 kB: RootApp (pid 1111)
+                 154 kB: coocaa_guard (pid 753)
+                 143 kB: sh (pid 1335)
+                 115 kB: smobsd (pid 1266)
+                 112 kB: healthd (pid 733)
+                 109 kB: logwrapper (pid 1106)
+                 108 kB: keystore (pid 748)
+                 107 kB: FileDesc_server (pid 749)
+                  93 kB: sdcard (pid 757)
+                  77 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+                  52 kB: servicemanager (pid 735)
+                  46 kB: keypad (pid 740)
+                  36 kB: installd (pid 747)
+                  34 kB: hardwared (pid 738)
+                  30 kB: debuggerd (pid 742)
+                   0 kB: dumpsys (pid 3114)
+    18850 kB: System
+               18850 kB: system (pid 1349)
+     4624 kB: Persistent
+                4624 kB: com.dunn.instrument (pid 1581)
+   162674 kB: Foreground
+               79526 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               26463 kB: com.tianci.de (pid 2460)
+               17481 kB: com.tianci.system (pid 1590)
+               15445 kB: com.tianci.ad (pid 2726)
+               13258 kB: com.coocaa.os.softsettings.provider (pid 2298)
+                5562 kB: android.process.media (pid 2647)
+                4939 kB: com.tianci.push (pid 1720)
+    33306 kB: Visible
+               26070 kB: com.tianci.movieplatform (pid 2560)
+                7236 kB: com.coocaa.os.ccosservice (pid 1867)
+    24437 kB: Cached
+               13076 kB: com.tianci.user (pid 2828)
+               11361 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    78745 kB: .dex mmap
+    53803 kB: Dalvik Other
+    51435 kB: Dalvik
+    27801 kB: Unknown
+    27708 kB: .so mmap
+    11575 kB: Other dev
+     7428 kB: Native
+     6004 kB: Ashmem
+     5158 kB: .apk mmap
+     5006 kB: Other mmap
+     3580 kB: Stack
+     1104 kB: .ttf mmap
+      160 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 216737 kB (24437 cached pss + 130656 cached + 61644 free)
+ Used RAM: 276530 kB (255074 used pss + 776 buffers + 228 shmem + 20452 slab)
+ Lost RAM: -30139 kB
+     ZRAM: 1752 kB physical used for 3048 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 67040 Realtime: 67040
+
+Total PSS by process:
+    79478 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    29643 kB: com.tianci.movieplatform (pid 2560)
+    26267 kB: com.tianci.de (pid 2460)
+    18865 kB: system (pid 1349)
+    17426 kB: com.tianci.system (pid 1590)
+    15437 kB: com.tianci.ad (pid 2726)
+    13258 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    13076 kB: com.tianci.user (pid 2828)
+    11389 kB: com.coocaa.sysreport (pid 2327)
+     9071 kB: mediaserver (pid 746)
+     8438 kB: app_process (pid 1799)
+     7233 kB: com.coocaa.os.ccosservice (pid 1867)
+     5560 kB: android.process.media (pid 2647)
+     5137 kB: zygote (pid 744)
+     4939 kB: com.tianci.push (pid 1720)
+     4624 kB: com.dunn.instrument (pid 1581)
+     4095 kB: TvServer (pid 1118)
+     1930 kB: surfaceflinger (pid 743)
+      952 kB: wpa_supplicant (pid 1505)
+      929 kB: drmserver (pid 745)
+      810 kB: logcat (pid 2093)
+      577 kB: VirtualEvent (pid 1263)
+      368 kB: netd (pid 741)
+      334 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      229 kB: dhcpcd (pid 1878)
+      216 kB: adbd (pid 1439)
+      211 kB: vold (pid 737)
+      169 kB: sh (pid 1706)
+      168 kB: RootApp (pid 1111)
+      154 kB: coocaa_guard (pid 753)
+      143 kB: sh (pid 1335)
+      115 kB: smobsd (pid 1266)
+      112 kB: healthd (pid 733)
+      109 kB: logwrapper (pid 1106)
+      107 kB: keystore (pid 748)
+      103 kB: FileDesc_server (pid 749)
+      101 kB: sdcard (pid 757)
+       77 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+       52 kB: servicemanager (pid 735)
+       46 kB: keypad (pid 740)
+       36 kB: installd (pid 747)
+       34 kB: hardwared (pid 738)
+       30 kB: debuggerd (pid 742)
+        0 kB: dumpsys (pid 3114)
+
+Total PSS by OOM adjustment:
+    35225 kB: Native
+                9071 kB: mediaserver (pid 746)
+                8438 kB: app_process (pid 1799)
+                5137 kB: zygote (pid 744)
+                4095 kB: TvServer (pid 1118)
+                1930 kB: surfaceflinger (pid 743)
+                 952 kB: wpa_supplicant (pid 1505)
+                 929 kB: drmserver (pid 745)
+                 810 kB: logcat (pid 2093)
+                 577 kB: VirtualEvent (pid 1263)
+                 368 kB: netd (pid 741)
+                 334 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 229 kB: dhcpcd (pid 1878)
+                 216 kB: adbd (pid 1439)
+                 211 kB: vold (pid 737)
+                 169 kB: sh (pid 1706)
+                 168 kB: RootApp (pid 1111)
+                 154 kB: coocaa_guard (pid 753)
+                 143 kB: sh (pid 1335)
+                 115 kB: smobsd (pid 1266)
+                 112 kB: healthd (pid 733)
+                 109 kB: logwrapper (pid 1106)
+                 107 kB: keystore (pid 748)
+                 103 kB: FileDesc_server (pid 749)
+                 101 kB: sdcard (pid 757)
+                  77 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+                  52 kB: servicemanager (pid 735)
+                  46 kB: keypad (pid 740)
+                  36 kB: installd (pid 747)
+                  34 kB: hardwared (pid 738)
+                  30 kB: debuggerd (pid 742)
+                   0 kB: dumpsys (pid 3114)
+    18865 kB: System
+               18865 kB: system (pid 1349)
+     4624 kB: Persistent
+                4624 kB: com.dunn.instrument (pid 1581)
+   162365 kB: Foreground
+               79478 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               26267 kB: com.tianci.de (pid 2460)
+               17426 kB: com.tianci.system (pid 1590)
+               15437 kB: com.tianci.ad (pid 2726)
+               13258 kB: com.coocaa.os.softsettings.provider (pid 2298)
+                5560 kB: android.process.media (pid 2647)
+                4939 kB: com.tianci.push (pid 1720)
+    36876 kB: Visible
+               29643 kB: com.tianci.movieplatform (pid 2560)
+                7233 kB: com.coocaa.os.ccosservice (pid 1867)
+    24465 kB: Cached
+               13076 kB: com.tianci.user (pid 2828)
+               11389 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    80512 kB: .dex mmap
+    54343 kB: Dalvik Other
+    51367 kB: Dalvik
+    28245 kB: Unknown
+    27694 kB: .so mmap
+    11647 kB: Other dev
+     7444 kB: Native
+     6004 kB: Ashmem
+     5157 kB: .apk mmap
+     5031 kB: Other mmap
+     3704 kB: Stack
+     1104 kB: .ttf mmap
+      164 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 211373 kB (24465 cached pss + 156620 cached + 30288 free)
+ Used RAM: 280363 kB (257955 used pss + 1588 buffers + 228 shmem + 20592 slab)
+ Lost RAM: -28608 kB
+     ZRAM: 1752 kB physical used for 3048 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 69529 Realtime: 69529
+
+Total PSS by process:
+    79443 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    39676 kB: com.tianci.movieplatform (pid 2560)
+    26244 kB: com.tianci.de (pid 2460)
+    18936 kB: system (pid 1349)
+    17407 kB: com.tianci.system (pid 1590)
+    15436 kB: com.tianci.ad (pid 2726)
+    13259 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    13069 kB: com.tianci.user (pid 2828)
+    11481 kB: com.coocaa.sysreport (pid 2327)
+     9070 kB: mediaserver (pid 746)
+     8426 kB: app_process (pid 1799)
+     7231 kB: com.coocaa.os.ccosservice (pid 1867)
+     5559 kB: android.process.media (pid 2647)
+     5128 kB: zygote (pid 744)
+     4944 kB: com.tianci.push (pid 1720)
+     4624 kB: com.dunn.instrument (pid 1581)
+     4095 kB: TvServer (pid 1118)
+     1929 kB: surfaceflinger (pid 743)
+      952 kB: wpa_supplicant (pid 1505)
+      928 kB: drmserver (pid 745)
+      810 kB: logcat (pid 2093)
+      577 kB: VirtualEvent (pid 1263)
+      368 kB: netd (pid 741)
+      334 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      229 kB: dhcpcd (pid 1878)
+      216 kB: adbd (pid 1439)
+      211 kB: vold (pid 737)
+      178 kB: dumpsys (pid 3320)
+      169 kB: sh (pid 1706)
+      168 kB: RootApp (pid 1111)
+      154 kB: coocaa_guard (pid 753)
+      143 kB: sh (pid 1335)
+      115 kB: smobsd (pid 1266)
+      112 kB: healthd (pid 733)
+      109 kB: logwrapper (pid 1106)
+      107 kB: keystore (pid 748)
+      102 kB: FileDesc_server (pid 749)
+      101 kB: sdcard (pid 757)
+       77 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+       52 kB: servicemanager (pid 735)
+       46 kB: keypad (pid 740)
+       36 kB: installd (pid 747)
+       34 kB: hardwared (pid 738)
+       30 kB: debuggerd (pid 742)
+
+Total PSS by OOM adjustment:
+    35378 kB: Native
+                9070 kB: mediaserver (pid 746)
+                8426 kB: app_process (pid 1799)
+                5128 kB: zygote (pid 744)
+                4095 kB: TvServer (pid 1118)
+                1929 kB: surfaceflinger (pid 743)
+                 952 kB: wpa_supplicant (pid 1505)
+                 928 kB: drmserver (pid 745)
+                 810 kB: logcat (pid 2093)
+                 577 kB: VirtualEvent (pid 1263)
+                 368 kB: netd (pid 741)
+                 334 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 229 kB: dhcpcd (pid 1878)
+                 216 kB: adbd (pid 1439)
+                 211 kB: vold (pid 737)
+                 178 kB: dumpsys (pid 3320)
+                 169 kB: sh (pid 1706)
+                 168 kB: RootApp (pid 1111)
+                 154 kB: coocaa_guard (pid 753)
+                 143 kB: sh (pid 1335)
+                 115 kB: smobsd (pid 1266)
+                 112 kB: healthd (pid 733)
+                 109 kB: logwrapper (pid 1106)
+                 107 kB: keystore (pid 748)
+                 102 kB: FileDesc_server (pid 749)
+                 101 kB: sdcard (pid 757)
+                  77 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+                  52 kB: servicemanager (pid 735)
+                  46 kB: keypad (pid 740)
+                  36 kB: installd (pid 747)
+                  34 kB: hardwared (pid 738)
+                  30 kB: debuggerd (pid 742)
+    18936 kB: System
+               18936 kB: system (pid 1349)
+     4624 kB: Persistent
+                4624 kB: com.dunn.instrument (pid 1581)
+   162292 kB: Foreground
+               79443 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               26244 kB: com.tianci.de (pid 2460)
+               17407 kB: com.tianci.system (pid 1590)
+               15436 kB: com.tianci.ad (pid 2726)
+               13259 kB: com.coocaa.os.softsettings.provider (pid 2298)
+                5559 kB: android.process.media (pid 2647)
+                4944 kB: com.tianci.push (pid 1720)
+    46907 kB: Visible
+               39676 kB: com.tianci.movieplatform (pid 2560)
+                7231 kB: com.coocaa.os.ccosservice (pid 1867)
+    24550 kB: Cached
+               13069 kB: com.tianci.user (pid 2828)
+               11481 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    81865 kB: .dex mmap
+    54973 kB: Dalvik Other
+    52418 kB: Dalvik
+    34158 kB: .so mmap
+    28873 kB: Unknown
+    11583 kB: Other dev
+     7448 kB: Native
+     6004 kB: Ashmem
+     5157 kB: .apk mmap
+     5052 kB: Other mmap
+     3884 kB: Stack
+     1104 kB: .ttf mmap
+      164 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 207730 kB (24550 cached pss + 157612 cached + 25568 free)
+ Used RAM: 290977 kB (268137 used pss + 1924 buffers + 228 shmem + 20688 slab)
+ Lost RAM: -35579 kB
+     ZRAM: 1752 kB physical used for 3048 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 71811 Realtime: 71811
+
+Total PSS by process:
+    79362 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    39803 kB: com.tianci.movieplatform (pid 2560)
+    26181 kB: com.tianci.de (pid 2460)
+    18952 kB: system (pid 1349)
+    17349 kB: com.tianci.system (pid 1590)
+    13197 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    13005 kB: com.tianci.user (pid 2828)
+    12832 kB: com.tianci.ad (pid 2726)
+    11272 kB: com.coocaa.sysreport (pid 2327)
+     9070 kB: mediaserver (pid 746)
+     8413 kB: com.tianci.ad:adUpgrade (pid 3333)
+     8396 kB: app_process (pid 1799)
+     7171 kB: com.coocaa.os.ccosservice (pid 1867)
+     5497 kB: android.process.media (pid 2647)
+     5070 kB: zygote (pid 744)
+     4885 kB: com.tianci.push (pid 1720)
+     4575 kB: com.dunn.instrument (pid 1581)
+     4094 kB: TvServer (pid 1118)
+     1929 kB: surfaceflinger (pid 743)
+      952 kB: wpa_supplicant (pid 1505)
+      928 kB: drmserver (pid 745)
+      810 kB: logcat (pid 2093)
+      576 kB: VirtualEvent (pid 1263)
+      367 kB: netd (pid 741)
+      334 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      229 kB: dhcpcd (pid 1878)
+      216 kB: adbd (pid 1439)
+      210 kB: vold (pid 737)
+      169 kB: sh (pid 1706)
+      168 kB: RootApp (pid 1111)
+      153 kB: coocaa_guard (pid 753)
+      143 kB: sh (pid 1335)
+      115 kB: smobsd (pid 1266)
+      112 kB: healthd (pid 733)
+      109 kB: logwrapper (pid 1106)
+      107 kB: keystore (pid 748)
+      102 kB: FileDesc_server (pid 749)
+      101 kB: sdcard (pid 757)
+       77 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+       52 kB: servicemanager (pid 735)
+       46 kB: keypad (pid 740)
+       36 kB: installd (pid 747)
+       34 kB: hardwared (pid 738)
+       30 kB: debuggerd (pid 742)
+        0 kB: dumpsys (pid 3320)
+
+Total PSS by OOM adjustment:
+    35107 kB: Native
+                9070 kB: mediaserver (pid 746)
+                8396 kB: app_process (pid 1799)
+                5070 kB: zygote (pid 744)
+                4094 kB: TvServer (pid 1118)
+                1929 kB: surfaceflinger (pid 743)
+                 952 kB: wpa_supplicant (pid 1505)
+                 928 kB: drmserver (pid 745)
+                 810 kB: logcat (pid 2093)
+                 576 kB: VirtualEvent (pid 1263)
+                 367 kB: netd (pid 741)
+                 334 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 229 kB: dhcpcd (pid 1878)
+                 216 kB: adbd (pid 1439)
+                 210 kB: vold (pid 737)
+                 169 kB: sh (pid 1706)
+                 168 kB: RootApp (pid 1111)
+                 153 kB: coocaa_guard (pid 753)
+                 143 kB: sh (pid 1335)
+                 115 kB: smobsd (pid 1266)
+                 112 kB: healthd (pid 733)
+                 109 kB: logwrapper (pid 1106)
+                 107 kB: keystore (pid 748)
+                 102 kB: FileDesc_server (pid 749)
+                 101 kB: sdcard (pid 757)
+                  77 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+                  52 kB: servicemanager (pid 735)
+                  46 kB: keypad (pid 740)
+                  36 kB: installd (pid 747)
+                  34 kB: hardwared (pid 738)
+                  30 kB: debuggerd (pid 742)
+                   0 kB: dumpsys (pid 3320)
+    18952 kB: System
+               18952 kB: system (pid 1349)
+     4575 kB: Persistent
+                4575 kB: com.dunn.instrument (pid 1581)
+   159303 kB: Foreground
+               79362 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               26181 kB: com.tianci.de (pid 2460)
+               17349 kB: com.tianci.system (pid 1590)
+               13197 kB: com.coocaa.os.softsettings.provider (pid 2298)
+               12832 kB: com.tianci.ad (pid 2726)
+                5497 kB: android.process.media (pid 2647)
+                4885 kB: com.tianci.push (pid 1720)
+    46974 kB: Visible
+               39803 kB: com.tianci.movieplatform (pid 2560)
+                7171 kB: com.coocaa.os.ccosservice (pid 1867)
+     8413 kB: A Services
+                8413 kB: com.tianci.ad:adUpgrade (pid 3333)
+    24277 kB: Cached
+               13005 kB: com.tianci.user (pid 2828)
+               11272 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    82098 kB: .dex mmap
+    57371 kB: Dalvik Other
+    54035 kB: Dalvik
+    34155 kB: .so mmap
+    29438 kB: Unknown
+    11619 kB: Other dev
+     7464 kB: Native
+     6004 kB: Ashmem
+     5157 kB: .apk mmap
+     5032 kB: Other mmap
+     3956 kB: Stack
+     1104 kB: .ttf mmap
+      164 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 202629 kB (24277 cached pss + 159192 cached + 19160 free)
+ Used RAM: 296252 kB (273324 used pss + 2016 buffers + 228 shmem + 20684 slab)
+ Lost RAM: -35753 kB
+     ZRAM: 1752 kB physical used for 3048 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 74109 Realtime: 74109
+
+Total PSS by process:
+    79362 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    39779 kB: com.tianci.movieplatform (pid 2560)
+    26181 kB: com.tianci.de (pid 2460)
+    18960 kB: system (pid 1349)
+    17349 kB: com.tianci.system (pid 1590)
+    13197 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    13005 kB: com.tianci.user (pid 2828)
+    12832 kB: com.tianci.ad (pid 2726)
+    11272 kB: com.coocaa.sysreport (pid 2327)
+     9070 kB: mediaserver (pid 746)
+     8413 kB: com.tianci.ad:adUpgrade (pid 3333)
+     8395 kB: app_process (pid 1799)
+     7171 kB: com.coocaa.os.ccosservice (pid 1867)
+     5497 kB: android.process.media (pid 2647)
+     5070 kB: zygote (pid 744)
+     4885 kB: com.tianci.push (pid 1720)
+     4575 kB: com.dunn.instrument (pid 1581)
+     4094 kB: TvServer (pid 1118)
+     1929 kB: surfaceflinger (pid 743)
+      952 kB: wpa_supplicant (pid 1505)
+      928 kB: drmserver (pid 745)
+      810 kB: logcat (pid 2093)
+      576 kB: VirtualEvent (pid 1263)
+      367 kB: netd (pid 741)
+      334 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      229 kB: dhcpcd (pid 1878)
+      216 kB: adbd (pid 1439)
+      210 kB: vold (pid 737)
+      169 kB: sh (pid 1706)
+      168 kB: RootApp (pid 1111)
+      153 kB: coocaa_guard (pid 753)
+      143 kB: sh (pid 1335)
+      115 kB: smobsd (pid 1266)
+      112 kB: healthd (pid 733)
+      109 kB: logwrapper (pid 1106)
+      107 kB: keystore (pid 748)
+      102 kB: FileDesc_server (pid 749)
+      101 kB: sdcard (pid 757)
+       77 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+       52 kB: servicemanager (pid 735)
+       46 kB: keypad (pid 740)
+       36 kB: installd (pid 747)
+       34 kB: hardwared (pid 738)
+       30 kB: debuggerd (pid 742)
+        0 kB: dumpsys (pid 3320)
+
+Total PSS by OOM adjustment:
+    35106 kB: Native
+                9070 kB: mediaserver (pid 746)
+                8395 kB: app_process (pid 1799)
+                5070 kB: zygote (pid 744)
+                4094 kB: TvServer (pid 1118)
+                1929 kB: surfaceflinger (pid 743)
+                 952 kB: wpa_supplicant (pid 1505)
+                 928 kB: drmserver (pid 745)
+                 810 kB: logcat (pid 2093)
+                 576 kB: VirtualEvent (pid 1263)
+                 367 kB: netd (pid 741)
+                 334 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 229 kB: dhcpcd (pid 1878)
+                 216 kB: adbd (pid 1439)
+                 210 kB: vold (pid 737)
+                 169 kB: sh (pid 1706)
+                 168 kB: RootApp (pid 1111)
+                 153 kB: coocaa_guard (pid 753)
+                 143 kB: sh (pid 1335)
+                 115 kB: smobsd (pid 1266)
+                 112 kB: healthd (pid 733)
+                 109 kB: logwrapper (pid 1106)
+                 107 kB: keystore (pid 748)
+                 102 kB: FileDesc_server (pid 749)
+                 101 kB: sdcard (pid 757)
+                  77 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+                  52 kB: servicemanager (pid 735)
+                  46 kB: keypad (pid 740)
+                  36 kB: installd (pid 747)
+                  34 kB: hardwared (pid 738)
+                  30 kB: debuggerd (pid 742)
+                   0 kB: dumpsys (pid 3320)
+    18960 kB: System
+               18960 kB: system (pid 1349)
+     4575 kB: Persistent
+                4575 kB: com.dunn.instrument (pid 1581)
+   159303 kB: Foreground
+               79362 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               26181 kB: com.tianci.de (pid 2460)
+               17349 kB: com.tianci.system (pid 1590)
+               13197 kB: com.coocaa.os.softsettings.provider (pid 2298)
+               12832 kB: com.tianci.ad (pid 2726)
+                5497 kB: android.process.media (pid 2647)
+                4885 kB: com.tianci.push (pid 1720)
+    46950 kB: Visible
+               39779 kB: com.tianci.movieplatform (pid 2560)
+                7171 kB: com.coocaa.os.ccosservice (pid 1867)
+     8413 kB: A Services
+                8413 kB: com.tianci.ad:adUpgrade (pid 3333)
+    24277 kB: Cached
+               13005 kB: com.tianci.user (pid 2828)
+               11272 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    82102 kB: .dex mmap
+    57371 kB: Dalvik Other
+    54043 kB: Dalvik
+    34154 kB: .so mmap
+    29406 kB: Unknown
+    11619 kB: Other dev
+     7464 kB: Native
+     6004 kB: Ashmem
+     5157 kB: .apk mmap
+     5032 kB: Other mmap
+     3960 kB: Stack
+     1104 kB: .ttf mmap
+      164 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 202397 kB (24277 cached pss + 159196 cached + 18924 free)
+ Used RAM: 296255 kB (273307 used pss + 2016 buffers + 228 shmem + 20704 slab)
+ Lost RAM: -35524 kB
+     ZRAM: 1752 kB physical used for 3048 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 76390 Realtime: 76390
+
+Total PSS by process:
+    79362 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    39779 kB: com.tianci.movieplatform (pid 2560)
+    26181 kB: com.tianci.de (pid 2460)
+    18724 kB: system (pid 1349)
+    17401 kB: com.tianci.system (pid 1590)
+    13197 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    13005 kB: com.tianci.user (pid 2828)
+    12832 kB: com.tianci.ad (pid 2726)
+    11272 kB: com.coocaa.sysreport (pid 2327)
+     9070 kB: mediaserver (pid 746)
+     8396 kB: app_process (pid 1799)
+     8321 kB: com.tianci.ad:adUpgrade (pid 3333)
+     7171 kB: com.coocaa.os.ccosservice (pid 1867)
+     5497 kB: android.process.media (pid 2647)
+     5070 kB: zygote (pid 744)
+     4885 kB: com.tianci.push (pid 1720)
+     4575 kB: com.dunn.instrument (pid 1581)
+     4094 kB: TvServer (pid 1118)
+     1929 kB: surfaceflinger (pid 743)
+      952 kB: wpa_supplicant (pid 1505)
+      928 kB: drmserver (pid 745)
+      810 kB: logcat (pid 2093)
+      576 kB: VirtualEvent (pid 1263)
+      367 kB: netd (pid 741)
+      334 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      229 kB: dhcpcd (pid 1878)
+      216 kB: adbd (pid 1439)
+      210 kB: vold (pid 737)
+      178 kB: dumpsys (pid 3489)
+      169 kB: sh (pid 1706)
+      168 kB: RootApp (pid 1111)
+      153 kB: coocaa_guard (pid 753)
+      143 kB: sh (pid 1335)
+      115 kB: smobsd (pid 1266)
+      112 kB: healthd (pid 733)
+      109 kB: logwrapper (pid 1106)
+      107 kB: keystore (pid 748)
+      102 kB: FileDesc_server (pid 749)
+      101 kB: sdcard (pid 757)
+       77 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+       52 kB: servicemanager (pid 735)
+       46 kB: keypad (pid 740)
+       36 kB: installd (pid 747)
+       34 kB: hardwared (pid 738)
+       30 kB: debuggerd (pid 742)
+
+Total PSS by OOM adjustment:
+    35285 kB: Native
+                9070 kB: mediaserver (pid 746)
+                8396 kB: app_process (pid 1799)
+                5070 kB: zygote (pid 744)
+                4094 kB: TvServer (pid 1118)
+                1929 kB: surfaceflinger (pid 743)
+                 952 kB: wpa_supplicant (pid 1505)
+                 928 kB: drmserver (pid 745)
+                 810 kB: logcat (pid 2093)
+                 576 kB: VirtualEvent (pid 1263)
+                 367 kB: netd (pid 741)
+                 334 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 229 kB: dhcpcd (pid 1878)
+                 216 kB: adbd (pid 1439)
+                 210 kB: vold (pid 737)
+                 178 kB: dumpsys (pid 3489)
+                 169 kB: sh (pid 1706)
+                 168 kB: RootApp (pid 1111)
+                 153 kB: coocaa_guard (pid 753)
+                 143 kB: sh (pid 1335)
+                 115 kB: smobsd (pid 1266)
+                 112 kB: healthd (pid 733)
+                 109 kB: logwrapper (pid 1106)
+                 107 kB: keystore (pid 748)
+                 102 kB: FileDesc_server (pid 749)
+                 101 kB: sdcard (pid 757)
+                  77 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+                  52 kB: servicemanager (pid 735)
+                  46 kB: keypad (pid 740)
+                  36 kB: installd (pid 747)
+                  34 kB: hardwared (pid 738)
+                  30 kB: debuggerd (pid 742)
+    18724 kB: System
+               18724 kB: system (pid 1349)
+     4575 kB: Persistent
+                4575 kB: com.dunn.instrument (pid 1581)
+   159355 kB: Foreground
+               79362 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               26181 kB: com.tianci.de (pid 2460)
+               17401 kB: com.tianci.system (pid 1590)
+               13197 kB: com.coocaa.os.softsettings.provider (pid 2298)
+               12832 kB: com.tianci.ad (pid 2726)
+                5497 kB: android.process.media (pid 2647)
+                4885 kB: com.tianci.push (pid 1720)
+    46950 kB: Visible
+               39779 kB: com.tianci.movieplatform (pid 2560)
+                7171 kB: com.coocaa.os.ccosservice (pid 1867)
+     8321 kB: A Services
+                8321 kB: com.tianci.ad:adUpgrade (pid 3333)
+    24277 kB: Cached
+               13005 kB: com.tianci.user (pid 2828)
+               11272 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    82134 kB: .dex mmap
+    57371 kB: Dalvik Other
+    53923 kB: Dalvik
+    34276 kB: .so mmap
+    29242 kB: Unknown
+    11623 kB: Other dev
+     7468 kB: Native
+     6004 kB: Ashmem
+     5157 kB: .apk mmap
+     5053 kB: Other mmap
+     3964 kB: Stack
+     1104 kB: .ttf mmap
+      164 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 202917 kB (24277 cached pss + 159708 cached + 18932 free)
+ Used RAM: 296254 kB (273210 used pss + 2148 buffers + 228 shmem + 20668 slab)
+ Lost RAM: -36043 kB
+     ZRAM: 1752 kB physical used for 3048 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 78689 Realtime: 78689
+
+Total PSS by process:
+    79362 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    40006 kB: com.tianci.movieplatform (pid 2560)
+    26181 kB: com.tianci.de (pid 2460)
+    18932 kB: system (pid 1349)
+    17493 kB: com.tianci.system (pid 1590)
+    13197 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    13005 kB: com.tianci.user (pid 2828)
+    12832 kB: com.tianci.ad (pid 2726)
+    11272 kB: com.coocaa.sysreport (pid 2327)
+     9070 kB: mediaserver (pid 746)
+     8396 kB: app_process (pid 1799)
+     8321 kB: com.tianci.ad:adUpgrade (pid 3333)
+     7171 kB: com.coocaa.os.ccosservice (pid 1867)
+     5497 kB: android.process.media (pid 2647)
+     5067 kB: zygote (pid 744)
+     4961 kB: com.tianci.push (pid 1720)
+     4575 kB: com.dunn.instrument (pid 1581)
+     4094 kB: TvServer (pid 1118)
+     1929 kB: surfaceflinger (pid 743)
+      952 kB: wpa_supplicant (pid 1505)
+      928 kB: drmserver (pid 745)
+      810 kB: logcat (pid 2093)
+      576 kB: VirtualEvent (pid 1263)
+      367 kB: netd (pid 741)
+      334 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      229 kB: dhcpcd (pid 1878)
+      216 kB: adbd (pid 1439)
+      210 kB: vold (pid 737)
+      169 kB: sh (pid 1706)
+      168 kB: RootApp (pid 1111)
+      153 kB: coocaa_guard (pid 753)
+      143 kB: sh (pid 1335)
+      115 kB: smobsd (pid 1266)
+      112 kB: healthd (pid 733)
+      109 kB: logwrapper (pid 1106)
+      107 kB: keystore (pid 748)
+      102 kB: FileDesc_server (pid 749)
+      101 kB: sdcard (pid 757)
+       77 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+       52 kB: servicemanager (pid 735)
+       46 kB: keypad (pid 740)
+       36 kB: installd (pid 747)
+       34 kB: hardwared (pid 738)
+       30 kB: debuggerd (pid 742)
+        0 kB: dumpsys (pid 3489)
+
+Total PSS by OOM adjustment:
+    35104 kB: Native
+                9070 kB: mediaserver (pid 746)
+                8396 kB: app_process (pid 1799)
+                5067 kB: zygote (pid 744)
+                4094 kB: TvServer (pid 1118)
+                1929 kB: surfaceflinger (pid 743)
+                 952 kB: wpa_supplicant (pid 1505)
+                 928 kB: drmserver (pid 745)
+                 810 kB: logcat (pid 2093)
+                 576 kB: VirtualEvent (pid 1263)
+                 367 kB: netd (pid 741)
+                 334 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 229 kB: dhcpcd (pid 1878)
+                 216 kB: adbd (pid 1439)
+                 210 kB: vold (pid 737)
+                 169 kB: sh (pid 1706)
+                 168 kB: RootApp (pid 1111)
+                 153 kB: coocaa_guard (pid 753)
+                 143 kB: sh (pid 1335)
+                 115 kB: smobsd (pid 1266)
+                 112 kB: healthd (pid 733)
+                 109 kB: logwrapper (pid 1106)
+                 107 kB: keystore (pid 748)
+                 102 kB: FileDesc_server (pid 749)
+                 101 kB: sdcard (pid 757)
+                  77 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+                  52 kB: servicemanager (pid 735)
+                  46 kB: keypad (pid 740)
+                  36 kB: installd (pid 747)
+                  34 kB: hardwared (pid 738)
+                  30 kB: debuggerd (pid 742)
+                   0 kB: dumpsys (pid 3489)
+    18932 kB: System
+               18932 kB: system (pid 1349)
+     4575 kB: Persistent
+                4575 kB: com.dunn.instrument (pid 1581)
+   159523 kB: Foreground
+               79362 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               26181 kB: com.tianci.de (pid 2460)
+               17493 kB: com.tianci.system (pid 1590)
+               13197 kB: com.coocaa.os.softsettings.provider (pid 2298)
+               12832 kB: com.tianci.ad (pid 2726)
+                5497 kB: android.process.media (pid 2647)
+                4961 kB: com.tianci.push (pid 1720)
+    47177 kB: Visible
+               40006 kB: com.tianci.movieplatform (pid 2560)
+                7171 kB: com.coocaa.os.ccosservice (pid 1867)
+     8321 kB: A Services
+                8321 kB: com.tianci.ad:adUpgrade (pid 3333)
+    24277 kB: Cached
+               13005 kB: com.tianci.user (pid 2828)
+               11272 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    82375 kB: .dex mmap
+    57406 kB: Dalvik Other
+    54095 kB: Dalvik
+    34155 kB: .so mmap
+    29370 kB: Unknown
+    11619 kB: Other dev
+     7464 kB: Native
+     6004 kB: Ashmem
+     5157 kB: .apk mmap
+     5032 kB: Other mmap
+     3960 kB: Stack
+     1104 kB: .ttf mmap
+      164 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 202309 kB (24277 cached pss + 162012 cached + 16020 free)
+ Used RAM: 296700 kB (273632 used pss + 2156 buffers + 228 shmem + 20684 slab)
+ Lost RAM: -35881 kB
+     ZRAM: 1752 kB physical used for 3048 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 80994 Realtime: 80994
+
+Total PSS by process:
+    79398 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    39998 kB: com.tianci.movieplatform (pid 2560)
+    26181 kB: com.tianci.de (pid 2460)
+    18932 kB: system (pid 1349)
+    17493 kB: com.tianci.system (pid 1590)
+    13197 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    13005 kB: com.tianci.user (pid 2828)
+    12818 kB: com.tianci.ad (pid 2726)
+    11272 kB: com.coocaa.sysreport (pid 2327)
+     9070 kB: mediaserver (pid 746)
+     8396 kB: app_process (pid 1799)
+     8315 kB: com.tianci.ad:adUpgrade (pid 3333)
+     7171 kB: com.coocaa.os.ccosservice (pid 1867)
+     5497 kB: android.process.media (pid 2647)
+     5067 kB: zygote (pid 744)
+     4961 kB: com.tianci.push (pid 1720)
+     4591 kB: com.dunn.instrument (pid 1581)
+     4094 kB: TvServer (pid 1118)
+     1929 kB: surfaceflinger (pid 743)
+      952 kB: wpa_supplicant (pid 1505)
+      928 kB: drmserver (pid 745)
+      810 kB: logcat (pid 2093)
+      576 kB: VirtualEvent (pid 1263)
+      367 kB: netd (pid 741)
+      334 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      229 kB: dhcpcd (pid 1878)
+      220 kB: adbd (pid 1439)
+      210 kB: vold (pid 737)
+      169 kB: sh (pid 1706)
+      168 kB: RootApp (pid 1111)
+      153 kB: coocaa_guard (pid 753)
+      143 kB: sh (pid 1335)
+      115 kB: smobsd (pid 1266)
+      112 kB: healthd (pid 733)
+      109 kB: logwrapper (pid 1106)
+      107 kB: keystore (pid 748)
+      102 kB: FileDesc_server (pid 749)
+      101 kB: sdcard (pid 757)
+       77 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+       52 kB: servicemanager (pid 735)
+       46 kB: keypad (pid 740)
+       36 kB: installd (pid 747)
+       34 kB: hardwared (pid 738)
+       30 kB: debuggerd (pid 742)
+        0 kB: dumpsys (pid 3489)
+
+Total PSS by OOM adjustment:
+    35108 kB: Native
+                9070 kB: mediaserver (pid 746)
+                8396 kB: app_process (pid 1799)
+                5067 kB: zygote (pid 744)
+                4094 kB: TvServer (pid 1118)
+                1929 kB: surfaceflinger (pid 743)
+                 952 kB: wpa_supplicant (pid 1505)
+                 928 kB: drmserver (pid 745)
+                 810 kB: logcat (pid 2093)
+                 576 kB: VirtualEvent (pid 1263)
+                 367 kB: netd (pid 741)
+                 334 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 229 kB: dhcpcd (pid 1878)
+                 220 kB: adbd (pid 1439)
+                 210 kB: vold (pid 737)
+                 169 kB: sh (pid 1706)
+                 168 kB: RootApp (pid 1111)
+                 153 kB: coocaa_guard (pid 753)
+                 143 kB: sh (pid 1335)
+                 115 kB: smobsd (pid 1266)
+                 112 kB: healthd (pid 733)
+                 109 kB: logwrapper (pid 1106)
+                 107 kB: keystore (pid 748)
+                 102 kB: FileDesc_server (pid 749)
+                 101 kB: sdcard (pid 757)
+                  77 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+                  52 kB: servicemanager (pid 735)
+                  46 kB: keypad (pid 740)
+                  36 kB: installd (pid 747)
+                  34 kB: hardwared (pid 738)
+                  30 kB: debuggerd (pid 742)
+                   0 kB: dumpsys (pid 3489)
+    18932 kB: System
+               18932 kB: system (pid 1349)
+     4591 kB: Persistent
+                4591 kB: com.dunn.instrument (pid 1581)
+   159545 kB: Foreground
+               79398 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               26181 kB: com.tianci.de (pid 2460)
+               17493 kB: com.tianci.system (pid 1590)
+               13197 kB: com.coocaa.os.softsettings.provider (pid 2298)
+               12818 kB: com.tianci.ad (pid 2726)
+                5497 kB: android.process.media (pid 2647)
+                4961 kB: com.tianci.push (pid 1720)
+    47169 kB: Visible
+               39998 kB: com.tianci.movieplatform (pid 2560)
+                7171 kB: com.coocaa.os.ccosservice (pid 1867)
+     8315 kB: A Services
+                8315 kB: com.tianci.ad:adUpgrade (pid 3333)
+    24277 kB: Cached
+               13005 kB: com.tianci.user (pid 2828)
+               11272 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    82347 kB: .dex mmap
+    57406 kB: Dalvik Other
+    54115 kB: Dalvik
+    34191 kB: .so mmap
+    29370 kB: Unknown
+    11615 kB: Other dev
+     7464 kB: Native
+     6004 kB: Ashmem
+     5157 kB: .apk mmap
+     5032 kB: Other mmap
+     3964 kB: Stack
+     1104 kB: .ttf mmap
+      164 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 202781 kB (24277 cached pss + 161944 cached + 16560 free)
+ Used RAM: 296700 kB (273660 used pss + 2156 buffers + 228 shmem + 20656 slab)
+ Lost RAM: -36353 kB
+     ZRAM: 1752 kB physical used for 3048 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 83378 Realtime: 83378
+
+Total PSS by process:
+    79398 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    39806 kB: com.tianci.movieplatform (pid 2560)
+    26181 kB: com.tianci.de (pid 2460)
+    18648 kB: system (pid 1349)
+    17477 kB: com.tianci.system (pid 1590)
+    13197 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    13005 kB: com.tianci.user (pid 2828)
+    12818 kB: com.tianci.ad (pid 2726)
+    11272 kB: com.coocaa.sysreport (pid 2327)
+     9070 kB: mediaserver (pid 746)
+     8396 kB: app_process (pid 1799)
+     8315 kB: com.tianci.ad:adUpgrade (pid 3333)
+     7171 kB: com.coocaa.os.ccosservice (pid 1867)
+     5497 kB: android.process.media (pid 2647)
+     5067 kB: zygote (pid 744)
+     4961 kB: com.tianci.push (pid 1720)
+     4591 kB: com.dunn.instrument (pid 1581)
+     4094 kB: TvServer (pid 1118)
+     1929 kB: surfaceflinger (pid 743)
+      952 kB: wpa_supplicant (pid 1505)
+      928 kB: drmserver (pid 745)
+      810 kB: logcat (pid 2093)
+      576 kB: VirtualEvent (pid 1263)
+      367 kB: netd (pid 741)
+      334 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      229 kB: dhcpcd (pid 1878)
+      216 kB: adbd (pid 1439)
+      210 kB: vold (pid 737)
+      178 kB: dumpsys (pid 3654)
+      169 kB: sh (pid 1706)
+      168 kB: RootApp (pid 1111)
+      153 kB: coocaa_guard (pid 753)
+      143 kB: sh (pid 1335)
+      115 kB: smobsd (pid 1266)
+      112 kB: healthd (pid 733)
+      109 kB: logwrapper (pid 1106)
+      107 kB: keystore (pid 748)
+      102 kB: FileDesc_server (pid 749)
+      101 kB: sdcard (pid 757)
+       77 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+       52 kB: servicemanager (pid 735)
+       46 kB: keypad (pid 740)
+       36 kB: installd (pid 747)
+       34 kB: hardwared (pid 738)
+       30 kB: debuggerd (pid 742)
+
+Total PSS by OOM adjustment:
+    35282 kB: Native
+                9070 kB: mediaserver (pid 746)
+                8396 kB: app_process (pid 1799)
+                5067 kB: zygote (pid 744)
+                4094 kB: TvServer (pid 1118)
+                1929 kB: surfaceflinger (pid 743)
+                 952 kB: wpa_supplicant (pid 1505)
+                 928 kB: drmserver (pid 745)
+                 810 kB: logcat (pid 2093)
+                 576 kB: VirtualEvent (pid 1263)
+                 367 kB: netd (pid 741)
+                 334 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 229 kB: dhcpcd (pid 1878)
+                 216 kB: adbd (pid 1439)
+                 210 kB: vold (pid 737)
+                 178 kB: dumpsys (pid 3654)
+                 169 kB: sh (pid 1706)
+                 168 kB: RootApp (pid 1111)
+                 153 kB: coocaa_guard (pid 753)
+                 143 kB: sh (pid 1335)
+                 115 kB: smobsd (pid 1266)
+                 112 kB: healthd (pid 733)
+                 109 kB: logwrapper (pid 1106)
+                 107 kB: keystore (pid 748)
+                 102 kB: FileDesc_server (pid 749)
+                 101 kB: sdcard (pid 757)
+                  77 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+                  52 kB: servicemanager (pid 735)
+                  46 kB: keypad (pid 740)
+                  36 kB: installd (pid 747)
+                  34 kB: hardwared (pid 738)
+                  30 kB: debuggerd (pid 742)
+    18648 kB: System
+               18648 kB: system (pid 1349)
+     4591 kB: Persistent
+                4591 kB: com.dunn.instrument (pid 1581)
+   159529 kB: Foreground
+               79398 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               26181 kB: com.tianci.de (pid 2460)
+               17477 kB: com.tianci.system (pid 1590)
+               13197 kB: com.coocaa.os.softsettings.provider (pid 2298)
+               12818 kB: com.tianci.ad (pid 2726)
+                5497 kB: android.process.media (pid 2647)
+                4961 kB: com.tianci.push (pid 1720)
+    46977 kB: Visible
+               39806 kB: com.tianci.movieplatform (pid 2560)
+                7171 kB: com.coocaa.os.ccosservice (pid 1867)
+     8315 kB: A Services
+                8315 kB: com.tianci.ad:adUpgrade (pid 3333)
+    24277 kB: Cached
+               13005 kB: com.tianci.user (pid 2828)
+               11272 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    82399 kB: .dex mmap
+    57414 kB: Dalvik Other
+    53739 kB: Dalvik
+    34316 kB: .so mmap
+    29222 kB: Unknown
+    11619 kB: Other dev
+     7468 kB: Native
+     6004 kB: Ashmem
+     5157 kB: .apk mmap
+     5053 kB: Other mmap
+     3956 kB: Stack
+     1104 kB: .ttf mmap
+      164 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 203329 kB (24277 cached pss + 162132 cached + 16920 free)
+ Used RAM: 296414 kB (273342 used pss + 2164 buffers + 228 shmem + 20680 slab)
+ Lost RAM: -36615 kB
+     ZRAM: 1752 kB physical used for 3048 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 85689 Realtime: 85689
+
+Total PSS by process:
+    79398 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    39798 kB: com.tianci.movieplatform (pid 2560)
+    26185 kB: com.tianci.de (pid 2460)
+    18844 kB: system (pid 1349)
+    17457 kB: com.tianci.system (pid 1590)
+    13197 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    13005 kB: com.tianci.user (pid 2828)
+    12818 kB: com.tianci.ad (pid 2726)
+    11272 kB: com.coocaa.sysreport (pid 2327)
+     9070 kB: mediaserver (pid 746)
+     8396 kB: app_process (pid 1799)
+     8315 kB: com.tianci.ad:adUpgrade (pid 3333)
+     7171 kB: com.coocaa.os.ccosservice (pid 1867)
+     5497 kB: android.process.media (pid 2647)
+     5067 kB: zygote (pid 744)
+     4961 kB: com.tianci.push (pid 1720)
+     4591 kB: com.dunn.instrument (pid 1581)
+     4094 kB: TvServer (pid 1118)
+     1929 kB: surfaceflinger (pid 743)
+      952 kB: wpa_supplicant (pid 1505)
+      927 kB: drmserver (pid 745)
+      810 kB: logcat (pid 2093)
+      576 kB: VirtualEvent (pid 1263)
+      367 kB: netd (pid 741)
+      334 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      229 kB: dhcpcd (pid 1878)
+      216 kB: adbd (pid 1439)
+      210 kB: vold (pid 737)
+      169 kB: sh (pid 1706)
+      168 kB: RootApp (pid 1111)
+      153 kB: coocaa_guard (pid 753)
+      143 kB: sh (pid 1335)
+      115 kB: smobsd (pid 1266)
+      112 kB: healthd (pid 733)
+      109 kB: logwrapper (pid 1106)
+      107 kB: keystore (pid 748)
+      102 kB: FileDesc_server (pid 749)
+      101 kB: sdcard (pid 757)
+       77 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+       52 kB: servicemanager (pid 735)
+       46 kB: keypad (pid 740)
+       36 kB: installd (pid 747)
+       34 kB: hardwared (pid 738)
+       30 kB: debuggerd (pid 742)
+        0 kB: dumpsys (pid 3654)
+
+Total PSS by OOM adjustment:
+    35103 kB: Native
+                9070 kB: mediaserver (pid 746)
+                8396 kB: app_process (pid 1799)
+                5067 kB: zygote (pid 744)
+                4094 kB: TvServer (pid 1118)
+                1929 kB: surfaceflinger (pid 743)
+                 952 kB: wpa_supplicant (pid 1505)
+                 927 kB: drmserver (pid 745)
+                 810 kB: logcat (pid 2093)
+                 576 kB: VirtualEvent (pid 1263)
+                 367 kB: netd (pid 741)
+                 334 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 229 kB: dhcpcd (pid 1878)
+                 216 kB: adbd (pid 1439)
+                 210 kB: vold (pid 737)
+                 169 kB: sh (pid 1706)
+                 168 kB: RootApp (pid 1111)
+                 153 kB: coocaa_guard (pid 753)
+                 143 kB: sh (pid 1335)
+                 115 kB: smobsd (pid 1266)
+                 112 kB: healthd (pid 733)
+                 109 kB: logwrapper (pid 1106)
+                 107 kB: keystore (pid 748)
+                 102 kB: FileDesc_server (pid 749)
+                 101 kB: sdcard (pid 757)
+                  77 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+                  52 kB: servicemanager (pid 735)
+                  46 kB: keypad (pid 740)
+                  36 kB: installd (pid 747)
+                  34 kB: hardwared (pid 738)
+                  30 kB: debuggerd (pid 742)
+                   0 kB: dumpsys (pid 3654)
+    18844 kB: System
+               18844 kB: system (pid 1349)
+     4591 kB: Persistent
+                4591 kB: com.dunn.instrument (pid 1581)
+   159513 kB: Foreground
+               79398 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               26185 kB: com.tianci.de (pid 2460)
+               17457 kB: com.tianci.system (pid 1590)
+               13197 kB: com.coocaa.os.softsettings.provider (pid 2298)
+               12818 kB: com.tianci.ad (pid 2726)
+                5497 kB: android.process.media (pid 2647)
+                4961 kB: com.tianci.push (pid 1720)
+    46969 kB: Visible
+               39798 kB: com.tianci.movieplatform (pid 2560)
+                7171 kB: com.coocaa.os.ccosservice (pid 1867)
+     8315 kB: A Services
+                8315 kB: com.tianci.ad:adUpgrade (pid 3333)
+    24277 kB: Cached
+               13005 kB: com.tianci.user (pid 2828)
+               11272 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    82399 kB: .dex mmap
+    57414 kB: Dalvik Other
+    53807 kB: Dalvik
+    34182 kB: .so mmap
+    29330 kB: Unknown
+    11611 kB: Other dev
+     7464 kB: Native
+     6004 kB: Ashmem
+     5157 kB: .apk mmap
+     5032 kB: Other mmap
+     3940 kB: Stack
+     1104 kB: .ttf mmap
+      164 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 202989 kB (24277 cached pss + 162132 cached + 16580 free)
+ Used RAM: 296339 kB (273335 used pss + 2168 buffers + 228 shmem + 20608 slab)
+ Lost RAM: -36200 kB
+     ZRAM: 1752 kB physical used for 3048 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 87986 Realtime: 87986
+
+Total PSS by process:
+    79398 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    40178 kB: com.tianci.movieplatform (pid 2560)
+    26185 kB: com.tianci.de (pid 2460)
+    18915 kB: system (pid 1349)
+    17453 kB: com.tianci.system (pid 1590)
+    13197 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    13005 kB: com.tianci.user (pid 2828)
+    12818 kB: com.tianci.ad (pid 2726)
+    11272 kB: com.coocaa.sysreport (pid 2327)
+     9070 kB: mediaserver (pid 746)
+     8396 kB: app_process (pid 1799)
+     8315 kB: com.tianci.ad:adUpgrade (pid 3333)
+     7171 kB: com.coocaa.os.ccosservice (pid 1867)
+     5497 kB: android.process.media (pid 2647)
+     5067 kB: zygote (pid 744)
+     4961 kB: com.tianci.push (pid 1720)
+     4591 kB: com.dunn.instrument (pid 1581)
+     4094 kB: TvServer (pid 1118)
+     1929 kB: surfaceflinger (pid 743)
+      952 kB: wpa_supplicant (pid 1505)
+      928 kB: drmserver (pid 745)
+      810 kB: logcat (pid 2093)
+      576 kB: VirtualEvent (pid 1263)
+      367 kB: netd (pid 741)
+      334 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      229 kB: dhcpcd (pid 1878)
+      216 kB: adbd (pid 1439)
+      210 kB: vold (pid 737)
+      169 kB: sh (pid 1706)
+      168 kB: RootApp (pid 1111)
+      153 kB: coocaa_guard (pid 753)
+      143 kB: sh (pid 1335)
+      115 kB: smobsd (pid 1266)
+      112 kB: healthd (pid 733)
+      109 kB: logwrapper (pid 1106)
+      107 kB: keystore (pid 748)
+      102 kB: FileDesc_server (pid 749)
+      101 kB: sdcard (pid 757)
+       77 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+       52 kB: servicemanager (pid 735)
+       46 kB: keypad (pid 740)
+       36 kB: installd (pid 747)
+       34 kB: hardwared (pid 738)
+       30 kB: debuggerd (pid 742)
+        0 kB: dumpsys (pid 3654)
+
+Total PSS by OOM adjustment:
+    35104 kB: Native
+                9070 kB: mediaserver (pid 746)
+                8396 kB: app_process (pid 1799)
+                5067 kB: zygote (pid 744)
+                4094 kB: TvServer (pid 1118)
+                1929 kB: surfaceflinger (pid 743)
+                 952 kB: wpa_supplicant (pid 1505)
+                 928 kB: drmserver (pid 745)
+                 810 kB: logcat (pid 2093)
+                 576 kB: VirtualEvent (pid 1263)
+                 367 kB: netd (pid 741)
+                 334 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 229 kB: dhcpcd (pid 1878)
+                 216 kB: adbd (pid 1439)
+                 210 kB: vold (pid 737)
+                 169 kB: sh (pid 1706)
+                 168 kB: RootApp (pid 1111)
+                 153 kB: coocaa_guard (pid 753)
+                 143 kB: sh (pid 1335)
+                 115 kB: smobsd (pid 1266)
+                 112 kB: healthd (pid 733)
+                 109 kB: logwrapper (pid 1106)
+                 107 kB: keystore (pid 748)
+                 102 kB: FileDesc_server (pid 749)
+                 101 kB: sdcard (pid 757)
+                  77 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+                  52 kB: servicemanager (pid 735)
+                  46 kB: keypad (pid 740)
+                  36 kB: installd (pid 747)
+                  34 kB: hardwared (pid 738)
+                  30 kB: debuggerd (pid 742)
+                   0 kB: dumpsys (pid 3654)
+    18915 kB: System
+               18915 kB: system (pid 1349)
+     4591 kB: Persistent
+                4591 kB: com.dunn.instrument (pid 1581)
+   159509 kB: Foreground
+               79398 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               26185 kB: com.tianci.de (pid 2460)
+               17453 kB: com.tianci.system (pid 1590)
+               13197 kB: com.coocaa.os.softsettings.provider (pid 2298)
+               12818 kB: com.tianci.ad (pid 2726)
+                5497 kB: android.process.media (pid 2647)
+                4961 kB: com.tianci.push (pid 1720)
+    47349 kB: Visible
+               40178 kB: com.tianci.movieplatform (pid 2560)
+                7171 kB: com.coocaa.os.ccosservice (pid 1867)
+     8315 kB: A Services
+                8315 kB: com.tianci.ad:adUpgrade (pid 3333)
+    24277 kB: Cached
+               13005 kB: com.tianci.user (pid 2828)
+               11272 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    82415 kB: .dex mmap
+    57429 kB: Dalvik Other
+    54139 kB: Dalvik
+    34183 kB: .so mmap
+    29338 kB: Unknown
+    11695 kB: Other dev
+     7464 kB: Native
+     6004 kB: Ashmem
+     5157 kB: .apk mmap
+     5032 kB: Other mmap
+     3932 kB: Stack
+     1104 kB: .ttf mmap
+      164 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 202525 kB (24277 cached pss + 162236 cached + 16012 free)
+ Used RAM: 296787 kB (273783 used pss + 2168 buffers + 228 shmem + 20608 slab)
+ Lost RAM: -36184 kB
+     ZRAM: 1752 kB physical used for 3048 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 90282 Realtime: 90282
+
+Total PSS by process:
+    71166 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    40048 kB: com.tianci.movieplatform (pid 2560)
+    25976 kB: com.tianci.de (pid 2460)
+    18314 kB: system (pid 1349)
+    17519 kB: com.tianci.system (pid 1590)
+    13137 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    12951 kB: com.tianci.user (pid 2828)
+    12758 kB: com.tianci.ad (pid 2726)
+    11222 kB: com.coocaa.sysreport (pid 2327)
+    10222 kB: com.tianci.appstore (pid 3774)
+     8339 kB: app_process (pid 1799)
+     8256 kB: com.tianci.ad:adUpgrade (pid 3333)
+     8172 kB: mediaserver (pid 746)
+     6448 kB: com.coocaa.os.ccosservice (pid 1867)
+     5434 kB: android.process.media (pid 2647)
+     4981 kB: zygote (pid 744)
+     4906 kB: com.tianci.push (pid 1720)
+     4549 kB: com.dunn.instrument (pid 1581)
+     4094 kB: TvServer (pid 1118)
+     1901 kB: surfaceflinger (pid 743)
+      955 kB: wpa_supplicant (pid 1505)
+      810 kB: logcat (pid 2093)
+      576 kB: VirtualEvent (pid 1263)
+      427 kB: drmserver (pid 745)
+      362 kB: netd (pid 741)
+      334 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      228 kB: dhcpcd (pid 1878)
+      216 kB: adbd (pid 1439)
+      210 kB: vold (pid 737)
+      178 kB: dumpsys (pid 3813)
+      169 kB: sh (pid 1706)
+      168 kB: RootApp (pid 1111)
+      153 kB: coocaa_guard (pid 753)
+      143 kB: sh (pid 1335)
+      117 kB: sdcard (pid 757)
+      114 kB: smobsd (pid 1266)
+      112 kB: healthd (pid 733)
+      109 kB: logwrapper (pid 1106)
+      106 kB: keystore (pid 748)
+      101 kB: FileDesc_server (pid 749)
+       77 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+       52 kB: servicemanager (pid 735)
+       45 kB: keypad (pid 740)
+       36 kB: installd (pid 747)
+       34 kB: hardwared (pid 738)
+       30 kB: debuggerd (pid 742)
+
+Total PSS by OOM adjustment:
+    33721 kB: Native
+                8339 kB: app_process (pid 1799)
+                8172 kB: mediaserver (pid 746)
+                4981 kB: zygote (pid 744)
+                4094 kB: TvServer (pid 1118)
+                1901 kB: surfaceflinger (pid 743)
+                 955 kB: wpa_supplicant (pid 1505)
+                 810 kB: logcat (pid 2093)
+                 576 kB: VirtualEvent (pid 1263)
+                 427 kB: drmserver (pid 745)
+                 362 kB: netd (pid 741)
+                 334 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 228 kB: dhcpcd (pid 1878)
+                 216 kB: adbd (pid 1439)
+                 210 kB: vold (pid 737)
+                 178 kB: dumpsys (pid 3813)
+                 169 kB: sh (pid 1706)
+                 168 kB: RootApp (pid 1111)
+                 153 kB: coocaa_guard (pid 753)
+                 143 kB: sh (pid 1335)
+                 117 kB: sdcard (pid 757)
+                 114 kB: smobsd (pid 1266)
+                 112 kB: healthd (pid 733)
+                 109 kB: logwrapper (pid 1106)
+                 106 kB: keystore (pid 748)
+                 101 kB: FileDesc_server (pid 749)
+                  77 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+                  52 kB: servicemanager (pid 735)
+                  45 kB: keypad (pid 740)
+                  36 kB: installd (pid 747)
+                  34 kB: hardwared (pid 738)
+                  30 kB: debuggerd (pid 742)
+    18314 kB: System
+               18314 kB: system (pid 1349)
+     4549 kB: Persistent
+                4549 kB: com.dunn.instrument (pid 1581)
+   161118 kB: Foreground
+               71166 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               25976 kB: com.tianci.de (pid 2460)
+               17519 kB: com.tianci.system (pid 1590)
+               13137 kB: com.coocaa.os.softsettings.provider (pid 2298)
+               12758 kB: com.tianci.ad (pid 2726)
+               10222 kB: com.tianci.appstore (pid 3774)
+                5434 kB: android.process.media (pid 2647)
+                4906 kB: com.tianci.push (pid 1720)
+    46496 kB: Visible
+               40048 kB: com.tianci.movieplatform (pid 2560)
+                6448 kB: com.coocaa.os.ccosservice (pid 1867)
+     8256 kB: A Services
+                8256 kB: com.tianci.ad:adUpgrade (pid 3333)
+    24173 kB: Cached
+               12951 kB: com.tianci.user (pid 2828)
+               11222 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    77096 kB: .dex mmap
+    59730 kB: Dalvik Other
+    55938 kB: Dalvik
+    33155 kB: .so mmap
+    29902 kB: Unknown
+    11624 kB: Other dev
+     7424 kB: Native
+     6004 kB: Ashmem
+     5793 kB: .apk mmap
+     5025 kB: Other mmap
+     3964 kB: Stack
+      804 kB: .ttf mmap
+      164 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 196409 kB (24173 cached pss + 165848 cached + 6388 free)
+ Used RAM: 295838 kB (272454 used pss + 2448 buffers + 228 shmem + 20708 slab)
+ Lost RAM: -29119 kB
+     ZRAM: 2384 kB physical used for 4612 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 92689 Realtime: 92689
+
+Total PSS by process:
+    69715 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    35703 kB: com.tianci.movieplatform (pid 2560)
+    19542 kB: com.tianci.appstore (pid 3774)
+    18231 kB: system (pid 1349)
+    18173 kB: com.tianci.de (pid 2460)
+    17433 kB: com.tianci.system (pid 1590)
+    12901 kB: com.tianci.user (pid 2828)
+    12771 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    12709 kB: com.tianci.ad (pid 2726)
+    11171 kB: com.coocaa.sysreport (pid 2327)
+     8329 kB: app_process (pid 1799)
+     8233 kB: com.tianci.ad:adUpgrade (pid 3333)
+     8170 kB: mediaserver (pid 746)
+     6175 kB: com.coocaa.os.ccosservice (pid 1867)
+     5566 kB: com.tianci.push (pid 1720)
+     5364 kB: android.process.media (pid 2647)
+     4519 kB: com.dunn.instrument (pid 1581)
+     4201 kB: zygote (pid 744)
+     3794 kB: TvServer (pid 1118)
+     1696 kB: surfaceflinger (pid 743)
+      952 kB: wpa_supplicant (pid 1505)
+      810 kB: logcat (pid 2093)
+      426 kB: drmserver (pid 745)
+      333 kB: netd (pid 741)
+      332 kB: VirtualEvent (pid 1263)
+      318 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      228 kB: dhcpcd (pid 1878)
+      220 kB: adbd (pid 1439)
+      209 kB: vold (pid 737)
+      169 kB: sh (pid 1706)
+      148 kB: RootApp (pid 1111)
+      121 kB: coocaa_guard (pid 753)
+      117 kB: sdcard (pid 757)
+      115 kB: sh (pid 1335)
+      112 kB: healthd (pid 733)
+      105 kB: keystore (pid 748)
+      101 kB: FileDesc_server (pid 749)
+       77 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+       52 kB: servicemanager (pid 735)
+       45 kB: logwrapper (pid 1106)
+       44 kB: keypad (pid 740)
+       36 kB: installd (pid 747)
+       34 kB: hardwared (pid 738)
+       30 kB: debuggerd (pid 742)
+       18 kB: smobsd (pid 1266)
+        0 kB: dumpsys (pid 3813)
+
+Total PSS by OOM adjustment:
+    31714 kB: Native
+                8329 kB: app_process (pid 1799)
+                8170 kB: mediaserver (pid 746)
+                4201 kB: zygote (pid 744)
+                3794 kB: TvServer (pid 1118)
+                1696 kB: surfaceflinger (pid 743)
+                 952 kB: wpa_supplicant (pid 1505)
+                 810 kB: logcat (pid 2093)
+                 426 kB: drmserver (pid 745)
+                 333 kB: netd (pid 741)
+                 332 kB: VirtualEvent (pid 1263)
+                 318 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 228 kB: dhcpcd (pid 1878)
+                 220 kB: adbd (pid 1439)
+                 209 kB: vold (pid 737)
+                 169 kB: sh (pid 1706)
+                 148 kB: RootApp (pid 1111)
+                 121 kB: coocaa_guard (pid 753)
+                 117 kB: sdcard (pid 757)
+                 115 kB: sh (pid 1335)
+                 112 kB: healthd (pid 733)
+                 105 kB: keystore (pid 748)
+                 101 kB: FileDesc_server (pid 749)
+                  77 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+                  52 kB: servicemanager (pid 735)
+                  45 kB: logwrapper (pid 1106)
+                  44 kB: keypad (pid 740)
+                  36 kB: installd (pid 747)
+                  34 kB: hardwared (pid 738)
+                  30 kB: debuggerd (pid 742)
+                  18 kB: smobsd (pid 1266)
+                   0 kB: dumpsys (pid 3813)
+    18231 kB: System
+               18231 kB: system (pid 1349)
+     4519 kB: Persistent
+                4519 kB: com.dunn.instrument (pid 1581)
+   161273 kB: Foreground
+               69715 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               19542 kB: com.tianci.appstore (pid 3774)
+               18173 kB: com.tianci.de (pid 2460)
+               17433 kB: com.tianci.system (pid 1590)
+               12771 kB: com.coocaa.os.softsettings.provider (pid 2298)
+               12709 kB: com.tianci.ad (pid 2726)
+                5566 kB: com.tianci.push (pid 1720)
+                5364 kB: android.process.media (pid 2647)
+    41878 kB: Visible
+               35703 kB: com.tianci.movieplatform (pid 2560)
+                6175 kB: com.coocaa.os.ccosservice (pid 1867)
+     8233 kB: A Services
+                8233 kB: com.tianci.ad:adUpgrade (pid 3333)
+    24072 kB: Cached
+               12901 kB: com.tianci.user (pid 2828)
+               11171 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    67662 kB: .dex mmap
+    60514 kB: Dalvik Other
+    57837 kB: Dalvik
+    32088 kB: .so mmap
+    30384 kB: Unknown
+    11623 kB: Other dev
+     7284 kB: Native
+     7181 kB: .apk mmap
+     6004 kB: Ashmem
+     4783 kB: Other mmap
+     3932 kB: Stack
+      468 kB: .ttf mmap
+      156 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 193956 kB (24072 cached pss + 128088 cached + 41796 free)
+ Used RAM: 288632 kB (265848 used pss + 1772 buffers + 228 shmem + 20784 slab)
+ Lost RAM: -19460 kB
+     ZRAM: 3748 kB physical used for 8680 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 95326 Realtime: 95326
+
+Total PSS by process:
+    69526 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    35493 kB: com.tianci.movieplatform (pid 2560)
+    20214 kB: com.tianci.appstore (pid 3774)
+    18150 kB: com.tianci.de (pid 2460)
+    17686 kB: system (pid 1349)
+    17558 kB: com.tianci.system (pid 1590)
+    13051 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    12889 kB: com.tianci.user (pid 2828)
+    12681 kB: com.tianci.ad (pid 2726)
+    11362 kB: com.tianci.push (pid 1720)
+    11137 kB: com.coocaa.sysreport (pid 2327)
+     8325 kB: app_process (pid 1799)
+     8215 kB: com.tianci.ad:adUpgrade (pid 3333)
+     7347 kB: mediaserver (pid 746)
+     6161 kB: com.coocaa.os.ccosservice (pid 1867)
+     5357 kB: android.process.media (pid 2647)
+     4482 kB: com.dunn.instrument (pid 1581)
+     4191 kB: zygote (pid 744)
+     3794 kB: TvServer (pid 1118)
+     1548 kB: surfaceflinger (pid 743)
+      950 kB: wpa_supplicant (pid 1505)
+      810 kB: logcat (pid 2093)
+      426 kB: drmserver (pid 745)
+      333 kB: netd (pid 741)
+      332 kB: VirtualEvent (pid 1263)
+      318 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      228 kB: dhcpcd (pid 1878)
+      216 kB: adbd (pid 1439)
+      205 kB: vold (pid 737)
+      191 kB: sh (pid 1706)
+      178 kB: dumpsys (pid 3983)
+      148 kB: RootApp (pid 1111)
+      121 kB: coocaa_guard (pid 753)
+      117 kB: sdcard (pid 757)
+      112 kB: healthd (pid 733)
+      104 kB: keystore (pid 748)
+      101 kB: FileDesc_server (pid 749)
+       99 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+       52 kB: servicemanager (pid 735)
+       45 kB: logwrapper (pid 1106)
+       44 kB: keypad (pid 740)
+       36 kB: installd (pid 747)
+       34 kB: hardwared (pid 738)
+       30 kB: debuggerd (pid 742)
+       18 kB: smobsd (pid 1266)
+
+Total PSS by OOM adjustment:
+    30825 kB: Native
+                8325 kB: app_process (pid 1799)
+                7347 kB: mediaserver (pid 746)
+                4191 kB: zygote (pid 744)
+                3794 kB: TvServer (pid 1118)
+                1548 kB: surfaceflinger (pid 743)
+                 950 kB: wpa_supplicant (pid 1505)
+                 810 kB: logcat (pid 2093)
+                 426 kB: drmserver (pid 745)
+                 333 kB: netd (pid 741)
+                 332 kB: VirtualEvent (pid 1263)
+                 318 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 228 kB: dhcpcd (pid 1878)
+                 216 kB: adbd (pid 1439)
+                 205 kB: vold (pid 737)
+                 191 kB: sh (pid 1706)
+                 178 kB: dumpsys (pid 3983)
+                 148 kB: RootApp (pid 1111)
+                 121 kB: coocaa_guard (pid 753)
+                 117 kB: sdcard (pid 757)
+                 112 kB: healthd (pid 733)
+                 104 kB: keystore (pid 748)
+                 101 kB: FileDesc_server (pid 749)
+                  99 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+                  52 kB: servicemanager (pid 735)
+                  45 kB: logwrapper (pid 1106)
+                  44 kB: keypad (pid 740)
+                  36 kB: installd (pid 747)
+                  34 kB: hardwared (pid 738)
+                  30 kB: debuggerd (pid 742)
+                  18 kB: smobsd (pid 1266)
+    17686 kB: System
+               17686 kB: system (pid 1349)
+     4482 kB: Persistent
+                4482 kB: com.dunn.instrument (pid 1581)
+   167899 kB: Foreground
+               69526 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               20214 kB: com.tianci.appstore (pid 3774)
+               18150 kB: com.tianci.de (pid 2460)
+               17558 kB: com.tianci.system (pid 1590)
+               13051 kB: com.coocaa.os.softsettings.provider (pid 2298)
+               12681 kB: com.tianci.ad (pid 2726)
+               11362 kB: com.tianci.push (pid 1720)
+                5357 kB: android.process.media (pid 2647)
+    41654 kB: Visible
+               35493 kB: com.tianci.movieplatform (pid 2560)
+                6161 kB: com.coocaa.os.ccosservice (pid 1867)
+     8215 kB: A Services
+                8215 kB: com.tianci.ad:adUpgrade (pid 3333)
+    24026 kB: Cached
+               12889 kB: com.tianci.user (pid 2828)
+               11137 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    71681 kB: .dex mmap
+    61660 kB: Dalvik Other
+    58952 kB: Dalvik
+    32359 kB: .so mmap
+    30802 kB: Unknown
+    11637 kB: Other dev
+     6420 kB: Native
+     6004 kB: Ashmem
+     5791 kB: .apk mmap
+     4801 kB: Other mmap
+     4120 kB: Stack
+      400 kB: .ttf mmap
+      156 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 192310 kB (24026 cached pss + 107380 cached + 60904 free)
+ Used RAM: 292541 kB (270761 used pss + 712 buffers + 228 shmem + 20840 slab)
+ Lost RAM: -21723 kB
+     ZRAM: 3956 kB physical used for 8868 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 97690 Realtime: 97690
+
+Total PSS by process:
+    69509 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    35780 kB: com.tianci.movieplatform (pid 2560)
+    20192 kB: com.tianci.appstore (pid 3774)
+    18130 kB: com.tianci.de (pid 2460)
+    17647 kB: system (pid 1349)
+    17544 kB: com.tianci.system (pid 1590)
+    14433 kB: com.tianci.push (pid 1720)
+    13034 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    12869 kB: com.tianci.user (pid 2828)
+    12669 kB: com.tianci.ad (pid 2726)
+    11121 kB: com.coocaa.sysreport (pid 2327)
+     8323 kB: app_process (pid 1799)
+     8216 kB: com.tianci.ad:adUpgrade (pid 3333)
+     7670 kB: com.coocaa.os.ccosservice (pid 1867)
+     7346 kB: mediaserver (pid 746)
+     5351 kB: android.process.media (pid 2647)
+     4484 kB: com.dunn.instrument (pid 1581)
+     4189 kB: zygote (pid 744)
+     3794 kB: TvServer (pid 1118)
+     1547 kB: surfaceflinger (pid 743)
+      942 kB: wpa_supplicant (pid 1505)
+      810 kB: logcat (pid 2093)
+      425 kB: drmserver (pid 745)
+      333 kB: netd (pid 741)
+      332 kB: VirtualEvent (pid 1263)
+      318 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      270 kB: keystore (pid 748)
+      228 kB: dhcpcd (pid 1878)
+      216 kB: adbd (pid 1439)
+      204 kB: vold (pid 737)
+      191 kB: sh (pid 1706)
+      148 kB: RootApp (pid 1111)
+      121 kB: coocaa_guard (pid 753)
+      117 kB: sdcard (pid 757)
+      112 kB: healthd (pid 733)
+      100 kB: FileDesc_server (pid 749)
+       76 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+       52 kB: servicemanager (pid 735)
+       45 kB: logwrapper (pid 1106)
+       44 kB: keypad (pid 740)
+       36 kB: installd (pid 747)
+       34 kB: hardwared (pid 738)
+       30 kB: debuggerd (pid 742)
+       18 kB: smobsd (pid 1266)
+        0 kB: dumpsys (pid 3983)
+
+Total PSS by OOM adjustment:
+    30773 kB: Native
+                8323 kB: app_process (pid 1799)
+                7346 kB: mediaserver (pid 746)
+                4189 kB: zygote (pid 744)
+                3794 kB: TvServer (pid 1118)
+                1547 kB: surfaceflinger (pid 743)
+                 942 kB: wpa_supplicant (pid 1505)
+                 810 kB: logcat (pid 2093)
+                 425 kB: drmserver (pid 745)
+                 333 kB: netd (pid 741)
+                 332 kB: VirtualEvent (pid 1263)
+                 318 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 270 kB: keystore (pid 748)
+                 228 kB: dhcpcd (pid 1878)
+                 216 kB: adbd (pid 1439)
+                 204 kB: vold (pid 737)
+                 191 kB: sh (pid 1706)
+                 148 kB: RootApp (pid 1111)
+                 121 kB: coocaa_guard (pid 753)
+                 117 kB: sdcard (pid 757)
+                 112 kB: healthd (pid 733)
+                 100 kB: FileDesc_server (pid 749)
+                  76 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+                  52 kB: servicemanager (pid 735)
+                  45 kB: logwrapper (pid 1106)
+                  44 kB: keypad (pid 740)
+                  36 kB: installd (pid 747)
+                  34 kB: hardwared (pid 738)
+                  30 kB: debuggerd (pid 742)
+                  18 kB: smobsd (pid 1266)
+                   0 kB: dumpsys (pid 3983)
+    17647 kB: System
+               17647 kB: system (pid 1349)
+     4484 kB: Persistent
+                4484 kB: com.dunn.instrument (pid 1581)
+   170862 kB: Foreground
+               69509 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               20192 kB: com.tianci.appstore (pid 3774)
+               18130 kB: com.tianci.de (pid 2460)
+               17544 kB: com.tianci.system (pid 1590)
+               14433 kB: com.tianci.push (pid 1720)
+               13034 kB: com.coocaa.os.softsettings.provider (pid 2298)
+               12669 kB: com.tianci.ad (pid 2726)
+                5351 kB: android.process.media (pid 2647)
+    43450 kB: Visible
+               35780 kB: com.tianci.movieplatform (pid 2560)
+                7670 kB: com.coocaa.os.ccosservice (pid 1867)
+     8216 kB: A Services
+                8216 kB: com.tianci.ad:adUpgrade (pid 3333)
+    23990 kB: Cached
+               12869 kB: com.tianci.user (pid 2828)
+               11121 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    73845 kB: .dex mmap
+    62676 kB: Dalvik Other
+    59876 kB: Dalvik
+    32549 kB: .so mmap
+    31102 kB: Unknown
+    11634 kB: Other dev
+     6448 kB: Native
+     6004 kB: Ashmem
+     5790 kB: .apk mmap
+     4758 kB: Other mmap
+     4180 kB: Stack
+      400 kB: .ttf mmap
+      156 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 189286 kB (23990 cached pss + 116428 cached + 48868 free)
+ Used RAM: 297732 kB (275432 used pss + 1208 buffers + 228 shmem + 20864 slab)
+ Lost RAM: -23890 kB
+     ZRAM: 3956 kB physical used for 8844 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 100087 Realtime: 100087
+
+Total PSS by process:
+    69509 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    35888 kB: com.tianci.movieplatform (pid 2560)
+    19992 kB: com.tianci.appstore (pid 3774)
+    18130 kB: com.tianci.de (pid 2460)
+    17683 kB: system (pid 1349)
+    17192 kB: com.tianci.system (pid 1590)
+    14373 kB: com.tianci.push (pid 1720)
+    13030 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    12869 kB: com.tianci.user (pid 2828)
+    12669 kB: com.tianci.ad (pid 2726)
+    11129 kB: com.coocaa.sysreport (pid 2327)
+     8323 kB: app_process (pid 1799)
+     8216 kB: com.tianci.ad:adUpgrade (pid 3333)
+     7670 kB: com.coocaa.os.ccosservice (pid 1867)
+     7346 kB: mediaserver (pid 746)
+     5351 kB: android.process.media (pid 2647)
+     4496 kB: com.dunn.instrument (pid 1581)
+     4189 kB: zygote (pid 744)
+     3794 kB: TvServer (pid 1118)
+     1547 kB: surfaceflinger (pid 743)
+      942 kB: wpa_supplicant (pid 1505)
+      810 kB: logcat (pid 2093)
+      425 kB: drmserver (pid 745)
+      333 kB: netd (pid 741)
+      332 kB: VirtualEvent (pid 1263)
+      318 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      270 kB: keystore (pid 748)
+      228 kB: dhcpcd (pid 1878)
+      216 kB: adbd (pid 1439)
+      205 kB: vold (pid 737)
+      191 kB: sh (pid 1706)
+      148 kB: RootApp (pid 1111)
+      121 kB: coocaa_guard (pid 753)
+      117 kB: sdcard (pid 757)
+      112 kB: healthd (pid 733)
+      100 kB: FileDesc_server (pid 749)
+       99 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+       52 kB: servicemanager (pid 735)
+       45 kB: logwrapper (pid 1106)
+       44 kB: keypad (pid 740)
+       36 kB: installd (pid 747)
+       34 kB: hardwared (pid 738)
+       30 kB: debuggerd (pid 742)
+       18 kB: smobsd (pid 1266)
+        0 kB: dumpsys (pid 3983)
+
+Total PSS by OOM adjustment:
+    30797 kB: Native
+                8323 kB: app_process (pid 1799)
+                7346 kB: mediaserver (pid 746)
+                4189 kB: zygote (pid 744)
+                3794 kB: TvServer (pid 1118)
+                1547 kB: surfaceflinger (pid 743)
+                 942 kB: wpa_supplicant (pid 1505)
+                 810 kB: logcat (pid 2093)
+                 425 kB: drmserver (pid 745)
+                 333 kB: netd (pid 741)
+                 332 kB: VirtualEvent (pid 1263)
+                 318 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 270 kB: keystore (pid 748)
+                 228 kB: dhcpcd (pid 1878)
+                 216 kB: adbd (pid 1439)
+                 205 kB: vold (pid 737)
+                 191 kB: sh (pid 1706)
+                 148 kB: RootApp (pid 1111)
+                 121 kB: coocaa_guard (pid 753)
+                 117 kB: sdcard (pid 757)
+                 112 kB: healthd (pid 733)
+                 100 kB: FileDesc_server (pid 749)
+                  99 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+                  52 kB: servicemanager (pid 735)
+                  45 kB: logwrapper (pid 1106)
+                  44 kB: keypad (pid 740)
+                  36 kB: installd (pid 747)
+                  34 kB: hardwared (pid 738)
+                  30 kB: debuggerd (pid 742)
+                  18 kB: smobsd (pid 1266)
+                   0 kB: dumpsys (pid 3983)
+    17683 kB: System
+               17683 kB: system (pid 1349)
+     4496 kB: Persistent
+                4496 kB: com.dunn.instrument (pid 1581)
+   170246 kB: Foreground
+               69509 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               19992 kB: com.tianci.appstore (pid 3774)
+               18130 kB: com.tianci.de (pid 2460)
+               17192 kB: com.tianci.system (pid 1590)
+               14373 kB: com.tianci.push (pid 1720)
+               13030 kB: com.coocaa.os.softsettings.provider (pid 2298)
+               12669 kB: com.tianci.ad (pid 2726)
+                5351 kB: android.process.media (pid 2647)
+    43558 kB: Visible
+               35888 kB: com.tianci.movieplatform (pid 2560)
+                7670 kB: com.coocaa.os.ccosservice (pid 1867)
+     8216 kB: A Services
+                8216 kB: com.tianci.ad:adUpgrade (pid 3333)
+    23998 kB: Cached
+               12869 kB: com.tianci.user (pid 2828)
+               11129 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    73881 kB: .dex mmap
+    62624 kB: Dalvik Other
+    59512 kB: Dalvik
+    32543 kB: .so mmap
+    31050 kB: Unknown
+    11634 kB: Other dev
+     6448 kB: Native
+     6004 kB: Ashmem
+     5790 kB: .apk mmap
+     4780 kB: Other mmap
+     4168 kB: Stack
+      400 kB: .ttf mmap
+      156 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 189186 kB (23998 cached pss + 116876 cached + 48312 free)
+ Used RAM: 297304 kB (274996 used pss + 1212 buffers + 228 shmem + 20868 slab)
+ Lost RAM: -23362 kB
+     ZRAM: 3956 kB physical used for 8844 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 102418 Realtime: 102418
+
+Total PSS by process:
+    69509 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    35964 kB: com.tianci.movieplatform (pid 2560)
+    19993 kB: com.tianci.appstore (pid 3774)
+    18139 kB: com.tianci.de (pid 2460)
+    17595 kB: system (pid 1349)
+    17192 kB: com.tianci.system (pid 1590)
+    14372 kB: com.tianci.push (pid 1720)
+    13030 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    12869 kB: com.tianci.user (pid 2828)
+    12671 kB: com.tianci.ad (pid 2726)
+    11129 kB: com.coocaa.sysreport (pid 2327)
+     8323 kB: app_process (pid 1799)
+     8217 kB: com.tianci.ad:adUpgrade (pid 3333)
+     7618 kB: com.coocaa.os.ccosservice (pid 1867)
+     7346 kB: mediaserver (pid 746)
+     5352 kB: android.process.media (pid 2647)
+     4496 kB: com.dunn.instrument (pid 1581)
+     4190 kB: zygote (pid 744)
+     3794 kB: TvServer (pid 1118)
+     1547 kB: surfaceflinger (pid 743)
+      942 kB: wpa_supplicant (pid 1505)
+      810 kB: logcat (pid 2093)
+      425 kB: drmserver (pid 745)
+      333 kB: netd (pid 741)
+      332 kB: VirtualEvent (pid 1263)
+      318 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      270 kB: keystore (pid 748)
+      228 kB: dhcpcd (pid 1878)
+      216 kB: adbd (pid 1439)
+      205 kB: vold (pid 737)
+      191 kB: sh (pid 1706)
+      177 kB: dumpsys (pid 4109)
+      148 kB: RootApp (pid 1111)
+      121 kB: coocaa_guard (pid 753)
+      117 kB: sdcard (pid 757)
+      112 kB: healthd (pid 733)
+      100 kB: FileDesc_server (pid 749)
+       99 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+       52 kB: servicemanager (pid 735)
+       45 kB: logwrapper (pid 1106)
+       44 kB: keypad (pid 740)
+       36 kB: installd (pid 747)
+       34 kB: hardwared (pid 738)
+       30 kB: debuggerd (pid 742)
+       18 kB: smobsd (pid 1266)
+
+Total PSS by OOM adjustment:
+    30975 kB: Native
+                8323 kB: app_process (pid 1799)
+                7346 kB: mediaserver (pid 746)
+                4190 kB: zygote (pid 744)
+                3794 kB: TvServer (pid 1118)
+                1547 kB: surfaceflinger (pid 743)
+                 942 kB: wpa_supplicant (pid 1505)
+                 810 kB: logcat (pid 2093)
+                 425 kB: drmserver (pid 745)
+                 333 kB: netd (pid 741)
+                 332 kB: VirtualEvent (pid 1263)
+                 318 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 270 kB: keystore (pid 748)
+                 228 kB: dhcpcd (pid 1878)
+                 216 kB: adbd (pid 1439)
+                 205 kB: vold (pid 737)
+                 191 kB: sh (pid 1706)
+                 177 kB: dumpsys (pid 4109)
+                 148 kB: RootApp (pid 1111)
+                 121 kB: coocaa_guard (pid 753)
+                 117 kB: sdcard (pid 757)
+                 112 kB: healthd (pid 733)
+                 100 kB: FileDesc_server (pid 749)
+                  99 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+                  52 kB: servicemanager (pid 735)
+                  45 kB: logwrapper (pid 1106)
+                  44 kB: keypad (pid 740)
+                  36 kB: installd (pid 747)
+                  34 kB: hardwared (pid 738)
+                  30 kB: debuggerd (pid 742)
+                  18 kB: smobsd (pid 1266)
+    17595 kB: System
+               17595 kB: system (pid 1349)
+     4496 kB: Persistent
+                4496 kB: com.dunn.instrument (pid 1581)
+   170258 kB: Foreground
+               69509 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               19993 kB: com.tianci.appstore (pid 3774)
+               18139 kB: com.tianci.de (pid 2460)
+               17192 kB: com.tianci.system (pid 1590)
+               14372 kB: com.tianci.push (pid 1720)
+               13030 kB: com.coocaa.os.softsettings.provider (pid 2298)
+               12671 kB: com.tianci.ad (pid 2726)
+                5352 kB: android.process.media (pid 2647)
+    43582 kB: Visible
+               35964 kB: com.tianci.movieplatform (pid 2560)
+                7618 kB: com.coocaa.os.ccosservice (pid 1867)
+     8217 kB: A Services
+                8217 kB: com.tianci.ad:adUpgrade (pid 3333)
+    23998 kB: Cached
+               12869 kB: com.tianci.user (pid 2828)
+               11129 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    73981 kB: .dex mmap
+    62624 kB: Dalvik Other
+    59464 kB: Dalvik
+    32667 kB: .so mmap
+    30954 kB: Unknown
+    11636 kB: Other dev
+     6452 kB: Native
+     6004 kB: Ashmem
+     5790 kB: .apk mmap
+     4801 kB: Other mmap
+     4188 kB: Stack
+      400 kB: .ttf mmap
+      156 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 188870 kB (23998 cached pss + 117432 cached + 47440 free)
+ Used RAM: 297443 kB (275123 used pss + 1220 buffers + 228 shmem + 20872 slab)
+ Lost RAM: -23185 kB
+     ZRAM: 3956 kB physical used for 8844 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 104788 Realtime: 104788
+
+Total PSS by process:
+    69489 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    35516 kB: com.tianci.movieplatform (pid 2560)
+    21086 kB: com.tianci.appstore (pid 3774)
+    18143 kB: com.tianci.de (pid 2460)
+    17739 kB: system (pid 1349)
+    17212 kB: com.tianci.system (pid 1590)
+    14265 kB: com.tianci.push (pid 1720)
+    13030 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    12870 kB: com.tianci.user (pid 2828)
+    12671 kB: com.tianci.ad (pid 2726)
+    11129 kB: com.coocaa.sysreport (pid 2327)
+     8320 kB: app_process (pid 1799)
+     8217 kB: com.tianci.ad:adUpgrade (pid 3333)
+     7618 kB: com.coocaa.os.ccosservice (pid 1867)
+     7373 kB: mediaserver (pid 746)
+     5352 kB: android.process.media (pid 2647)
+     4496 kB: com.dunn.instrument (pid 1581)
+     4186 kB: zygote (pid 744)
+     3794 kB: TvServer (pid 1118)
+     1547 kB: surfaceflinger (pid 743)
+      942 kB: wpa_supplicant (pid 1505)
+      810 kB: logcat (pid 2093)
+      424 kB: drmserver (pid 745)
+      333 kB: netd (pid 741)
+      332 kB: VirtualEvent (pid 1263)
+      318 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      270 kB: keystore (pid 748)
+      228 kB: dhcpcd (pid 1878)
+      216 kB: adbd (pid 1439)
+      205 kB: vold (pid 737)
+      191 kB: sh (pid 1706)
+      148 kB: RootApp (pid 1111)
+      121 kB: coocaa_guard (pid 753)
+      117 kB: sdcard (pid 757)
+      112 kB: healthd (pid 733)
+      100 kB: FileDesc_server (pid 749)
+       99 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+       52 kB: servicemanager (pid 735)
+       45 kB: logwrapper (pid 1106)
+       44 kB: keypad (pid 740)
+       36 kB: installd (pid 747)
+       34 kB: hardwared (pid 738)
+       30 kB: debuggerd (pid 742)
+       18 kB: smobsd (pid 1266)
+        0 kB: dumpsys (pid 4109)
+
+Total PSS by OOM adjustment:
+    30817 kB: Native
+                8320 kB: app_process (pid 1799)
+                7373 kB: mediaserver (pid 746)
+                4186 kB: zygote (pid 744)
+                3794 kB: TvServer (pid 1118)
+                1547 kB: surfaceflinger (pid 743)
+                 942 kB: wpa_supplicant (pid 1505)
+                 810 kB: logcat (pid 2093)
+                 424 kB: drmserver (pid 745)
+                 333 kB: netd (pid 741)
+                 332 kB: VirtualEvent (pid 1263)
+                 318 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 270 kB: keystore (pid 748)
+                 228 kB: dhcpcd (pid 1878)
+                 216 kB: adbd (pid 1439)
+                 205 kB: vold (pid 737)
+                 191 kB: sh (pid 1706)
+                 148 kB: RootApp (pid 1111)
+                 121 kB: coocaa_guard (pid 753)
+                 117 kB: sdcard (pid 757)
+                 112 kB: healthd (pid 733)
+                 100 kB: FileDesc_server (pid 749)
+                  99 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+                  52 kB: servicemanager (pid 735)
+                  45 kB: logwrapper (pid 1106)
+                  44 kB: keypad (pid 740)
+                  36 kB: installd (pid 747)
+                  34 kB: hardwared (pid 738)
+                  30 kB: debuggerd (pid 742)
+                  18 kB: smobsd (pid 1266)
+                   0 kB: dumpsys (pid 4109)
+    17739 kB: System
+               17739 kB: system (pid 1349)
+     4496 kB: Persistent
+                4496 kB: com.dunn.instrument (pid 1581)
+   171248 kB: Foreground
+               69489 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               21086 kB: com.tianci.appstore (pid 3774)
+               18143 kB: com.tianci.de (pid 2460)
+               17212 kB: com.tianci.system (pid 1590)
+               14265 kB: com.tianci.push (pid 1720)
+               13030 kB: com.coocaa.os.softsettings.provider (pid 2298)
+               12671 kB: com.tianci.ad (pid 2726)
+                5352 kB: android.process.media (pid 2647)
+    43134 kB: Visible
+               35516 kB: com.tianci.movieplatform (pid 2560)
+                7618 kB: com.coocaa.os.ccosservice (pid 1867)
+     8217 kB: A Services
+                8217 kB: com.tianci.ad:adUpgrade (pid 3333)
+    23999 kB: Cached
+               12870 kB: com.tianci.user (pid 2828)
+               11129 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    74557 kB: .dex mmap
+    62948 kB: Dalvik Other
+    59216 kB: Dalvik
+    32511 kB: .so mmap
+    31010 kB: Unknown
+    11634 kB: Other dev
+     6448 kB: Native
+     6004 kB: Ashmem
+     5790 kB: .apk mmap
+     4780 kB: Other mmap
+     4192 kB: Stack
+      400 kB: .ttf mmap
+      156 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 187807 kB (23999 cached pss + 119292 cached + 44516 free)
+ Used RAM: 298071 kB (275651 used pss + 1320 buffers + 228 shmem + 20872 slab)
+ Lost RAM: -22750 kB
+     ZRAM: 3956 kB physical used for 8840 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)
+Applications Memory Usage (kB):
+Uptime: 107157 Realtime: 107157
+
+Total PSS by process:
+    69489 kB: com.ccos.tv.homepage (pid 2143 / activities)
+    35544 kB: com.tianci.movieplatform (pid 2560)
+    21859 kB: com.tianci.appstore (pid 3774)
+    18135 kB: com.tianci.de (pid 2460)
+    17779 kB: system (pid 1349)
+    17212 kB: com.tianci.system (pid 1590)
+    14265 kB: com.tianci.push (pid 1720)
+    13034 kB: com.coocaa.os.softsettings.provider (pid 2298)
+    12870 kB: com.tianci.user (pid 2828)
+    12671 kB: com.tianci.ad (pid 2726)
+    11153 kB: com.coocaa.sysreport (pid 2327)
+     8320 kB: app_process (pid 1799)
+     8217 kB: com.tianci.ad:adUpgrade (pid 3333)
+     7618 kB: com.coocaa.os.ccosservice (pid 1867)
+     7373 kB: mediaserver (pid 746)
+     5352 kB: android.process.media (pid 2647)
+     4496 kB: com.dunn.instrument (pid 1581)
+     4187 kB: zygote (pid 744)
+     3794 kB: TvServer (pid 1118)
+     1547 kB: surfaceflinger (pid 743)
+      942 kB: wpa_supplicant (pid 1505)
+      810 kB: logcat (pid 2093)
+      424 kB: drmserver (pid 745)
+      333 kB: netd (pid 741)
+      332 kB: VirtualEvent (pid 1263)
+      318 kB: /init (pid 1)
+      300 kB: busybox (pid 1635)
+      270 kB: keystore (pid 748)
+      228 kB: dhcpcd (pid 1878)
+      216 kB: adbd (pid 1439)
+      205 kB: vold (pid 737)
+      191 kB: sh (pid 1706)
+      148 kB: RootApp (pid 1111)
+      121 kB: coocaa_guard (pid 753)
+      117 kB: sdcard (pid 757)
+      112 kB: healthd (pid 733)
+      100 kB: FileDesc_server (pid 749)
+       99 kB: sh (pid 734)
+       72 kB: ueventd (pid 512)
+       52 kB: servicemanager (pid 735)
+       45 kB: logwrapper (pid 1106)
+       44 kB: keypad (pid 740)
+       36 kB: installd (pid 747)
+       34 kB: hardwared (pid 738)
+       30 kB: debuggerd (pid 742)
+       18 kB: smobsd (pid 1266)
+        0 kB: dumpsys (pid 4109)
+
+Total PSS by OOM adjustment:
+    30818 kB: Native
+                8320 kB: app_process (pid 1799)
+                7373 kB: mediaserver (pid 746)
+                4187 kB: zygote (pid 744)
+                3794 kB: TvServer (pid 1118)
+                1547 kB: surfaceflinger (pid 743)
+                 942 kB: wpa_supplicant (pid 1505)
+                 810 kB: logcat (pid 2093)
+                 424 kB: drmserver (pid 745)
+                 333 kB: netd (pid 741)
+                 332 kB: VirtualEvent (pid 1263)
+                 318 kB: /init (pid 1)
+                 300 kB: busybox (pid 1635)
+                 270 kB: keystore (pid 748)
+                 228 kB: dhcpcd (pid 1878)
+                 216 kB: adbd (pid 1439)
+                 205 kB: vold (pid 737)
+                 191 kB: sh (pid 1706)
+                 148 kB: RootApp (pid 1111)
+                 121 kB: coocaa_guard (pid 753)
+                 117 kB: sdcard (pid 757)
+                 112 kB: healthd (pid 733)
+                 100 kB: FileDesc_server (pid 749)
+                  99 kB: sh (pid 734)
+                  72 kB: ueventd (pid 512)
+                  52 kB: servicemanager (pid 735)
+                  45 kB: logwrapper (pid 1106)
+                  44 kB: keypad (pid 740)
+                  36 kB: installd (pid 747)
+                  34 kB: hardwared (pid 738)
+                  30 kB: debuggerd (pid 742)
+                  18 kB: smobsd (pid 1266)
+                   0 kB: dumpsys (pid 4109)
+    17779 kB: System
+               17779 kB: system (pid 1349)
+     4496 kB: Persistent
+                4496 kB: com.dunn.instrument (pid 1581)
+   172017 kB: Foreground
+               69489 kB: com.ccos.tv.homepage (pid 2143 / activities)
+               21859 kB: com.tianci.appstore (pid 3774)
+               18135 kB: com.tianci.de (pid 2460)
+               17212 kB: com.tianci.system (pid 1590)
+               14265 kB: com.tianci.push (pid 1720)
+               13034 kB: com.coocaa.os.softsettings.provider (pid 2298)
+               12671 kB: com.tianci.ad (pid 2726)
+                5352 kB: android.process.media (pid 2647)
+    43162 kB: Visible
+               35544 kB: com.tianci.movieplatform (pid 2560)
+                7618 kB: com.coocaa.os.ccosservice (pid 1867)
+     8217 kB: A Services
+                8217 kB: com.tianci.ad:adUpgrade (pid 3333)
+    24023 kB: Cached
+               12870 kB: com.tianci.user (pid 2828)
+               11153 kB: com.coocaa.sysreport (pid 2327)
+
+Total PSS by category:
+    74721 kB: .dex mmap
+    63143 kB: Dalvik Other
+    59612 kB: Dalvik
+    32650 kB: .so mmap
+    30962 kB: Unknown
+    11638 kB: Other dev
+     6448 kB: Native
+     6004 kB: Ashmem
+     5790 kB: .apk mmap
+     4780 kB: Other mmap
+     4204 kB: Stack
+      400 kB: .ttf mmap
+      156 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 463128 kB
+ Free RAM: 187863 kB (24023 cached pss + 119420 cached + 44420 free)
+ Used RAM: 298941 kB (276489 used pss + 1336 buffers + 228 shmem + 20888 slab)
+ Lost RAM: -23676 kB
+     ZRAM: 3956 kB physical used for 8840 kB in swap (98300 kB total swap)
+   Tuning: 48 (large 128), oom 108462 kB, restore limit 36154 kB (low-ram)

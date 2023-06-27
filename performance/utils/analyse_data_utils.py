@@ -36,6 +36,20 @@ def analyse_str_is_float(value_str):
     return False
 
 """
+判断字符串是否是整数
+"""
+def analyse_str_is_int(value_str):
+    value_str = str(value_str)
+    if value_str.count('.') == 0:  # 整数
+        if value_str.isdigit():
+            return True
+        elif value_str.count('-') == 1 and value_str.startswith('-'):  # 负整数
+            ss = value_str.split('-')[-1]
+            if ss.isdigit():
+                return True
+    return False
+
+"""
 判断字符串是否是浮点数或整数
 """
 def analyse_str_is_float_or_int(value_str):

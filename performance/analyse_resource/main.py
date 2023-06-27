@@ -1,27 +1,52 @@
 import multiprocessing
+import sys
+
 from analyse_resource.cpuinfo_manager import CpuinfoManager
 from analyse_resource.image.analyse_resource_image import AnalyseResourceImage
 from analyse_resource.meminfo_manager import MeminfoManager
 from analyse_resource.process_manager import ProcessManager
-from utils.file_utils import delete_dir_all, delete_dir_file, delete_dir, create_dir
+from utils.adb_utils import check_adb_device
+from utils.file_utils import create_dir
+from ui.progress_window import show
+from ui.tip import show as tip_show
 import time
 import os
-from multiprocessing import Pool
-from multiprocessing import Process
+from multiprocessing import Process, Queue
 
 
 analyse_dir = ''  # 性能分析缓存一级目录
-analyse_cpuinfo_image_dir = '' #性能分析缓存cpuinfo image二级目录
-process_all_filename = 'process_all.txt'  # 所有进程缓存文件
+device_filename = 'device.txt'  # 平台资源文件
 top_cpuinfo_filename = 'top_cpuinfo.txt'  # top缓存文件
-analyse_cpuinfo_filename = 'analyse_cpuinfo'  # 资源分析汇总文件analyse_cpuinfo.xlsx
+process_all_filename = 'process_all.txt'  # 所有进程缓存文件
 extract_cpuinfo_filename = 'extract_cpuinfo.txt'  # 资源分析文件
-analyse_meminfo_image_dir = '' #性能分析缓存meminfo image二级目录
 dumpsys_meminfo_filename = 'dumpsys_meminfo.txt'  # dumpsys缓存文件
-analyse_meminfo_filename = 'analyse_meminfo'  # 资源分析汇总文件analyse_meminfo.xlsx
 extract_meminfo_filename = 'extract_meminfo.txt'  # 资源分析文件
 
-def task_cpuinfo(name,start_time,tol_time,root_dir,sub_dir):
+analyse_cpuinfo_image_dir = '' #性能分析缓存cpuinfo image二级目录
+analyse_cpuinfo_filename = 'analyse_cpuinfo'  # 资源分析汇总文件analyse_cpuinfo.xlsx
+
+analyse_meminfo_image_dir = '' #性能分析缓存meminfo image二级目录
+analyse_meminfo_filename = 'analyse_meminfo'  # 资源分析汇总文件analyse_meminfo.xlsx
+
+
+
+def task_progress_window(queue,name,start_time,tol_time):
+    print('%s sub process %s is running......' % (name, os.getpid()))
+
+    cpuinfo_isdone, meminfo_isdone = False, False
+    # progress
+    show(tol_time)
+    while cpuinfo_isdone == False or meminfo_isdone == False:
+        value = queue.get(True)
+        print('task process window get value: %s' % value)
+        if value == 'task cpuinfo done':
+            cpuinfo_isdone = True
+        elif value == 'task meminfo done':
+            meminfo_isdone = True
+
+    print('%s sub process %s is done.' % (name, os.getpid()))
+
+def task_cpuinfo(queue,name,start_time,tol_time,root_dir,sub_dir):
     print('%s sub process %s is running......' % (name,os.getpid()))
 
     cpuinfo_manager = CpuinfoManager()
@@ -47,8 +72,9 @@ def task_cpuinfo(name,start_time,tol_time,root_dir,sub_dir):
                                    f'{root_dir}/{extract_cpuinfo_filename}',
                                    AnalyseResourceImage(sub_dir))
     print('%s sub process %s is done.' % (name, os.getpid()))
+    queue.put('task cpuinfo done')
 
-def task_meminfo(name,start_time,tol_time,root_dir,sub_dir):
+def task_meminfo(queue,name,start_time,tol_time,root_dir,sub_dir):
     print('%s sub process %s is running......' % (name, os.getpid()))
 
     meminfo_manager = MeminfoManager()
@@ -75,10 +101,21 @@ def task_meminfo(name,start_time,tol_time,root_dir,sub_dir):
                                    f'{root_dir}/{extract_meminfo_filename}',
                                    AnalyseResourceImage(sub_dir))
     print('%s sub process %s is done.' % (name, os.getpid()))
+    queue.put('task meminfo done')
 
 if __name__ == "__main__":
-    # 在此处添加
+    # 在此处添加，用于多进程打包
     multiprocessing.freeze_support()
+
+    # 判断adb是否连接
+    device = check_adb_device()
+    if device==False:
+        print(f'!!!!!!未连接adb设备!!!!!!')
+        sys.exit()
+
+    # 输入脚本运行时长
+    tol_time = int(input("请输入脚本执行时间(秒)："))
+    start_time = time.time()
 
     # 记录开始时间点
     start_time_str = time.strftime("%y_%m_%d-%H_%M_%S", time.localtime())
@@ -91,21 +128,22 @@ if __name__ == "__main__":
     analyse_meminfo_image_dir = analyse_dir + '/meminfo_image'
     create_dir(analyse_meminfo_image_dir)
 
-    # # 使用ps命令获取所有进程
+    # 使用ps命令获取所有进程
     process_manager = ProcessManager()
     process_manager.get_process_all(f'{analyse_dir}/{process_all_filename}')
 
-    tol_time = int(input("请输入脚本执行时间(分钟)："))
-    start_time = time.time()
-
     # 这里可以使用多进程机制
     print('Parent process %s' % os.getpid())
-    p = Process(target=task_cpuinfo, args=('Cpuinfo',start_time,tol_time,analyse_dir,analyse_cpuinfo_image_dir,))
-    p.start()
-    p1 = Process(target=task_meminfo, args=('Meminfo',start_time,tol_time,analyse_dir,analyse_meminfo_image_dir,))
+    queue = Queue()
+    p0 = Process(target=task_progress_window, args=(queue,'ProgressWindow', start_time, tol_time,))
+    p0.start()
+    p1 = Process(target=task_cpuinfo, args=(queue,'Cpuinfo',start_time,tol_time,analyse_dir,analyse_cpuinfo_image_dir,))
     p1.start()
+    p2 = Process(target=task_meminfo, args=(queue,'Meminfo',start_time,tol_time,analyse_dir,analyse_meminfo_image_dir,))
+    p2.start()
 
-    p.join()  # join()方法可以等待子进程结束后再继续往下运行，通常用于进程间的同步
-    p1.join()
+    p1.join()  # join()方法可以等待子进程结束后再继续往下运行，通常用于进程间的同步
+    p2.join()
+    p0.join()
 
-    print('All sub process done.')
+    print('资源分析结束！')
