@@ -1,0 +1,125 @@
+Using fallback suid method
+[H[JMem: 1597020K used, 440304K free, 0K shrd, 77864K buff, 666824K cached
+CPU:  2.2% usr  2.2% sys  0.0% nic 95.4% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 11.67 11.84 11.79 2/1188 11927
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 2746  1381 1000     S    1623m 81.4   2  2.2 com.tianci.de
+ 1653     2 0        DW       0  0.0   2  2.2 [VdecKernelThrea]
+15401  1380 1000     S    2044m102.6   3  0.0 com.github.uiautomator
+ 2054  1380 10007    S    2035m102.1   3  0.0 com.android.systemui
+ 9489  1380 1000     S    2013m101.0   0  0.0 com.coocaa.factory
+ 2855  1380 10002    S    2010m100.9   0  0.0 android.process.media
+ 1849  1380 1000     S <  2010m100.9   2  0.0 system_server
+ 2886  1380 10004    S    2003m100.5   0  0.0 com.android.managedprovisioning
+ 1380     1 0        S    1989m 99.8   3  0.0 zygote64
+ 2220  1381 1000     S <  1795m 90.1   1  0.0 com.tianci.movieplatform
+ 3432  1381 1000     S    1594m 80.0   3  0.0 com.skyworth.setting
+ 4243  1381 1000     S <  1567m 78.6   1  0.0 com.coocaa.educate
+ 2503  1381 1000     S    1562m 78.4   1  0.0 com.tianci.push
+ 3268  1381 1000     S    1547m 77.6   3  0.0 com.skyworth.angel.voice
+ 2420  1381 10017    S    1537m 77.1   0  0.0 com.coocaa.os.ccosservice
+ 2138  1381 1000     S    1527m 76.7   1  0.0 com.tianci.system
+ 2835  1381 1000     S    1515m 76.0   1  0.0 com.skyworthdigital.idtv
+ 3383  1381 1000     S    1498m 75.2   0  0.0 com.skyworth.smarthome_tv:aiotlib
+ 3303  1381 1000     S    1496m 75.1   0  0.0 com.skyworth.smarthome_tv
+ 8890  1381 10021    S    1483m 74.4   0  0.0 com.tianci.user
+Using fallback suid method
+[H[JMem: 1596776K used, 440548K free, 0K shrd, 77864K buff, 666824K cached
+CPU:  2.2% usr  2.2% sys  0.0% nic 95.4% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 11.67 11.84 11.79 2/1188 11932
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 2746  1381 1000     S    1623m 81.4   2  2.2 com.tianci.de
+11929  9140 2000     R     2120  0.1   1  2.2 busybox top -n 1
+15401  1380 1000     S    2044m102.6   3  0.0 com.github.uiautomator
+ 2054  1380 10007    S    2035m102.1   3  0.0 com.android.systemui
+ 9489  1380 1000     S    2013m101.0   0  0.0 com.coocaa.factory
+ 2855  1380 10002    S    2010m100.9   0  0.0 android.process.media
+ 1849  1380 1000     S <  2010m100.9   2  0.0 system_server
+ 2886  1380 10004    S    2003m100.5   0  0.0 com.android.managedprovisioning
+ 1380     1 0        S    1989m 99.8   3  0.0 zygote64
+ 2220  1381 1000     S <  1795m 90.1   1  0.0 com.tianci.movieplatform
+ 3432  1381 1000     S    1594m 80.0   3  0.0 com.skyworth.setting
+ 4243  1381 1000     S <  1567m 78.6   1  0.0 com.coocaa.educate
+ 2503  1381 1000     S    1562m 78.4   1  0.0 com.tianci.push
+ 3268  1381 1000     S    1547m 77.6   3  0.0 com.skyworth.angel.voice
+ 2420  1381 10017    S    1537m 77.1   0  0.0 com.coocaa.os.ccosservice
+ 2138  1381 1000     S    1527m 76.7   1  0.0 com.tianci.system
+ 2835  1381 1000     S    1515m 76.0   1  0.0 com.skyworthdigital.idtv
+ 3383  1381 1000     S    1498m 75.2   0  0.0 com.skyworth.smarthome_tv:aiotlib
+ 3303  1381 1000     S    1496m 75.1   0  0.0 com.skyworth.smarthome_tv
+ 8890  1381 10021    S    1483m 74.4   0  0.0 com.tianci.user
+Using fallback suid method
+[H[JMem: 1597380K used, 439944K free, 0K shrd, 77864K buff, 666824K cached
+CPU:  2.3% usr  2.3% sys  0.0% nic 95.3% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 11.67 11.84 11.79 2/1188 11937
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 2746  1381 1000     S    1623m 81.4   2  2.3 com.tianci.de
+15401  1380 1000     S    2044m102.6   3  0.0 com.github.uiautomator
+ 2054  1380 10007    S    2035m102.1   3  0.0 com.android.systemui
+ 9489  1380 1000     S    2013m101.0   0  0.0 com.coocaa.factory
+ 2855  1380 10002    S    2010m100.9   0  0.0 android.process.media
+ 1849  1380 1000     S <  2010m100.9   2  0.0 system_server
+ 2886  1380 10004    S    2003m100.5   0  0.0 com.android.managedprovisioning
+ 1380     1 0        S    1989m 99.8   3  0.0 zygote64
+ 2220  1381 1000     S <  1795m 90.1   1  0.0 com.tianci.movieplatform
+ 3432  1381 1000     S    1594m 80.0   3  0.0 com.skyworth.setting
+ 4243  1381 1000     S <  1567m 78.6   1  0.0 com.coocaa.educate
+ 2503  1381 1000     S    1562m 78.4   1  0.0 com.tianci.push
+ 3268  1381 1000     S    1547m 77.6   3  0.0 com.skyworth.angel.voice
+ 2420  1381 10017    S    1537m 77.1   0  0.0 com.coocaa.os.ccosservice
+ 2138  1381 1000     S    1527m 76.7   1  0.0 com.tianci.system
+ 2835  1381 1000     S    1515m 76.0   1  0.0 com.skyworthdigital.idtv
+ 3383  1381 1000     S    1498m 75.2   0  0.0 com.skyworth.smarthome_tv:aiotlib
+ 3303  1381 1000     S    1496m 75.1   0  0.0 com.skyworth.smarthome_tv
+ 8890  1381 10021    S    1483m 74.4   0  0.0 com.tianci.user
+ 8837  1381 10013    S    1481m 74.3   1  0.0 com.coocaa.sysreport
+Using fallback suid method
+[H[JMem: 1597400K used, 439924K free, 0K shrd, 77864K buff, 666824K cached
+CPU:  2.2% usr  2.2% sys  0.0% nic 95.5% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 11.67 11.84 11.79 2/1188 11941
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 2746  1381 1000     S    1623m 81.4   2  2.2 com.tianci.de
+11940  9140 2000     R     2120  0.1   0  2.2 busybox top -n 1
+15401  1380 1000     S    2044m102.6   3  0.0 com.github.uiautomator
+ 2054  1380 10007    S    2035m102.1   3  0.0 com.android.systemui
+ 9489  1380 1000     S    2013m101.0   0  0.0 com.coocaa.factory
+ 2855  1380 10002    S    2010m100.9   0  0.0 android.process.media
+ 1849  1380 1000     S <  2010m100.9   2  0.0 system_server
+ 2886  1380 10004    S    2003m100.5   0  0.0 com.android.managedprovisioning
+ 1380     1 0        S    1989m 99.8   3  0.0 zygote64
+ 2220  1381 1000     S <  1795m 90.1   1  0.0 com.tianci.movieplatform
+ 3432  1381 1000     S    1594m 80.0   3  0.0 com.skyworth.setting
+ 4243  1381 1000     S <  1567m 78.6   1  0.0 com.coocaa.educate
+ 2503  1381 1000     S    1562m 78.4   1  0.0 com.tianci.push
+ 3268  1381 1000     S    1547m 77.6   3  0.0 com.skyworth.angel.voice
+ 2420  1381 10017    S    1537m 77.1   0  0.0 com.coocaa.os.ccosservice
+ 2138  1381 1000     S    1527m 76.7   1  0.0 com.tianci.system
+ 2835  1381 1000     S    1515m 76.0   1  0.0 com.skyworthdigital.idtv
+ 3383  1381 1000     S    1498m 75.2   0  0.0 com.skyworth.smarthome_tv:aiotlib
+ 3303  1381 1000     S    1496m 75.1   0  0.0 com.skyworth.smarthome_tv
+ 8890  1381 10021    S    1483m 74.4   0  0.0 com.tianci.user
+Using fallback suid method
+[H[JMem: 1597460K used, 439864K free, 0K shrd, 77864K buff, 666824K cached
+CPU:  0.0% usr  2.2% sys  0.0% nic 95.4% idle  0.0% io  0.0% irq  2.2% sirq
+Load average: 11.67 11.84 11.79 1/1188 11947
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 2746  1381 1000     S    1623m 81.4   2  2.2 com.tianci.de
+11943  9140 2000     R     2120  0.1   0  2.2 busybox top -n 1
+15401  1380 1000     S    2044m102.6   3  0.0 com.github.uiautomator
+ 2054  1380 10007    S    2035m102.1   3  0.0 com.android.systemui
+ 9489  1380 1000     S    2013m101.0   0  0.0 com.coocaa.factory
+ 2855  1380 10002    S    2010m100.9   0  0.0 android.process.media
+ 1849  1380 1000     S <  2010m100.9   2  0.0 system_server
+ 2886  1380 10004    S    2003m100.5   0  0.0 com.android.managedprovisioning
+ 1380     1 0        S    1989m 99.8   3  0.0 zygote64
+ 2220  1381 1000     S <  1795m 90.1   1  0.0 com.tianci.movieplatform
+ 3432  1381 1000     S    1594m 80.0   3  0.0 com.skyworth.setting
+ 4243  1381 1000     S <  1567m 78.6   1  0.0 com.coocaa.educate
+ 2503  1381 1000     S    1562m 78.4   1  0.0 com.tianci.push
+ 3268  1381 1000     S    1547m 77.6   3  0.0 com.skyworth.angel.voice
+ 2420  1381 10017    S    1537m 77.1   0  0.0 com.coocaa.os.ccosservice
+ 2138  1381 1000     S    1527m 76.7   1  0.0 com.tianci.system
+ 2835  1381 1000     S    1515m 76.0   1  0.0 com.skyworthdigital.idtv
+ 3383  1381 1000     S    1498m 75.2   0  0.0 com.skyworth.smarthome_tv:aiotlib
+ 3303  1381 1000     S    1496m 75.1   0  0.0 com.skyworth.smarthome_tv
+ 8890  1381 10021    S    1483m 74.4   0  0.0 com.tianci.user
