@@ -11,4 +11,10 @@
 #performance
 /PythonPerformanceTool/performance/.idea/
 /PythonPerformanceTool/performance/build/
+/PythonPerformanceTool/performance/dist/
+
+#analyse_resource
+/PythonPerformanceTool/performance/analyse_resource/.idea/
+/PythonPerformanceTool/performance/analyse_resource/build/
+/PythonPerformanceTool/performance/analyse_resource/dist/
 

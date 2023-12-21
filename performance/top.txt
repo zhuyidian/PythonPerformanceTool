@@ -1,25 +1,0 @@
-Using fallback suid method
-[H[JMem: 1367200K used, 670124K free, 0K shrd, 8576K buff, 607136K cached
-CPU:  2.3% usr  2.3% sys  0.0% nic 95.3% idle  0.0% io  0.0% irq  0.0% sirq
-Load average: 10.74 11.10 11.27 2/1075 19246
-[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
-15401  1380 1000     S    2044m102.6   0  0.0 com.github.uiautomator
- 2054  1380 10007    S    2033m102.0   1  0.0 com.android.systemui
- 2855  1380 10002    S    2010m100.9   1  0.0 android.process.media
- 1849  1380 1000     S <  2004m100.5   3  0.0 system_server
- 2886  1380 10004    S    2003m100.5   3  0.0 com.android.managedprovisioning
- 1380     1 0        S    1989m 99.8   2  0.0 zygote64
- 2220  1381 1000     S <  1691m 84.9   1  0.0 com.tianci.movieplatform
- 2746  1381 1000     S    1589m 79.7   2  0.0 com.tianci.de
- 4243  1381 1000     S <  1567m 78.7   0  0.0 com.coocaa.educate
- 3432  1381 1000     S    1564m 78.5   1  0.0 com.skyworth.setting
- 3268  1381 1000     S    1544m 77.5   0  0.0 com.skyworth.angel.voice
- 2138  1381 1000     S    1527m 76.7   1  0.0 com.tianci.system
- 2503  1381 1000     S    1525m 76.6   1  0.0 com.tianci.push
- 2420  1381 10017    S    1518m 76.2   0  0.0 com.coocaa.os.ccosservice
- 3383  1381 1000     S    1498m 75.2   0  0.0 com.skyworth.smarthome_tv:aiotlib
- 3303  1381 1000     S    1496m 75.0   3  0.0 com.skyworth.smarthome_tv
- 2575  1381 10013    S    1484m 74.5   2  0.0 com.coocaa.sysreport
- 2719  1381 1002     S <  1474m 74.0   3  0.0 com.android.bluetooth
- 2606  1381 1000     S    1472m 73.9   0  0.0 com.coocaa.os.softsettings.provide
- 3850  1381 1000     S    1470m 73.7   0  0.0 com.bajintech.karaok
