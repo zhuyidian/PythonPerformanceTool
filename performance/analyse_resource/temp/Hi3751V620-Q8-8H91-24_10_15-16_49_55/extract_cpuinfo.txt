@@ -1,0 +1,66 @@
+usr: 18.1,27.2,14.2,2.2,2.2,16.2,0.0,2.3,19.5,2.3,18.6,14.2
+usr: min(0.0) max(27.2) average(11.42)
+sys: 18.1,4.5,14.2,2.2,4.5,13.9,4.6,2.3,12.1,2.3,11.6,14.2
+sys: min(2.2) max(18.1) average(8.71)
+nic: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+nic: min(0.0) max(0.0) average(0.0)
+idle: 63.6,68.1,71.4,95.4,93.1,69.7,95.3,95.3,68.2,95.3,69.7,71.4
+idle: min(63.6) max(95.4) average(79.71)
+io: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+io: min(0.0) max(0.0) average(0.0)
+irq: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+irq: min(0.0) max(0.0) average(0.0)
+sirq: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+sirq: min(0.0) max(0.0) average(0.0)
+{'2213'} system_server: 20.4,0.0,24.1,0.0,0.0,25.5,0.0,0.0,26.8,0.0,25.5,26.1
+{'2213'} system_server: min(0.0) max(26.8) average(12.37)
+{'20913'} com.tianci.de: 2.2,0.0,0.0,0.0,2.2,0.0,0.0,0.0,2.4,1.5,0.0,2.3
+{'20913'} com.tianci.de: min(0.0) max(2.4) average(0.88)
+{'1596'} /system/bin/mediaserver: 2.2,2.1,1.5
+{'1596'} /system/bin/mediaserver: min(1.5) max(2.2) average(1.93)
+{'30597', '30797', '30724', '30757', '30642', '30839', '30677', '30556'} 1-ntopbusybox: 2.2,2.2,2.1,2.2,2.2,2.3,1.5,2.3
+{'30597', '30797', '30724', '30757', '30642', '30839', '30677', '30556'} 1-ntopbusybox: min(1.5) max(2.3) average(2.12)
+{'2970'} com.tianci.push: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'2970'} com.tianci.push: min(0.0) max(0.0) average(0.0)
+{'2448'} com.android.systemui: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'2448'} com.android.systemui: min(0.0) max(0.0) average(0.0)
+{'3532'} android.process.media: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'3532'} android.process.media: min(0.0) max(0.0) average(0.0)
+{'2581'} com.skyworth.android.skyRMService: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'2581'} com.skyworth.android.skyRMService: min(0.0) max(0.0) average(0.0)
+{'12828'} com.android.externalstorage: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'12828'} com.android.externalstorage: min(0.0) max(0.0) average(0.0)
+{'9718'} com.android.defcontainer: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'9718'} com.android.defcontainer: min(0.0) max(0.0) average(0.0)
+{'1610'} zygote64: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'1610'} zygote64: min(0.0) max(0.0) average(0.0)
+{'22425'} com.tianci.movieplatform: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3,0.0,0.0,0.0,0.0
+{'22425'} com.tianci.movieplatform: min(0.0) max(2.3) average(0.19)
+{'5347'} com.skyworth.angel.voice: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'5347'} com.skyworth.angel.voice: min(0.0) max(0.0) average(0.0)
+{'9660'} com.skyworth.setting: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'9660'} com.skyworth.setting: min(0.0) max(0.0) average(0.0)
+{'2506'} com.tianci.system: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'2506'} com.tianci.system: min(0.0) max(0.0) average(0.0)
+{'5242'} com.coocaa.os.ccosservice: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'5242'} com.coocaa.os.ccosservice: min(0.0) max(0.0) average(0.0)
+{'20958'} com.coocaa.os.softsettings.provide: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'20958'} com.coocaa.os.softsettings.provide: min(0.0) max(0.0) average(0.0)
+{'5003'} com.android.bluetooth: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'5003'} com.android.bluetooth: min(0.0) max(0.0) average(0.0)
+{'5033'} com.bajintech.karaok: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'5033'} com.bajintech.karaok: min(0.0) max(0.0) average(0.0)
+{'9961'} com.skyworth.tianciime: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'9961'} com.skyworth.tianciime: min(0.0) max(0.0) average(0.0)
+{'1586'} /system/bin/logd: 24.9
+{'1586'} /system/bin/logd: min(24.9) max(24.9) average(24.9)
+{'1604'} /system/bin/tvserver: 2.2,2.3,1.5
+{'1604'} /system/bin/tvserver: min(1.5) max(2.3) average(2.0)
+{'7'} [rcu_sched]: 2.2,1.5,1.5
+{'7'} [rcu_sched]: min(1.5) max(2.2) average(1.73)
+{'2561'} com.hisilicon.android.hiRMService: 0.0,0.0,0.0,0.0,0.0
+{'2561'} com.hisilicon.android.hiRMService: min(0.0) max(0.0) average(0.0)
+{'1742'} /system/bin/idong.thread.shsh: 2.4
+{'1742'} /system/bin/idong.thread.shsh: min(2.4) max(2.4) average(2.4)
+{'10697'} com.coocaa.messageprovider: 0.0,0.0
+{'10697'} com.coocaa.messageprovider: min(0.0) max(0.0) average(0.0)

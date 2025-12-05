@@ -1,0 +1,86 @@
+usr: 27.9,19.0,59.5,69.0,48.8,23.2,25.5,45.4,36.3,34.0,61.9
+usr: min(19.0) max(69.0) average(40.95)
+sys: 13.9,19.0,19.0,16.6,20.9,9.3,18.6,25.0,15.9,20.4,29.5
+sys: min(9.3) max(29.5) average(18.92)
+nic: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+nic: min(0.0) max(0.0) average(0.0)
+idle: 58.1,61.9,21.4,14.2,30.2,67.4,55.8,29.5,45.4,45.4,4.2
+idle: min(4.2) max(67.4) average(39.41)
+io: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+io: min(0.0) max(0.0) average(0.0)
+irq: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+irq: min(0.0) max(0.0) average(0.0)
+sirq: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,0.0,4.2
+sirq: min(0.0) max(4.2) average(0.58)
+{'2235'} system_server: 13.2,0.0,26.1,26.1,23.2,0.0,0.0,24.9,0.0,23.9,2.8
+{'2235'} system_server: min(0.0) max(26.1) average(12.75)
+{'27236'} com.coocaa.aigc.home: 13.2,11.8,0.0,0.0,0.0,0.0,0.0,0.0
+{'27236'} com.coocaa.aigc.home: min(0.0) max(13.2) average(3.12)
+{'5501'} com.wetest.uia2.Main/app_process: 6.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'5501'} com.wetest.uia2.Main/app_process: min(0.0) max(6.6) average(0.66)
+{'1605'} /system/bin/mediaserver: 2.2,4.7,4.6,4.0,6.9,4.5,4.5,4.3,14.0
+{'1605'} /system/bin/mediaserver: min(2.2) max(14.0) average(5.52)
+{'1600'} /system/bin/surfaceflinger: 2.2,2.3,2.3,4.6,2.0,6.9,4.5,4.5,2.1,2.8
+{'1600'} /system/bin/surfaceflinger: min(2.0) max(6.9) average(3.42)
+{'1613'} /system/bin/tvserver: 2.2,2.3,2.3,2.0,2.1
+{'1613'} /system/bin/tvserver: min(2.0) max(2.3) average(2.18)
+{'28035', '28384', '28218', '28083', '28165', '28137', '28256', '27854'} 1-ntopbusybox: 2.2,2.3,2.3,2.0,2.3,2.2,2.2,1.4
+{'28035', '28384', '28218', '28083', '28165', '28137', '28256', '27854'} 1-ntopbusybox: min(1.4) max(2.3) average(2.11)
+{'2682'} com.tianci.movieplatform: 0.0,0.0,40.3,33.2,18.6,14.2,18.6,18.1,15.8,15.2,29.5
+{'2682'} com.tianci.movieplatform: min(0.0) max(40.3) average(18.5)
+{'3139'} com.tianci.push: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'3139'} com.tianci.push: min(0.0) max(0.0) average(0.0)
+{'26712'} com.coocaa.sysreport: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,0.0,1.4
+{'26712'} com.coocaa.sysreport: min(0.0) max(2.2) average(0.33)
+{'2472'} com.android.systemui: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'2472'} com.android.systemui: min(0.0) max(0.0) average(0.0)
+{'2511'} android.process.media: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'2511'} android.process.media: min(0.0) max(0.0) average(0.0)
+{'2642'} com.skyworth.android.skyRMService: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'2642'} com.skyworth.android.skyRMService: min(0.0) max(0.0) average(0.0)
+{'2592'} com.android.externalstorage: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'2592'} com.android.externalstorage: min(0.0) max(0.0) average(0.0)
+{'3809'} com.android.managedprovisioning: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'3809'} com.android.managedprovisioning: min(0.0) max(0.0) average(0.0)
+{'2781'} com.android.defcontainer: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'2781'} com.android.defcontainer: min(0.0) max(0.0) average(0.0)
+{'1619'} zygote64: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'1619'} zygote64: min(0.0) max(0.0) average(0.0)
+{'4455'} com.skyworth.angel.voice: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.8
+{'4455'} com.skyworth.angel.voice: min(0.0) max(2.8) average(0.35)
+{'5093'} com.tianci.de: 0.0,4.7,2.3,0.0,2.3,2.0,2.2,2.2,2.1,1.4
+{'5093'} com.tianci.de: min(0.0) max(4.7) average(1.92)
+{'2544'} com.tianci.system: 0.0,0.0,0.0
+{'2544'} com.tianci.system: min(0.0) max(0.0) average(0.0)
+{'1642'} /system/bin/log_cap/system/bin/sh: 2.3
+{'1642'} /system/bin/log_cap/system/bin/sh: min(2.3) max(2.3) average(2.3)
+{'7'} [rcu_sched]: 2.3,2.0,2.1
+{'7'} [rcu_sched]: min(2.0) max(2.3) average(2.13)
+{'820'} [cfinteractive]: 2.3
+{'820'} [cfinteractive]: min(2.3) max(2.3) average(2.3)
+{'1595'} /system/bin/logd: 2.3,14.2,13.9,2.2,13.6,2.1,5.6
+{'1595'} /system/bin/logd: min(2.1) max(14.2) average(7.7)
+{'1879'} [HI_VFMW_VideoDe]: 2.3
+{'1879'} [HI_VFMW_VideoDe]: min(2.3) max(2.3) average(2.3)
+{'4686'} com.skyworth.setting: 0.0
+{'4686'} com.skyworth.setting: min(0.0) max(0.0) average(0.0)
+{'914'} [mmcqd/0]: 2.3
+{'914'} [mmcqd/0]: min(2.3) max(2.3) average(2.3)
+{'1076'} [HI_VPSS_Process]: 2.0,2.3,2.2
+{'1076'} [HI_VPSS_Process]: min(2.0) max(2.3) average(2.17)
+{'27255'} [kworker/0:2]: 2.0
+{'27255'} [kworker/0:2]: min(2.0) max(2.0) average(2.0)
+{'1881'} [VdecKernelThrea]: 2.3,1.4
+{'1881'} [VdecKernelThrea]: min(1.4) max(2.3) average(1.85)
+{'22765'} [kworker/u8:0]: 2.3
+{'22765'} [kworker/u8:0]: min(2.3) max(2.3) average(2.3)
+{'1757'} /system/bin/imi_chmod_permissiosh: 2.2
+{'1757'} /system/bin/imi_chmod_permissiosh: min(2.2) max(2.2) average(2.2)
+{'975'} tas]main[HDMIRX: 2.2
+{'975'} tas]main[HDMIRX: min(2.2) max(2.2) average(2.2)
+{'1830'} -threadtime-v/system/bin/logcat: 2.2
+{'1830'} -threadtime-v/system/bin/logcat: min(2.2) max(2.2) average(2.2)
+{'1554'} [jbd2/mmcblk0p23]: 2.2,1.4
+{'1554'} [jbd2/mmcblk0p23]: min(1.4) max(2.2) average(1.8)
+{'1032'} [ThreadCommipMan]: 1.4
+{'1032'} [ThreadCommipMan]: min(1.4) max(1.4) average(1.4)

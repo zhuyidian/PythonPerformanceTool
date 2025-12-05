@@ -1,0 +1,84 @@
+usr: 16.2,61.7,4.6,21.4,26.1,4.6,22.5,4.7,20.4,22.7,2.3,17.0,4.4
+usr: min(2.3) max(61.7) average(17.58)
+sys: 16.2,17.0,4.6,11.9,7.1,2.3,7.5,2.3,13.6,13.6,4.6,17.0,6.6
+sys: min(2.3) max(17.0) average(9.56)
+nic: 0.0,12.7,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+nic: min(0.0) max(12.7) average(1.15)
+idle: 65.1,6.3,88.3,66.6,64.2,88.3,67.5,92.8,63.6,61.3,90.6,63.4,86.6
+idle: min(6.3) max(92.8) average(69.58)
+io: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+io: min(0.0) max(0.0) average(0.0)
+irq: 2.3,2.1,0.0,0.0,0.0,2.3,2.5,0.0,2.2,2.2,0.0,2.4,2.2
+irq: min(0.0) max(2.5) average(1.4)
+sirq: 0.0,0.0,0.0,0.0,2.3,2.3,0.0,0.0,0.0,0.0,2.3,0.0,0.0
+sirq: min(0.0) max(2.3) average(0.53)
+{'1033'} system_server: 18.6,17.0,0.0,19.2,25.2,0.0,20.9,0.0,24.2,24.9,0.0,26.8,0.0
+{'1033'} system_server: min(0.0) max(26.8) average(13.6)
+{'382'} /vendor/bin/hw/android.hardware.au: 4.6,4.2,4.6,3.5,6.3,3.8,5.7,3.5,2.0,4.5,1.8,2.4,4.4
+{'382'} /vendor/bin/hw/android.hardware.au: min(1.8) max(6.3) average(3.95)
+{'451', '446', '309'} /vendor/bin/hw/vendor.skyworth.har: 2.3,1.7,1.9,1.9,2.0,2.0,2.0,2.4
+{'451', '446', '309'} /vendor/bin/hw/vendor.skyworth.har: min(1.7) max(2.4) average(2.02)
+{'399'} /vendor/bin/hw/android.hardware.gr: 2.3
+{'399'} /vendor/bin/hw/android.hardware.gr: min(2.3) max(2.3) average(2.3)
+{'589'} /vendor/bin/mediaservice: 2.3
+{'589'} /vendor/bin/mediaservice: min(2.3) max(2.3) average(2.3)
+{'12853'} meminfodumpsys: 2.3
+{'12853'} meminfodumpsys: min(2.3) max(2.3) average(2.3)
+{'13160', '13192', '13252', '12851', '13080', '13141', '13018', '13229', '13180', '13104', '13055', '13126', '13214'} 1-ntopbusybox: 2.3,2.1,2.3,1.7,2.1,1.9,1.9,1.7,2.0,2.2,1.8,2.4,2.2
+{'13160', '13192', '13252', '12851', '13080', '13141', '13018', '13229', '13180', '13104', '13055', '13126', '13214'} 1-ntopbusybox: min(1.7) max(2.4) average(2.05)
+{'1619'} com.tianci.system: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'1619'} com.tianci.system: min(0.0) max(0.0) average(0.0)
+{'1587'} com.skyworth.angel.voice: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'1587'} com.skyworth.angel.voice: min(0.0) max(0.0) average(0.0)
+{'3053'} com.sogou.inputmethod.iot: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'3053'} com.sogou.inputmethod.iot: min(0.0) max(0.0) average(0.0)
+{'2894'} com.tianci.appstore: 0.0,2.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'2894'} com.tianci.appstore: min(0.0) max(2.1) average(0.16)
+{'4793'} com.coocaa.screensaver: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'4793'} com.coocaa.screensaver: min(0.0) max(0.0) average(0.0)
+{'2530'} com.xiaodianshi.tv.yst:stats: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'2530'} com.xiaodianshi.tv.yst:stats: min(0.0) max(0.0) average(0.0)
+{'3844'} com.skyworth.setting: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'3844'} com.skyworth.setting: min(0.0) max(0.0) average(0.0)
+{'1682'} com.coocaa.os.service: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'1682'} com.coocaa.os.service: min(0.0) max(0.0) average(0.0)
+{'1880'} com.tianci.de: 0.0,0.0,0.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,1.8,0.0,0.0
+{'1880'} com.tianci.de: min(0.0) max(1.8) average(0.27)
+{'8057'} com.tianci.de:core: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'8057'} com.tianci.de:core: min(0.0) max(0.0) average(0.0)
+{'7835'} com.tianci.user: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'7835'} com.tianci.user: min(0.0) max(0.0) average(0.0)
+{'4188'} com.coocaa.simple.launcher: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'4188'} com.coocaa.simple.launcher: min(0.0) max(0.0) average(0.0)
+{'2370'} com.skyworth.quickcenter: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'2370'} com.skyworth.quickcenter: min(0.0) max(0.0) average(0.0)
+{'12861'} com.tianci.movieplatform: 55.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'12861'} com.tianci.movieplatform: min(0.0) max(55.2) average(4.6)
+{'497'} /system/bin/surfaceflinger: 2.1
+{'497'} /system/bin/surfaceflinger: min(2.1) max(2.1) average(2.1)
+{'649'} [hdmi_task]: 2.1,1.7,1.9,1.7,2.0,2.2
+{'649'} [hdmi_task]: min(1.7) max(2.2) average(1.93)
+{'4674'} com.github.uiautomator: 0.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'4674'} com.github.uiautomator: min(0.0) max(2.3) average(0.26)
+{'527'} /system/bin/socketsys: 2.3
+{'527'} /system/bin/socketsys: min(2.3) max(2.3) average(2.3)
+{'2202'} com.tianci.de:TianciDaemons: 0.0,0.0,0.0,0.0,0.0
+{'2202'} com.tianci.de:TianciDaemons: min(0.0) max(0.0) average(0.0)
+{'626'} /vendor/bin/tvservice: 1.7
+{'626'} /vendor/bin/tvservice: min(1.7) max(1.7) average(1.7)
+{'240'} /system/bin/logd: 1.7
+{'240'} /system/bin/logd: min(1.7) max(1.7) average(1.7)
+{'4043'} /data/local/tmp/.studio/process-tr: 2.1
+{'4043'} /data/local/tmp/.studio/process-tr: min(2.1) max(2.1) average(2.1)
+{'165'} [new_game_mode_t]: 1.9
+{'165'} [new_game_mode_t]: min(1.9) max(1.9) average(1.9)
+{'973'} [PCRTRACK]: 1.9
+{'973'} [PCRTRACK]: min(1.9) max(1.9) average(1.9)
+{'653'} [infoframe_task]: 1.8
+{'653'} [infoframe_task]: min(1.8) max(1.8) average(1.8)
+{'164'} film_mode_][init: 1.8
+{'164'} film_mode_][init: min(1.8) max(1.8) average(1.8)
+{'422'} /vendor/bin/hw/android.hardware.me: 2.4
+{'422'} /vendor/bin/hw/android.hardware.me: min(2.4) max(2.4) average(2.4)
+{'1314'} com.android.bluetooth: 0.0
+{'1314'} com.android.bluetooth: min(0.0) max(0.0) average(0.0)

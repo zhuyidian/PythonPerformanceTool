@@ -1,0 +1,312 @@
+[H[JMem: 2925420K used, 817872K free, 0K shrd, 28017528K buff, 0K cached
+CPU: 16.2% usr 16.2% sys  0.0% nic 65.1% idle  0.0% io  2.3% irq  0.0% sirq
+Load average: 24.56 25.01 25.02 2/2106 12855
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 1033   367 1000     S <  1656m 45.3   1 18.6 system_server
+  382     1 1041     S     103m  2.8   0  4.6 /vendor/bin/hw/android.hardware.au
+  446     1 1000     S     169m  4.6   2  2.3 /vendor/bin/hw/vendor.skyworth.har
+  399     1 1000     S <  72828  1.9   2  2.3 /vendor/bin/hw/android.hardware.gr
+  589     1 1000     S    19564  0.5   0  2.3 /vendor/bin/mediaservice
+12853  3959 2000     S    16408  0.4   2  2.3 dumpsys meminfo
+12851  3959 2000     R     2132  0.0   0  2.3 busybox top -n 1
+ 1619   367 1000     S    1231m 33.6   3  0.0 com.tianci.system
+ 1587   367 1000     S    1227m 33.5   1  0.0 com.skyworth.angel.voice
+ 3053   367 10036    S    1215m 33.2   1  0.0 com.sogou.inputmethod.iot
+ 2894   367 1000     S    1211m 33.1   3  0.0 com.tianci.appstore
+ 4793   367 1000     S    1193m 32.6   0  0.0 com.coocaa.screensaver
+ 2530   367 10055    S    1189m 32.5   1  0.0 com.xiaodianshi.tv.yst:stats
+ 3844   367 1000     S    1176m 32.1   0  0.0 com.skyworth.setting
+ 1682   367 1000     S    1160m 31.7   3  0.0 com.coocaa.os.service
+ 1880   367 1000     S    1156m 31.6   2  0.0 com.tianci.de
+ 8057   367 1000     S    1142m 31.2   3  0.0 com.tianci.de:core
+ 7835   367 10011    S    1121m 30.6   3  0.0 com.tianci.user
+ 4188   367 10058    S <  1091m 29.8   0  0.0 com.coocaa.simple.launcher
+ 2370   367 1000     S    1089m 29.7   2  0.0 com.skyworth.quickcenter
+[H[JMem: 3024240K used, 719052K free, 0K shrd, 24404888K buff, 0K cached
+CPU: 61.7% usr 17.0% sys 12.7% nic  6.3% idle  0.0% io  2.1% irq  0.0% sirq
+Load average: 24.56 25.01 25.02 13/2204 13020
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+12861   367 1000     R <  1393m 38.1   1 55.2 com.tianci.movieplatform
+ 1033   367 1000     S <  1656m 45.3   1 17.0 system_server
+  382     1 1041     S     103m  2.8   0  4.2 /vendor/bin/hw/android.hardware.au
+ 2894   367 1000     S    1211m 33.1   2  2.1 com.tianci.appstore
+  497     1 1000     S <    98m  2.7   3  2.1 /system/bin/surfaceflinger
+13018  3959 2000     R     2132  0.0   3  2.1 busybox top -n 1
+  649     2 0        SW       0  0.0   1  2.1 [hdmi_task]
+ 1619   367 1000     S    1234m 33.7   2  0.0 com.tianci.system
+ 1587   367 1000     S    1227m 33.5   0  0.0 com.skyworth.angel.voice
+ 3053   367 10036    S    1214m 33.2   3  0.0 com.sogou.inputmethod.iot
+ 4793   367 1000     S    1193m 32.6   0  0.0 com.coocaa.screensaver
+ 2530   367 10055    S    1189m 32.5   1  0.0 com.xiaodianshi.tv.yst:stats
+ 3844   367 1000     S    1176m 32.1   0  0.0 com.skyworth.setting
+ 1682   367 1000     S    1160m 31.7   3  0.0 com.coocaa.os.service
+ 1880   367 1000     S    1156m 31.6   3  0.0 com.tianci.de
+ 8057   367 1000     S    1142m 31.2   3  0.0 com.tianci.de:core
+ 7835   367 10011    S    1121m 30.6   3  0.0 com.tianci.user
+ 4188   367 10058    S    1091m 29.8   1  0.0 com.coocaa.simple.launcher
+ 2370   367 1000     S    1089m 29.7   2  0.0 com.skyworth.quickcenter
+ 4674   367 1000     S    1088m 29.7   1  0.0 com.github.uiautomator
+[H[JMem: 3037708K used, 705584K free, 0K shrd, 15176584K buff, 0K cached
+CPU:  4.6% usr  4.6% sys  2.3% nic 88.3% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 24.84 25.06 25.03 1/2207 13056
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+  382     1 1041     S     103m  2.8   0  4.6 /vendor/bin/hw/android.hardware.au
+ 4674   367 1000     S    1088m 29.7   2  2.3 com.github.uiautomator
+  527     1 0        S    21440  0.5   0  2.3 /system/bin/socketsys
+13055  3959 2000     R     2132  0.0   1  2.3 busybox top -n 1
+ 1033   367 1000     S <  1656m 45.3   2  0.0 system_server
+12861   367 1000     S <  1529m 41.8   3  0.0 com.tianci.movieplatform
+ 1619   367 1000     S    1234m 33.7   2  0.0 com.tianci.system
+ 1587   367 1000     S    1227m 33.5   3  0.0 com.skyworth.angel.voice
+ 3053   367 10036    S    1214m 33.2   1  0.0 com.sogou.inputmethod.iot
+ 2894   367 1000     S    1211m 33.1   2  0.0 com.tianci.appstore
+ 4793   367 1000     S    1193m 32.6   0  0.0 com.coocaa.screensaver
+ 2530   367 10055    S    1189m 32.5   1  0.0 com.xiaodianshi.tv.yst:stats
+ 3844   367 1000     S    1176m 32.1   0  0.0 com.skyworth.setting
+ 1682   367 1000     S    1162m 31.7   3  0.0 com.coocaa.os.service
+ 1880   367 1000     S    1156m 31.6   3  0.0 com.tianci.de
+ 8057   367 1000     S    1142m 31.2   3  0.0 com.tianci.de:core
+ 7835   367 10011    S    1121m 30.6   3  0.0 com.tianci.user
+ 4188   367 10058    S    1091m 29.8   1  0.0 com.coocaa.simple.launcher
+ 2370   367 1000     S    1089m 29.7   2  0.0 com.skyworth.quickcenter
+ 2202   367 1000     S    1084m 29.6   3  0.0 com.tianci.de:TianciDaemons
+[H[JMem: 2994024K used, 749268K free, 0K shrd, 12194712K buff, 0K cached
+CPU: 21.4% usr 11.9% sys  0.0% nic 66.6% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 24.84 25.06 25.03 2/2210 13081
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 1033   367 1000     S <  1656m 45.3   2 19.2 system_server
+  382     1 1041     S     103m  2.8   0  3.5 /vendor/bin/hw/android.hardware.au
+ 1880   367 1000     S    1156m 31.6   1  1.7 com.tianci.de
+  446     1 1000     S     169m  4.6   0  1.7 /vendor/bin/hw/vendor.skyworth.har
+  626     1 1000     S     124m  3.4   1  1.7 /vendor/bin/tvservice
+  240     1 1036     S N  35996  0.9   0  1.7 /system/bin/logd
+13080  3959 2000     R     2132  0.0   2  1.7 busybox top -n 1
+  649     2 0        SW       0  0.0   3  1.7 [hdmi_task]
+12861   367 1000     S <  1413m 38.6   1  0.0 com.tianci.movieplatform
+ 1619   367 1000     S    1234m 33.7   2  0.0 com.tianci.system
+ 1587   367 1000     S    1227m 33.5   2  0.0 com.skyworth.angel.voice
+ 3053   367 10036    S    1214m 33.2   1  0.0 com.sogou.inputmethod.iot
+ 2894   367 1000     S    1211m 33.1   2  0.0 com.tianci.appstore
+ 4793   367 1000     S    1193m 32.6   0  0.0 com.coocaa.screensaver
+ 2530   367 10055    S    1189m 32.5   1  0.0 com.xiaodianshi.tv.yst:stats
+ 3844   367 1000     S    1176m 32.1   0  0.0 com.skyworth.setting
+ 1682   367 1000     S    1155m 31.6   3  0.0 com.coocaa.os.service
+ 8057   367 1000     S    1142m 31.2   3  0.0 com.tianci.de:core
+ 7835   367 10011    S    1121m 30.6   3  0.0 com.tianci.user
+ 4188   367 10058    S    1091m 29.8   1  0.0 com.coocaa.simple.launcher
+[H[JMem: 2989296K used, 753996K free, 0K shrd, 5268376K buff, 0K cached
+CPU: 26.1% usr  7.1% sys  0.0% nic 64.2% idle  0.0% io  0.0% irq  2.3% sirq
+Load average: 24.85 25.06 25.03 2/2207 13105
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 1033   367 1000     S <  1656m 45.3   1 25.2 system_server
+  382     1 1041     S     103m  2.8   0  6.3 /vendor/bin/hw/android.hardware.au
+ 4043  3959 2000     S    16700  0.4   1  2.1 /data/local/tmp/.studio/process-tr
+13104  3959 2000     R     2132  0.0   1  2.1 busybox top -n 1
+12861   367 1000     S <  1413m 38.6   0  0.0 com.tianci.movieplatform
+ 1619   367 1000     S    1234m 33.7   2  0.0 com.tianci.system
+ 1587   367 1000     S    1227m 33.5   1  0.0 com.skyworth.angel.voice
+ 3053   367 10036    S    1214m 33.2   1  0.0 com.sogou.inputmethod.iot
+ 2894   367 1000     S    1211m 33.1   2  0.0 com.tianci.appstore
+ 4793   367 1000     S    1193m 32.6   0  0.0 com.coocaa.screensaver
+ 2530   367 10055    S    1189m 32.5   1  0.0 com.xiaodianshi.tv.yst:stats
+ 3844   367 1000     S    1176m 32.1   0  0.0 com.skyworth.setting
+ 1880   367 1000     S    1156m 31.6   2  0.0 com.tianci.de
+ 1682   367 1000     S    1155m 31.6   3  0.0 com.coocaa.os.service
+ 8057   367 1000     S    1142m 31.2   3  0.0 com.tianci.de:core
+ 7835   367 10011    S    1121m 30.6   3  0.0 com.tianci.user
+ 4188   367 10058    S    1091m 29.8   1  0.0 com.coocaa.simple.launcher
+ 2370   367 1000     S    1089m 29.7   2  0.0 com.skyworth.quickcenter
+ 4674   367 1000     S    1088m 29.7   2  0.0 com.github.uiautomator
+ 2202   367 1000     S    1084m 29.6   3  0.0 com.tianci.de:TianciDaemons
+[H[JMem: 2990472K used, 752820K free, 0K shrd, 16466824K buff, 0K cached
+CPU:  4.6% usr  2.3% sys  0.0% nic 88.3% idle  0.0% io  2.3% irq  2.3% sirq
+Load average: 24.85 25.06 25.03 1/2204 13127
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+  382     1 1041     S     103m  2.8   0  3.8 /vendor/bin/hw/android.hardware.au
+  451     1 1000     S     121m  3.3   3  1.9 /vendor/bin/hw/vendor.skyworth.har
+13126  3959 2000     R     2132  0.0   2  1.9 busybox top -n 1
+  649     2 0        SW       0  0.0   0  1.9 [hdmi_task]
+  165     2 0        DW       0  0.0   0  1.9 [new_game_mode_t]
+ 1033   367 1000     S <  1656m 45.3   1  0.0 system_server
+12861   367 1000     S <  1412m 38.6   0  0.0 com.tianci.movieplatform
+ 1619   367 1000     S    1234m 33.7   2  0.0 com.tianci.system
+ 1587   367 1000     S    1227m 33.5   1  0.0 com.skyworth.angel.voice
+ 3053   367 10036    S    1214m 33.2   1  0.0 com.sogou.inputmethod.iot
+ 2894   367 1000     S    1211m 33.1   2  0.0 com.tianci.appstore
+ 4793   367 1000     S    1193m 32.6   0  0.0 com.coocaa.screensaver
+ 2530   367 10055    S    1189m 32.5   1  0.0 com.xiaodianshi.tv.yst:stats
+ 3844   367 1000     S    1176m 32.1   0  0.0 com.skyworth.setting
+ 1880   367 1000     S    1156m 31.6   2  0.0 com.tianci.de
+ 1682   367 1000     S    1155m 31.6   3  0.0 com.coocaa.os.service
+ 8057   367 1000     S    1142m 31.2   3  0.0 com.tianci.de:core
+ 7835   367 10011    S    1121m 30.6   3  0.0 com.tianci.user
+ 4188   367 10058    S    1091m 29.8   1  0.0 com.coocaa.simple.launcher
+ 2370   367 1000     S    1089m 29.7   2  0.0 com.skyworth.quickcenter
+[H[JMem: 2992892K used, 750400K free, 0K shrd, 13685656K buff, 0K cached
+CPU: 22.5% usr  7.5% sys  0.0% nic 67.5% idle  0.0% io  2.5% irq  0.0% sirq
+Load average: 24.85 25.06 25.03 2/2205 13142
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 1033   367 1000     S <  1656m 45.3   2 20.9 system_server
+  382     1 1041     S     103m  2.8   0  5.7 /vendor/bin/hw/android.hardware.au
+  446     1 1000     S     169m  4.6   1  1.9 /vendor/bin/hw/vendor.skyworth.har
+13141  3959 2000     R     2132  0.0   2  1.9 busybox top -n 1
+  973     2 0        SW       0  0.0   1  1.9 [PCRTRACK]
+12861   367 1000     S <  1410m 38.5   0  0.0 com.tianci.movieplatform
+ 1619   367 1000     S    1234m 33.7   2  0.0 com.tianci.system
+ 1587   367 1000     S    1227m 33.5   1  0.0 com.skyworth.angel.voice
+ 3053   367 10036    S    1214m 33.2   1  0.0 com.sogou.inputmethod.iot
+ 2894   367 1000     S    1211m 33.1   2  0.0 com.tianci.appstore
+ 4793   367 1000     S    1193m 32.6   0  0.0 com.coocaa.screensaver
+ 2530   367 10055    S    1189m 32.5   1  0.0 com.xiaodianshi.tv.yst:stats
+ 3844   367 1000     S    1176m 32.1   0  0.0 com.skyworth.setting
+ 1880   367 1000     S    1156m 31.6   2  0.0 com.tianci.de
+ 1682   367 1000     S    1155m 31.6   3  0.0 com.coocaa.os.service
+ 8057   367 1000     S    1142m 31.2   3  0.0 com.tianci.de:core
+ 7835   367 10011    S    1121m 30.6   3  0.0 com.tianci.user
+ 4188   367 10058    S    1091m 29.8   1  0.0 com.coocaa.simple.launcher
+ 2370   367 1000     S    1089m 29.7   2  0.0 com.skyworth.quickcenter
+ 4674   367 1000     S    1088m 29.7   2  0.0 com.github.uiautomator
+[H[JMem: 2995996K used, 747296K free, 0K shrd, 2659208K buff, 0K cached
+CPU:  4.7% usr  2.3% sys  0.0% nic 92.8% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 24.86 25.06 25.03 2/2202 13161
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+  382     1 1041     S     103m  2.8   0  3.5 /vendor/bin/hw/android.hardware.au
+13160  3959 2000     R     2132  0.0   1  1.7 busybox top -n 1
+  649     2 0        SW       0  0.0   0  1.7 [hdmi_task]
+ 1033   367 1000     S <  1656m 45.3   2  0.0 system_server
+12861   367 1000     S <  1410m 38.5   0  0.0 com.tianci.movieplatform
+ 1619   367 1000     S    1234m 33.7   2  0.0 com.tianci.system
+ 1587   367 1000     S    1227m 33.5   2  0.0 com.skyworth.angel.voice
+ 3053   367 10036    S    1214m 33.2   1  0.0 com.sogou.inputmethod.iot
+ 2894   367 1000     S    1211m 33.1   2  0.0 com.tianci.appstore
+ 4793   367 1000     S    1193m 32.6   0  0.0 com.coocaa.screensaver
+ 2530   367 10055    S    1189m 32.5   1  0.0 com.xiaodianshi.tv.yst:stats
+ 3844   367 1000     S    1176m 32.1   0  0.0 com.skyworth.setting
+ 1880   367 1000     S    1156m 31.6   0  0.0 com.tianci.de
+ 1682   367 1000     S    1155m 31.6   3  0.0 com.coocaa.os.service
+ 8057   367 1000     S    1142m 31.2   3  0.0 com.tianci.de:core
+ 7835   367 10011    S    1121m 30.6   3  0.0 com.tianci.user
+ 4188   367 10058    S    1091m 29.8   1  0.0 com.coocaa.simple.launcher
+ 2370   367 1000     S    1089m 29.7   2  0.0 com.skyworth.quickcenter
+ 4674   367 1000     S    1088m 29.7   2  0.0 com.github.uiautomator
+ 2202   367 1000     S    1084m 29.6   3  0.0 com.tianci.de:TianciDaemons
+[H[JMem: 2996224K used, 747068K free, 0K shrd, 2712472K buff, 0K cached
+CPU: 20.4% usr 13.6% sys  0.0% nic 63.6% idle  0.0% io  2.2% irq  0.0% sirq
+Load average: 24.86 25.06 25.03 3/2205 13181
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 1033   367 1000     S <  1656m 45.3   2 24.2 system_server
+  446     1 1000     S     169m  4.6   0  2.0 /vendor/bin/hw/vendor.skyworth.har
+  451     1 1000     S     121m  3.3   1  2.0 /vendor/bin/hw/vendor.skyworth.har
+  382     1 1041     S     103m  2.8   0  2.0 /vendor/bin/hw/android.hardware.au
+  309     1 1000     S    58488  1.5   0  2.0 /vendor/bin/hw/vendor.skyworth.har
+13180  3959 2000     R     2132  0.0   1  2.0 busybox top -n 1
+  649     2 0        RW       0  0.0   2  2.0 [hdmi_task]
+12861   367 1000     S <  1410m 38.5   0  0.0 com.tianci.movieplatform
+ 1619   367 1000     S    1234m 33.7   2  0.0 com.tianci.system
+ 1587   367 1000     S    1227m 33.5   2  0.0 com.skyworth.angel.voice
+ 3053   367 10036    S    1214m 33.2   1  0.0 com.sogou.inputmethod.iot
+ 2894   367 1000     S    1211m 33.1   2  0.0 com.tianci.appstore
+ 4793   367 1000     S    1193m 32.6   0  0.0 com.coocaa.screensaver
+ 2530   367 10055    S    1189m 32.5   1  0.0 com.xiaodianshi.tv.yst:stats
+ 3844   367 1000     S    1176m 32.1   0  0.0 com.skyworth.setting
+ 1880   367 1000     S    1156m 31.6   1  0.0 com.tianci.de
+ 1682   367 1000     S    1155m 31.6   3  0.0 com.coocaa.os.service
+ 8057   367 1000     S    1142m 31.2   3  0.0 com.tianci.de:core
+ 7835   367 10011    S    1121m 30.6   3  0.0 com.tianci.user
+ 4188   367 10058    S    1091m 29.8   1  0.0 com.coocaa.simple.launcher
+[H[JMem: 2991168K used, 752124K free, 0K shrd, 21820312K buff, 0K cached
+CPU: 22.7% usr 13.6% sys  0.0% nic 61.3% idle  0.0% io  2.2% irq  0.0% sirq
+Load average: 24.96 25.07 25.04 2/2201 13193
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 1033   367 1000     S <  1656m 45.3   1 24.9 system_server
+  382     1 1041     S     103m  2.8   0  4.5 /vendor/bin/hw/android.hardware.au
+13192  3959 2000     R     2132  0.0   3  2.2 busybox top -n 1
+  649     2 0        SW       0  0.0   2  2.2 [hdmi_task]
+12861   367 1000     S <  1408m 38.5   0  0.0 com.tianci.movieplatform
+ 1619   367 1000     S    1234m 33.7   2  0.0 com.tianci.system
+ 1587   367 1000     S    1227m 33.5   0  0.0 com.skyworth.angel.voice
+ 3053   367 10036    S    1214m 33.2   1  0.0 com.sogou.inputmethod.iot
+ 2894   367 1000     S    1211m 33.1   2  0.0 com.tianci.appstore
+ 4793   367 1000     S    1193m 32.6   0  0.0 com.coocaa.screensaver
+ 2530   367 10055    S    1189m 32.5   1  0.0 com.xiaodianshi.tv.yst:stats
+ 3844   367 1000     S    1176m 32.1   0  0.0 com.skyworth.setting
+ 1880   367 1000     S    1156m 31.6   1  0.0 com.tianci.de
+ 1682   367 1000     S    1155m 31.6   3  0.0 com.coocaa.os.service
+ 8057   367 1000     S    1142m 31.2   3  0.0 com.tianci.de:core
+ 7835   367 10011    S    1121m 30.6   3  0.0 com.tianci.user
+ 4188   367 10058    S    1091m 29.8   1  0.0 com.coocaa.simple.launcher
+ 2370   367 1000     S    1089m 29.7   2  0.0 com.skyworth.quickcenter
+ 4674   367 1000     S    1085m 29.6   2  0.0 com.github.uiautomator
+ 2202   367 1000     S    1084m 29.6   3  0.0 com.tianci.de:TianciDaemons
+[H[JMem: 2991072K used, 752220K free, 0K shrd, 18768776K buff, 0K cached
+CPU:  2.3% usr  4.6% sys  0.0% nic 90.6% idle  0.0% io  0.0% irq  2.3% sirq
+Load average: 24.96 25.07 25.04 2/2198 13215
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 1880   367 1000     S    1156m 31.6   3  1.8 com.tianci.de
+  382     1 1041     S     103m  2.8   0  1.8 /vendor/bin/hw/android.hardware.au
+13214  3959 2000     R     2132  0.0   3  1.8 busybox top -n 1
+  653     2 0        SW       0  0.0   1  1.8 [infoframe_task]
+  164     2 0        DW       0  0.0   0  1.8 [init film_mode_]
+ 1033   367 1000     S <  1656m 45.3   1  0.0 system_server
+12861   367 1000     S <  1408m 38.5   0  0.0 com.tianci.movieplatform
+ 1619   367 1000     S    1234m 33.7   2  0.0 com.tianci.system
+ 1587   367 1000     S    1227m 33.5   2  0.0 com.skyworth.angel.voice
+ 3053   367 10036    S    1214m 33.2   1  0.0 com.sogou.inputmethod.iot
+ 2894   367 1000     S    1211m 33.1   2  0.0 com.tianci.appstore
+ 4793   367 1000     S    1193m 32.6   0  0.0 com.coocaa.screensaver
+ 2530   367 10055    S    1189m 32.5   1  0.0 com.xiaodianshi.tv.yst:stats
+ 3844   367 1000     S    1176m 32.1   0  0.0 com.skyworth.setting
+ 1682   367 1000     S    1155m 31.6   3  0.0 com.coocaa.os.service
+ 8057   367 1000     S    1142m 31.2   3  0.0 com.tianci.de:core
+ 7835   367 10011    S    1121m 30.6   3  0.0 com.tianci.user
+ 4188   367 10058    S    1091m 29.8   1  0.0 com.coocaa.simple.launcher
+ 2370   367 1000     S    1089m 29.7   2  0.0 com.skyworth.quickcenter
+ 4674   367 1000     S    1085m 29.6   2  0.0 com.github.uiautomator
+[H[JMem: 2995684K used, 747608K free, 0K shrd, 2388888K buff, 0K cached
+CPU: 17.0% usr 17.0% sys  0.0% nic 63.4% idle  0.0% io  2.4% irq  0.0% sirq
+Load average: 24.96 25.07 25.04 3/2198 13231
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 1033   367 1000     S <  1656m 45.3   1 26.8 system_server
+  446     1 1000     S     169m  4.6   2  2.4 /vendor/bin/hw/vendor.skyworth.har
+  382     1 1041     S     103m  2.8   0  2.4 /vendor/bin/hw/android.hardware.au
+  422     1 9999     S    16496  0.4   3  2.4 /vendor/bin/hw/android.hardware.me
+13229  3959 2000     R     2132  0.0   2  2.4 busybox top -n 1
+12861   367 1000     S <  1404m 38.4   0  0.0 com.tianci.movieplatform
+ 1619   367 1000     S    1234m 33.7   2  0.0 com.tianci.system
+ 1587   367 1000     S    1227m 33.5   1  0.0 com.skyworth.angel.voice
+ 3053   367 10036    S    1214m 33.2   1  0.0 com.sogou.inputmethod.iot
+ 2894   367 1000     S    1211m 33.1   2  0.0 com.tianci.appstore
+ 4793   367 1000     S    1193m 32.6   0  0.0 com.coocaa.screensaver
+ 2530   367 10055    S    1189m 32.5   1  0.0 com.xiaodianshi.tv.yst:stats
+ 3844   367 1000     S    1176m 32.1   0  0.0 com.skyworth.setting
+ 1880   367 1000     S    1157m 31.6   2  0.0 com.tianci.de
+ 1682   367 1000     S    1155m 31.6   3  0.0 com.coocaa.os.service
+ 8057   367 1000     S    1142m 31.2   3  0.0 com.tianci.de:core
+ 7835   367 10011    S    1121m 30.6   3  0.0 com.tianci.user
+ 4188   367 10058    S    1091m 29.8   1  0.0 com.coocaa.simple.launcher
+ 2370   367 1000     S    1089m 29.7   2  0.0 com.skyworth.quickcenter
+ 4674   367 1000     S    1085m 29.6   2  0.0 com.github.uiautomator
+[H[JMem: 2996948K used, 746344K free, 0K shrd, 3314568K buff, 0K cached
+CPU:  4.4% usr  6.6% sys  0.0% nic 86.6% idle  0.0% io  2.2% irq  0.0% sirq
+Load average: 24.96 25.07 25.04 1/2195 13253
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+  382     1 1041     S     103m  2.8   0  4.4 /vendor/bin/hw/android.hardware.au
+13252  3959 2000     R     2132  0.0   0  2.2 busybox top -n 1
+ 1033   367 1000     S <  1656m 45.3   1  0.0 system_server
+12861   367 1000     S <  1404m 38.4   0  0.0 com.tianci.movieplatform
+ 1619   367 1000     S    1234m 33.7   2  0.0 com.tianci.system
+ 1587   367 1000     S    1227m 33.5   0  0.0 com.skyworth.angel.voice
+ 3053   367 10036    S    1214m 33.2   1  0.0 com.sogou.inputmethod.iot
+ 2894   367 1000     S    1211m 33.1   2  0.0 com.tianci.appstore
+ 4793   367 1000     S    1193m 32.6   0  0.0 com.coocaa.screensaver
+ 2530   367 10055    S    1189m 32.5   1  0.0 com.xiaodianshi.tv.yst:stats
+ 3844   367 1000     S    1176m 32.1   0  0.0 com.skyworth.setting
+ 1880   367 1000     S    1157m 31.6   1  0.0 com.tianci.de
+ 1682   367 1000     S    1155m 31.6   3  0.0 com.coocaa.os.service
+ 8057   367 1000     S    1142m 31.2   3  0.0 com.tianci.de:core
+ 7835   367 10011    S    1121m 30.6   3  0.0 com.tianci.user
+ 4188   367 10058    S    1091m 29.8   1  0.0 com.coocaa.simple.launcher
+ 2370   367 1000     S    1089m 29.7   2  0.0 com.skyworth.quickcenter
+ 4674   367 1000     S    1085m 29.6   2  0.0 com.github.uiautomator
+ 2202   367 1000     S    1084m 29.6   3  0.0 com.tianci.de:TianciDaemons
+ 1314   367 1002     S    1079m 29.5   1  0.0 com.android.bluetooth

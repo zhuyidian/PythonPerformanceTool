@@ -3,10 +3,6 @@ import platform
 import subprocess
 from tkinter import ttk
 import tkinter as tk
-import time
-import uiautomator2 as u2
-
-from utils.file_utils import get_project_root_path
 
 device_once = "" # 连接的设备如：ip port
 command = ""  # adb.exe的位置

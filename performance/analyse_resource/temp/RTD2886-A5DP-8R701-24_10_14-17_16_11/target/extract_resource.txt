@@ -1,0 +1,4 @@
+{'12861'} com.tianci.movieplatform: 55.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'12861'} com.tianci.movieplatform: min(0.0) max(55.2) average(4.6)
+{'12861'} com.tianci.movieplatform(MB): 271.21,271.21,156.39,272.89,272.89,157.59,273.07,273.07,157.65,273.05,273.05,157.62,273.02,273.02,157.59
+{'12861'} com.tianci.movieplatform(MB): min(156.39) max(273.07) average(234.22)

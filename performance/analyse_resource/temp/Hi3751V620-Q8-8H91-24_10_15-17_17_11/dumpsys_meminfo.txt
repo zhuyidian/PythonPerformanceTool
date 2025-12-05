@@ -1,0 +1,1223 @@
+Applications Memory Usage (kB):
+Uptime: 793236 Realtime: 793236
+
+Total PSS by process:
+   167735 kB: com.tianci.movieplatform (pid 2682 / activities)
+    99716 kB: com.skyworth.angel.voice (pid 4455)
+    67825 kB: system (pid 2235)
+    64113 kB: com.skyworth.setting (pid 4686)
+    57518 kB: com.tianci.de (pid 5093)
+    54285 kB: com.android.systemui (pid 2472)
+    50001 kB: com.tianci.system (pid 2544)
+    37252 kB: com.coocaa.os.ccosservice (pid 2975)
+    31948 kB: com.tianci.push (pid 3139)
+    30197 kB: com.tianci.user (pid 11465)
+    28526 kB: app_process (pid 5501)
+    27631 kB: com.coocaa.sysreport (pid 11405)
+    21077 kB: zygote64 (pid 1619)
+    20373 kB: com.coocaa.os.softsettings.provider (pid 2906)
+    16985 kB: com.bajintech.karaok (pid 2453)
+    14517 kB: zygote (pid 1620)
+    13596 kB: logd (pid 1595)
+    12607 kB: com.android.bluetooth (pid 3613)
+    12569 kB: com.skyworth.dtv (pid 3842)
+    12019 kB: mediaserver (pid 1605)
+     9226 kB: android.process.media (pid 2511)
+     8929 kB: surfaceflinger (pid 1600)
+     8631 kB: com.skyworth.android.skyRMService (pid 2642)
+     6673 kB: com.hisilicon.android.hiRMService (pid 2624)
+     6568 kB: com.android.managedprovisioning (pid 3809)
+     6417 kB: com.android.defcontainer (pid 2781)
+     6353 kB: com.android.externalstorage (pid 2592)
+     6289 kB: tvserver (pid 1613)
+     5646 kB: displaysetting (pid 1612)
+     4692 kB: com.coocaa.messageprovider (pid 5440)
+     4365 kB: hiaoservice (pid 1608)
+     3586 kB: hisysmanager (pid 1609)
+     2675 kB: wpa_supplicant (pid 2846)
+     2274 kB: stbserver (pid 1746)
+     2100 kB: drmserver (pid 1604)
+     1550 kB: vold (pid 1599)
+     1217 kB: keystore (pid 1607)
+     1123 kB: netd (pid 1601)
+     1121 kB: busybox (pid 11808)
+     1114 kB: android_ir_user (pid 1622)
+     1097 kB: VirtualEvent (pid 2025)
+      888 kB: hikaraokeservice (pid 1610)
+      863 kB: dtvloaderserver (pid 1614)
+      816 kB: debuggerd64 (pid 1603)
+      813 kB: /init (pid 1)
+      813 kB: virtualkeypad (pid 1615)
+      721 kB: adbd (pid 3555)
+      609 kB: netshared (pid 1611)
+      602 kB: dhcpcd (pid 5002)
+      585 kB: lmkd (pid 1597)
+      580 kB: healthd (pid 1596)
+      524 kB: dumpsys (pid 11811)
+      468 kB: ueventd (pid 1107)
+      460 kB: coocaa_guard (pid 1617)
+      445 kB: logcat (pid 1830)
+      442 kB: teecd (pid 1623)
+      395 kB: sh (pid 1638)
+      372 kB: installd (pid 1606)
+      368 kB: sh (pid 1757)
+      364 kB: sh (pid 1754)
+      359 kB: sh (pid 5499)
+      352 kB: debuggerd (pid 1602)
+      349 kB: sh (pid 1642)
+      332 kB: servicemanager (pid 1598)
+      317 kB: sh (pid 1813)
+      267 kB: hidrawd (pid 1618)
+      236 kB: smobsd (pid 2029)
+
+Total PSS by OOM adjustment:
+   146161 kB: Native
+               28526 kB: app_process (pid 5501)
+               21077 kB: zygote64 (pid 1619)
+               14517 kB: zygote (pid 1620)
+               13596 kB: logd (pid 1595)
+               12019 kB: mediaserver (pid 1605)
+                8929 kB: surfaceflinger (pid 1600)
+                6289 kB: tvserver (pid 1613)
+                5646 kB: displaysetting (pid 1612)
+                4365 kB: hiaoservice (pid 1608)
+                3586 kB: hisysmanager (pid 1609)
+                2675 kB: wpa_supplicant (pid 2846)
+                2274 kB: stbserver (pid 1746)
+                2100 kB: drmserver (pid 1604)
+                1550 kB: vold (pid 1599)
+                1217 kB: keystore (pid 1607)
+                1123 kB: netd (pid 1601)
+                1121 kB: busybox (pid 11808)
+                1114 kB: android_ir_user (pid 1622)
+                1097 kB: VirtualEvent (pid 2025)
+                 888 kB: hikaraokeservice (pid 1610)
+                 863 kB: dtvloaderserver (pid 1614)
+                 816 kB: debuggerd64 (pid 1603)
+                 813 kB: /init (pid 1)
+                 813 kB: virtualkeypad (pid 1615)
+                 721 kB: adbd (pid 3555)
+                 609 kB: netshared (pid 1611)
+                 602 kB: dhcpcd (pid 5002)
+                 585 kB: lmkd (pid 1597)
+                 580 kB: healthd (pid 1596)
+                 524 kB: dumpsys (pid 11811)
+                 468 kB: ueventd (pid 1107)
+                 460 kB: coocaa_guard (pid 1617)
+                 445 kB: logcat (pid 1830)
+                 442 kB: teecd (pid 1623)
+                 395 kB: sh (pid 1638)
+                 372 kB: installd (pid 1606)
+                 368 kB: sh (pid 1757)
+                 364 kB: sh (pid 1754)
+                 359 kB: sh (pid 5499)
+                 352 kB: debuggerd (pid 1602)
+                 349 kB: sh (pid 1642)
+                 332 kB: servicemanager (pid 1598)
+                 317 kB: sh (pid 1813)
+                 267 kB: hidrawd (pid 1618)
+                 236 kB: smobsd (pid 2029)
+    67825 kB: System
+               67825 kB: system (pid 2235)
+    69589 kB: Persistent
+               54285 kB: com.android.systemui (pid 2472)
+                8631 kB: com.skyworth.android.skyRMService (pid 2642)
+                6673 kB: com.hisilicon.android.hiRMService (pid 2624)
+    12607 kB: Persistent Service
+               12607 kB: com.android.bluetooth (pid 3613)
+   427291 kB: Foreground
+              167735 kB: com.tianci.movieplatform (pid 2682 / activities)
+               99716 kB: com.skyworth.angel.voice (pid 4455)
+               57518 kB: com.tianci.de (pid 5093)
+               50001 kB: com.tianci.system (pid 2544)
+               31948 kB: com.tianci.push (pid 3139)
+               20373 kB: com.coocaa.os.softsettings.provider (pid 2906)
+    37252 kB: Visible
+               37252 kB: com.coocaa.os.ccosservice (pid 2975)
+    16985 kB: A Services
+               16985 kB: com.bajintech.karaok (pid 2453)
+    12569 kB: B Services
+               12569 kB: com.skyworth.dtv (pid 3842)
+   155197 kB: Cached
+               64113 kB: com.skyworth.setting (pid 4686)
+               30197 kB: com.tianci.user (pid 11465)
+               27631 kB: com.coocaa.sysreport (pid 11405)
+                9226 kB: android.process.media (pid 2511)
+                6568 kB: com.android.managedprovisioning (pid 3809)
+                6417 kB: com.android.defcontainer (pid 2781)
+                6353 kB: com.android.externalstorage (pid 2592)
+                4692 kB: com.coocaa.messageprovider (pid 5440)
+
+Total PSS by category:
+   295728 kB: .dex mmap
+   224352 kB: Dalvik
+   126773 kB: Native
+   106249 kB: .so mmap
+    84546 kB: .oat mmap
+    37171 kB: .art mmap
+    18055 kB: Other mmap
+    17266 kB: Dalvik Other
+    10524 kB: .apk mmap
+     9929 kB: .ttf mmap
+     7980 kB: Stack
+     6626 kB: Unknown
+      253 kB: Other dev
+       20 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: Ashmem
+        0 kB: Gfx dev
+        0 kB: EGL mtrack
+        0 kB: GL mtrack
+        0 kB: Other mtrack
+
+Total RAM: 1880788 kB (status moderate)
+ Free RAM: 802793 kB (155197 cached pss + 168812 cached kernel + 478784 free)
+ Used RAM: 1061803 kB (790279 used pss + 271524 kernel)
+ Lost RAM: 16192 kB
+   Tuning: 192 (large 384), oom 65536 kB, restore limit 21845 kB (high-end-gfx)
+Applications Memory Usage (kB):
+Uptime: 797069 Realtime: 797069
+
+Total PSS by process:
+   196047 kB: com.tianci.movieplatform (pid 2682 / activities)
+   100236 kB: com.skyworth.angel.voice (pid 4455)
+    68496 kB: system (pid 2235)
+    64428 kB: com.skyworth.setting (pid 4686)
+    55265 kB: com.tianci.de (pid 5093)
+    54288 kB: com.android.systemui (pid 2472)
+    50309 kB: com.tianci.system (pid 2544)
+    37621 kB: com.coocaa.os.ccosservice (pid 2975)
+    31951 kB: com.tianci.push (pid 3139)
+    28889 kB: com.coocaa.sysreport (pid 11405)
+    28354 kB: app_process (pid 5501)
+    21051 kB: zygote64 (pid 1619)
+    20652 kB: com.coocaa.os.softsettings.provider (pid 2906)
+    17262 kB: com.bajintech.karaok (pid 2453)
+    14811 kB: zygote (pid 1620)
+    13628 kB: logd (pid 1595)
+    12847 kB: com.skyworth.dtv (pid 3842)
+    12819 kB: com.android.bluetooth (pid 3613)
+    12004 kB: mediaserver (pid 1605)
+     9226 kB: android.process.media (pid 2511)
+     8951 kB: surfaceflinger (pid 1600)
+     8783 kB: com.skyworth.android.skyRMService (pid 2642)
+     6911 kB: com.hisilicon.android.hiRMService (pid 2624)
+     6568 kB: com.android.managedprovisioning (pid 3809)
+     6419 kB: com.android.defcontainer (pid 2781)
+     6353 kB: com.android.externalstorage (pid 2592)
+     6276 kB: tvserver (pid 1613)
+     5646 kB: displaysetting (pid 1612)
+     4923 kB: com.coocaa.messageprovider (pid 5440)
+     4352 kB: hiaoservice (pid 1608)
+     3571 kB: hisysmanager (pid 1609)
+     2675 kB: wpa_supplicant (pid 2846)
+     2257 kB: stbserver (pid 1746)
+     2097 kB: drmserver (pid 1604)
+     1551 kB: vold (pid 1599)
+     1217 kB: keystore (pid 1607)
+     1120 kB: netd (pid 1601)
+     1115 kB: android_ir_user (pid 1622)
+     1098 kB: VirtualEvent (pid 2025)
+      889 kB: hikaraokeservice (pid 1610)
+      864 kB: dtvloaderserver (pid 1614)
+      815 kB: virtualkeypad (pid 1615)
+      813 kB: /init (pid 1)
+      813 kB: debuggerd64 (pid 1603)
+      721 kB: adbd (pid 3555)
+      610 kB: netshared (pid 1611)
+      602 kB: dhcpcd (pid 5002)
+      585 kB: lmkd (pid 1597)
+      580 kB: healthd (pid 1596)
+      468 kB: ueventd (pid 1107)
+      461 kB: coocaa_guard (pid 1617)
+      445 kB: logcat (pid 1830)
+      442 kB: teecd (pid 1623)
+      395 kB: sh (pid 1638)
+      372 kB: installd (pid 1606)
+      368 kB: sh (pid 1757)
+      364 kB: sh (pid 1754)
+      359 kB: sh (pid 5499)
+      353 kB: debuggerd (pid 1602)
+      349 kB: sh (pid 1642)
+      332 kB: servicemanager (pid 1598)
+      317 kB: sh (pid 1813)
+      268 kB: hidrawd (pid 1618)
+      237 kB: smobsd (pid 2029)
+        0 kB: com.tianci.user (pid 11465)
+        0 kB: busybox (pid 11808)
+        0 kB: dumpsys (pid 11811)
+
+Total PSS by OOM adjustment:
+   144596 kB: Native
+               28354 kB: app_process (pid 5501)
+               21051 kB: zygote64 (pid 1619)
+               14811 kB: zygote (pid 1620)
+               13628 kB: logd (pid 1595)
+               12004 kB: mediaserver (pid 1605)
+                8951 kB: surfaceflinger (pid 1600)
+                6276 kB: tvserver (pid 1613)
+                5646 kB: displaysetting (pid 1612)
+                4352 kB: hiaoservice (pid 1608)
+                3571 kB: hisysmanager (pid 1609)
+                2675 kB: wpa_supplicant (pid 2846)
+                2257 kB: stbserver (pid 1746)
+                2097 kB: drmserver (pid 1604)
+                1551 kB: vold (pid 1599)
+                1217 kB: keystore (pid 1607)
+                1120 kB: netd (pid 1601)
+                1115 kB: android_ir_user (pid 1622)
+                1098 kB: VirtualEvent (pid 2025)
+                 889 kB: hikaraokeservice (pid 1610)
+                 864 kB: dtvloaderserver (pid 1614)
+                 815 kB: virtualkeypad (pid 1615)
+                 813 kB: /init (pid 1)
+                 813 kB: debuggerd64 (pid 1603)
+                 721 kB: adbd (pid 3555)
+                 610 kB: netshared (pid 1611)
+                 602 kB: dhcpcd (pid 5002)
+                 585 kB: lmkd (pid 1597)
+                 580 kB: healthd (pid 1596)
+                 468 kB: ueventd (pid 1107)
+                 461 kB: coocaa_guard (pid 1617)
+                 445 kB: logcat (pid 1830)
+                 442 kB: teecd (pid 1623)
+                 395 kB: sh (pid 1638)
+                 372 kB: installd (pid 1606)
+                 368 kB: sh (pid 1757)
+                 364 kB: sh (pid 1754)
+                 359 kB: sh (pid 5499)
+                 353 kB: debuggerd (pid 1602)
+                 349 kB: sh (pid 1642)
+                 332 kB: servicemanager (pid 1598)
+                 317 kB: sh (pid 1813)
+                 268 kB: hidrawd (pid 1618)
+                 237 kB: smobsd (pid 2029)
+                   0 kB: com.tianci.user (pid 11465)
+                   0 kB: busybox (pid 11808)
+                   0 kB: dumpsys (pid 11811)
+    68496 kB: System
+               68496 kB: system (pid 2235)
+    69982 kB: Persistent
+               54288 kB: com.android.systemui (pid 2472)
+                8783 kB: com.skyworth.android.skyRMService (pid 2642)
+                6911 kB: com.hisilicon.android.hiRMService (pid 2624)
+    12819 kB: Persistent Service
+               12819 kB: com.android.bluetooth (pid 3613)
+   454460 kB: Foreground
+              196047 kB: com.tianci.movieplatform (pid 2682 / activities)
+              100236 kB: com.skyworth.angel.voice (pid 4455)
+               55265 kB: com.tianci.de (pid 5093)
+               50309 kB: com.tianci.system (pid 2544)
+               31951 kB: com.tianci.push (pid 3139)
+               20652 kB: com.coocaa.os.softsettings.provider (pid 2906)
+    37621 kB: Visible
+               37621 kB: com.coocaa.os.ccosservice (pid 2975)
+    17262 kB: A Services
+               17262 kB: com.bajintech.karaok (pid 2453)
+    12847 kB: B Services
+               12847 kB: com.skyworth.dtv (pid 3842)
+   126806 kB: Cached
+               64428 kB: com.skyworth.setting (pid 4686)
+               28889 kB: com.coocaa.sysreport (pid 11405)
+                9226 kB: android.process.media (pid 2511)
+                6568 kB: com.android.managedprovisioning (pid 3809)
+                6419 kB: com.android.defcontainer (pid 2781)
+                6353 kB: com.android.externalstorage (pid 2592)
+                4923 kB: com.coocaa.messageprovider (pid 5440)
+
+Total PSS by category:
+   284420 kB: .dex mmap
+   239898 kB: Dalvik
+   123057 kB: Native
+   105475 kB: .so mmap
+    84445 kB: .oat mmap
+    36528 kB: .art mmap
+    18510 kB: Other mmap
+    18034 kB: Dalvik Other
+     9929 kB: .ttf mmap
+     9869 kB: .apk mmap
+     7952 kB: Stack
+     6505 kB: Unknown
+      243 kB: Other dev
+       20 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: Ashmem
+        0 kB: Gfx dev
+        0 kB: EGL mtrack
+        0 kB: GL mtrack
+        0 kB: Other mtrack
+
+Total RAM: 1880788 kB (status moderate)
+ Free RAM: 751574 kB (126806 cached pss + 212676 cached kernel + 412092 free)
+ Used RAM: 1101415 kB (818083 used pss + 283332 kernel)
+ Lost RAM: 27799 kB
+   Tuning: 192 (large 384), oom 65536 kB, restore limit 21845 kB (high-end-gfx)
+Applications Memory Usage (kB):
+Uptime: 801432 Realtime: 801432
+
+Total PSS by process:
+   221856 kB: com.tianci.movieplatform (pid 2682 / activities)
+   100205 kB: com.skyworth.angel.voice (pid 4455)
+    68269 kB: system (pid 2235)
+    64332 kB: com.skyworth.setting (pid 4686)
+    55240 kB: com.tianci.de (pid 5093)
+    54287 kB: com.android.systemui (pid 2472)
+    50332 kB: com.tianci.system (pid 2544)
+    37614 kB: com.coocaa.os.ccosservice (pid 2975)
+    31946 kB: com.tianci.push (pid 3139)
+    28733 kB: com.coocaa.sysreport (pid 11405)
+    28098 kB: app_process (pid 5501)
+    21048 kB: zygote64 (pid 1619)
+    20635 kB: com.coocaa.os.softsettings.provider (pid 2906)
+    17157 kB: com.bajintech.karaok (pid 2453)
+    14410 kB: zygote (pid 1620)
+    13637 kB: logd (pid 1595)
+    12883 kB: com.skyworth.dtv (pid 3842)
+    12816 kB: com.android.bluetooth (pid 3613)
+    11743 kB: mediaserver (pid 1605)
+     9226 kB: android.process.media (pid 2511)
+     9010 kB: surfaceflinger (pid 1600)
+     8783 kB: com.skyworth.android.skyRMService (pid 2642)
+     6912 kB: com.hisilicon.android.hiRMService (pid 2624)
+     6568 kB: com.android.managedprovisioning (pid 3809)
+     6419 kB: com.android.defcontainer (pid 2781)
+     6353 kB: com.android.externalstorage (pid 2592)
+     6208 kB: tvserver (pid 1613)
+     5646 kB: displaysetting (pid 1612)
+     4907 kB: com.coocaa.messageprovider (pid 5440)
+     4286 kB: hiaoservice (pid 1608)
+     3503 kB: hisysmanager (pid 1609)
+     2676 kB: wpa_supplicant (pid 2846)
+     2244 kB: stbserver (pid 1746)
+     2074 kB: drmserver (pid 1604)
+     1551 kB: vold (pid 1599)
+     1214 kB: keystore (pid 1607)
+     1123 kB: netd (pid 1601)
+     1115 kB: android_ir_user (pid 1622)
+     1098 kB: VirtualEvent (pid 2025)
+      889 kB: hikaraokeservice (pid 1610)
+      864 kB: dtvloaderserver (pid 1614)
+      817 kB: debuggerd64 (pid 1603)
+      815 kB: virtualkeypad (pid 1615)
+      813 kB: /init (pid 1)
+      721 kB: adbd (pid 3555)
+      610 kB: netshared (pid 1611)
+      602 kB: dhcpcd (pid 5002)
+      585 kB: lmkd (pid 1597)
+      580 kB: healthd (pid 1596)
+      468 kB: ueventd (pid 1107)
+      461 kB: coocaa_guard (pid 1617)
+      445 kB: logcat (pid 1830)
+      442 kB: teecd (pid 1623)
+      395 kB: sh (pid 1638)
+      371 kB: installd (pid 1606)
+      368 kB: sh (pid 1757)
+      364 kB: sh (pid 1754)
+      359 kB: sh (pid 5499)
+      353 kB: debuggerd (pid 1602)
+      349 kB: sh (pid 1642)
+      332 kB: servicemanager (pid 1598)
+      317 kB: sh (pid 1813)
+      268 kB: hidrawd (pid 1618)
+      237 kB: smobsd (pid 2029)
+        0 kB: busybox (pid 11966)
+
+Total PSS by OOM adjustment:
+   143509 kB: Native
+               28098 kB: app_process (pid 5501)
+               21048 kB: zygote64 (pid 1619)
+               14410 kB: zygote (pid 1620)
+               13637 kB: logd (pid 1595)
+               11743 kB: mediaserver (pid 1605)
+                9010 kB: surfaceflinger (pid 1600)
+                6208 kB: tvserver (pid 1613)
+                5646 kB: displaysetting (pid 1612)
+                4286 kB: hiaoservice (pid 1608)
+                3503 kB: hisysmanager (pid 1609)
+                2676 kB: wpa_supplicant (pid 2846)
+                2244 kB: stbserver (pid 1746)
+                2074 kB: drmserver (pid 1604)
+                1551 kB: vold (pid 1599)
+                1214 kB: keystore (pid 1607)
+                1123 kB: netd (pid 1601)
+                1115 kB: android_ir_user (pid 1622)
+                1098 kB: VirtualEvent (pid 2025)
+                 889 kB: hikaraokeservice (pid 1610)
+                 864 kB: dtvloaderserver (pid 1614)
+                 817 kB: debuggerd64 (pid 1603)
+                 815 kB: virtualkeypad (pid 1615)
+                 813 kB: /init (pid 1)
+                 721 kB: adbd (pid 3555)
+                 610 kB: netshared (pid 1611)
+                 602 kB: dhcpcd (pid 5002)
+                 585 kB: lmkd (pid 1597)
+                 580 kB: healthd (pid 1596)
+                 468 kB: ueventd (pid 1107)
+                 461 kB: coocaa_guard (pid 1617)
+                 445 kB: logcat (pid 1830)
+                 442 kB: teecd (pid 1623)
+                 395 kB: sh (pid 1638)
+                 371 kB: installd (pid 1606)
+                 368 kB: sh (pid 1757)
+                 364 kB: sh (pid 1754)
+                 359 kB: sh (pid 5499)
+                 353 kB: debuggerd (pid 1602)
+                 349 kB: sh (pid 1642)
+                 332 kB: servicemanager (pid 1598)
+                 317 kB: sh (pid 1813)
+                 268 kB: hidrawd (pid 1618)
+                 237 kB: smobsd (pid 2029)
+                   0 kB: busybox (pid 11966)
+    68269 kB: System
+               68269 kB: system (pid 2235)
+    69982 kB: Persistent
+               54287 kB: com.android.systemui (pid 2472)
+                8783 kB: com.skyworth.android.skyRMService (pid 2642)
+                6912 kB: com.hisilicon.android.hiRMService (pid 2624)
+    12816 kB: Persistent Service
+               12816 kB: com.android.bluetooth (pid 3613)
+   480214 kB: Foreground
+              221856 kB: com.tianci.movieplatform (pid 2682 / activities)
+              100205 kB: com.skyworth.angel.voice (pid 4455)
+               55240 kB: com.tianci.de (pid 5093)
+               50332 kB: com.tianci.system (pid 2544)
+               31946 kB: com.tianci.push (pid 3139)
+               20635 kB: com.coocaa.os.softsettings.provider (pid 2906)
+    37614 kB: Visible
+               37614 kB: com.coocaa.os.ccosservice (pid 2975)
+    17157 kB: A Services
+               17157 kB: com.bajintech.karaok (pid 2453)
+    12883 kB: B Services
+               12883 kB: com.skyworth.dtv (pid 3842)
+   126538 kB: Cached
+               64332 kB: com.skyworth.setting (pid 4686)
+               28733 kB: com.coocaa.sysreport (pid 11405)
+                9226 kB: android.process.media (pid 2511)
+                6568 kB: com.android.managedprovisioning (pid 3809)
+                6419 kB: com.android.defcontainer (pid 2781)
+                6353 kB: com.android.externalstorage (pid 2592)
+                4907 kB: com.coocaa.messageprovider (pid 5440)
+
+Total PSS by category:
+   304600 kB: .dex mmap
+   224699 kB: Dalvik
+   130177 kB: Native
+   115489 kB: .so mmap
+    84744 kB: .oat mmap
+    35774 kB: .art mmap
+    19481 kB: Other mmap
+    17870 kB: Dalvik Other
+    10276 kB: .apk mmap
+     9929 kB: .ttf mmap
+     8950 kB: Stack
+     6590 kB: Unknown
+      251 kB: Other dev
+      128 kB: Ashmem
+       20 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: Gfx dev
+        0 kB: EGL mtrack
+        0 kB: GL mtrack
+        0 kB: Other mtrack
+
+Total RAM: 1880788 kB (status moderate)
+ Free RAM: 716114 kB (126538 cached pss + 220184 cached kernel + 369392 free)
+ Used RAM: 1128112 kB (842444 used pss + 285668 kernel)
+ Lost RAM: 36562 kB
+   Tuning: 192 (large 384), oom 65536 kB, restore limit 21845 kB (high-end-gfx)
+Applications Memory Usage (kB):
+Uptime: 805772 Realtime: 805772
+
+Total PSS by process:
+   259026 kB: com.tianci.movieplatform (pid 2682 / activities)
+   100120 kB: com.skyworth.angel.voice (pid 4455)
+    67911 kB: system (pid 2235)
+    64428 kB: com.skyworth.setting (pid 4686)
+    55202 kB: com.tianci.de (pid 5093)
+    54247 kB: com.android.systemui (pid 2472)
+    50459 kB: com.tianci.system (pid 2544)
+    37612 kB: com.coocaa.os.ccosservice (pid 2975)
+    31948 kB: com.tianci.push (pid 3139)
+    28583 kB: mediaserver (pid 1605)
+    28274 kB: com.coocaa.sysreport (pid 11405)
+    28097 kB: app_process (pid 5501)
+    21016 kB: zygote64 (pid 1619)
+    20651 kB: com.coocaa.os.softsettings.provider (pid 2906)
+    17083 kB: com.bajintech.karaok (pid 2453)
+    14309 kB: zygote (pid 1620)
+    13653 kB: logd (pid 1595)
+    12952 kB: com.skyworth.dtv (pid 3842)
+    12805 kB: com.android.bluetooth (pid 3613)
+     9226 kB: android.process.media (pid 2511)
+     9082 kB: surfaceflinger (pid 1600)
+     8780 kB: com.skyworth.android.skyRMService (pid 2642)
+     6912 kB: com.hisilicon.android.hiRMService (pid 2624)
+     6568 kB: com.android.managedprovisioning (pid 3809)
+     6419 kB: com.android.defcontainer (pid 2781)
+     6353 kB: com.android.externalstorage (pid 2592)
+     5945 kB: tvserver (pid 1613)
+     5643 kB: displaysetting (pid 1612)
+     4925 kB: com.coocaa.messageprovider (pid 5440)
+     4280 kB: hiaoservice (pid 1608)
+     3494 kB: hisysmanager (pid 1609)
+     2662 kB: wpa_supplicant (pid 2846)
+     2244 kB: stbserver (pid 1746)
+     2074 kB: drmserver (pid 1604)
+     1552 kB: vold (pid 1599)
+     1220 kB: keystore (pid 1607)
+     1123 kB: netd (pid 1601)
+     1114 kB: android_ir_user (pid 1622)
+     1098 kB: VirtualEvent (pid 2025)
+      889 kB: hikaraokeservice (pid 1610)
+      863 kB: dtvloaderserver (pid 1614)
+      816 kB: debuggerd64 (pid 1603)
+      813 kB: /init (pid 1)
+      810 kB: virtualkeypad (pid 1615)
+      724 kB: adbd (pid 3555)
+      610 kB: netshared (pid 1611)
+      599 kB: dhcpcd (pid 5002)
+      585 kB: lmkd (pid 1597)
+      580 kB: healthd (pid 1596)
+      510 kB: dumpsys (pid 12300)
+      468 kB: ueventd (pid 1107)
+      461 kB: coocaa_guard (pid 1617)
+      443 kB: logcat (pid 1830)
+      439 kB: teecd (pid 1623)
+      387 kB: sh (pid 1638)
+      372 kB: installd (pid 1606)
+      359 kB: sh (pid 1757)
+      356 kB: sh (pid 1754)
+      353 kB: debuggerd (pid 1602)
+      350 kB: sh (pid 5499)
+      341 kB: sh (pid 1642)
+      332 kB: servicemanager (pid 1598)
+      309 kB: sh (pid 1813)
+      268 kB: hidrawd (pid 1618)
+      237 kB: smobsd (pid 2029)
+
+Total PSS by OOM adjustment:
+   160463 kB: Native
+               28583 kB: mediaserver (pid 1605)
+               28097 kB: app_process (pid 5501)
+               21016 kB: zygote64 (pid 1619)
+               14309 kB: zygote (pid 1620)
+               13653 kB: logd (pid 1595)
+                9082 kB: surfaceflinger (pid 1600)
+                5945 kB: tvserver (pid 1613)
+                5643 kB: displaysetting (pid 1612)
+                4280 kB: hiaoservice (pid 1608)
+                3494 kB: hisysmanager (pid 1609)
+                2662 kB: wpa_supplicant (pid 2846)
+                2244 kB: stbserver (pid 1746)
+                2074 kB: drmserver (pid 1604)
+                1552 kB: vold (pid 1599)
+                1220 kB: keystore (pid 1607)
+                1123 kB: netd (pid 1601)
+                1114 kB: android_ir_user (pid 1622)
+                1098 kB: VirtualEvent (pid 2025)
+                 889 kB: hikaraokeservice (pid 1610)
+                 863 kB: dtvloaderserver (pid 1614)
+                 816 kB: debuggerd64 (pid 1603)
+                 813 kB: /init (pid 1)
+                 810 kB: virtualkeypad (pid 1615)
+                 724 kB: adbd (pid 3555)
+                 610 kB: netshared (pid 1611)
+                 599 kB: dhcpcd (pid 5002)
+                 585 kB: lmkd (pid 1597)
+                 580 kB: healthd (pid 1596)
+                 510 kB: dumpsys (pid 12300)
+                 468 kB: ueventd (pid 1107)
+                 461 kB: coocaa_guard (pid 1617)
+                 443 kB: logcat (pid 1830)
+                 439 kB: teecd (pid 1623)
+                 387 kB: sh (pid 1638)
+                 372 kB: installd (pid 1606)
+                 359 kB: sh (pid 1757)
+                 356 kB: sh (pid 1754)
+                 353 kB: debuggerd (pid 1602)
+                 350 kB: sh (pid 5499)
+                 341 kB: sh (pid 1642)
+                 332 kB: servicemanager (pid 1598)
+                 309 kB: sh (pid 1813)
+                 268 kB: hidrawd (pid 1618)
+                 237 kB: smobsd (pid 2029)
+    67911 kB: System
+               67911 kB: system (pid 2235)
+    69939 kB: Persistent
+               54247 kB: com.android.systemui (pid 2472)
+                8780 kB: com.skyworth.android.skyRMService (pid 2642)
+                6912 kB: com.hisilicon.android.hiRMService (pid 2624)
+    12805 kB: Persistent Service
+               12805 kB: com.android.bluetooth (pid 3613)
+   517406 kB: Foreground
+              259026 kB: com.tianci.movieplatform (pid 2682 / activities)
+              100120 kB: com.skyworth.angel.voice (pid 4455)
+               55202 kB: com.tianci.de (pid 5093)
+               50459 kB: com.tianci.system (pid 2544)
+               31948 kB: com.tianci.push (pid 3139)
+               20651 kB: com.coocaa.os.softsettings.provider (pid 2906)
+    37612 kB: Visible
+               37612 kB: com.coocaa.os.ccosservice (pid 2975)
+    17083 kB: A Services
+               17083 kB: com.bajintech.karaok (pid 2453)
+    12952 kB: B Services
+               12952 kB: com.skyworth.dtv (pid 3842)
+   126193 kB: Cached
+               64428 kB: com.skyworth.setting (pid 4686)
+               28274 kB: com.coocaa.sysreport (pid 11405)
+                9226 kB: android.process.media (pid 2511)
+                6568 kB: com.android.managedprovisioning (pid 3809)
+                6419 kB: com.android.defcontainer (pid 2781)
+                6353 kB: com.android.externalstorage (pid 2592)
+                4925 kB: com.coocaa.messageprovider (pid 5440)
+
+Total PSS by category:
+   308884 kB: .dex mmap
+   244795 kB: Dalvik
+   146547 kB: Native
+   125870 kB: .so mmap
+    84894 kB: .oat mmap
+    36710 kB: .art mmap
+    19459 kB: Other mmap
+    17578 kB: Dalvik Other
+    10276 kB: .apk mmap
+    10104 kB: Stack
+     9748 kB: .ttf mmap
+     7088 kB: Unknown
+      259 kB: Other dev
+      128 kB: Ashmem
+       20 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: Gfx dev
+        0 kB: EGL mtrack
+        0 kB: GL mtrack
+        0 kB: Other mtrack
+
+Total RAM: 1880788 kB (status moderate)
+ Free RAM: 669701 kB (126193 cached pss + 226024 cached kernel + 317484 free)
+ Used RAM: 1213403 kB (896171 used pss + 317232 kernel)
+ Lost RAM: -2316 kB
+   Tuning: 192 (large 384), oom 65536 kB, restore limit 21845 kB (high-end-gfx)
+Applications Memory Usage (kB):
+Uptime: 810068 Realtime: 810068
+
+Total PSS by process:
+   263648 kB: com.tianci.movieplatform (pid 2682 / activities)
+   100104 kB: com.skyworth.angel.voice (pid 4455)
+    68459 kB: system (pid 2235)
+    64387 kB: com.skyworth.setting (pid 4686)
+    55206 kB: com.tianci.de (pid 5093)
+    54244 kB: com.android.systemui (pid 2472)
+    50463 kB: com.tianci.system (pid 2544)
+    37612 kB: com.coocaa.os.ccosservice (pid 2975)
+    31936 kB: com.tianci.push (pid 3139)
+    28351 kB: mediaserver (pid 1605)
+    28228 kB: com.coocaa.sysreport (pid 11405)
+    28106 kB: app_process (pid 5501)
+    21026 kB: zygote64 (pid 1619)
+    20653 kB: com.coocaa.os.softsettings.provider (pid 2906)
+    17123 kB: com.bajintech.karaok (pid 2453)
+    14309 kB: zygote (pid 1620)
+    13660 kB: logd (pid 1595)
+    12977 kB: com.skyworth.dtv (pid 3842)
+    12805 kB: com.android.bluetooth (pid 3613)
+     9225 kB: android.process.media (pid 2511)
+     9083 kB: surfaceflinger (pid 1600)
+     8787 kB: com.skyworth.android.skyRMService (pid 2642)
+     6912 kB: com.hisilicon.android.hiRMService (pid 2624)
+     6567 kB: com.android.managedprovisioning (pid 3809)
+     6418 kB: com.android.defcontainer (pid 2781)
+     6353 kB: com.android.externalstorage (pid 2592)
+     5945 kB: tvserver (pid 1613)
+     5646 kB: displaysetting (pid 1612)
+     4925 kB: com.coocaa.messageprovider (pid 5440)
+     4280 kB: hiaoservice (pid 1608)
+     3494 kB: hisysmanager (pid 1609)
+     2676 kB: wpa_supplicant (pid 2846)
+     2244 kB: stbserver (pid 1746)
+     2074 kB: drmserver (pid 1604)
+     1553 kB: vold (pid 1599)
+     1220 kB: keystore (pid 1607)
+     1119 kB: netd (pid 1601)
+     1114 kB: android_ir_user (pid 1622)
+     1098 kB: VirtualEvent (pid 2025)
+      889 kB: hikaraokeservice (pid 1610)
+      863 kB: dtvloaderserver (pid 1614)
+      817 kB: debuggerd64 (pid 1603)
+      813 kB: /init (pid 1)
+      810 kB: virtualkeypad (pid 1615)
+      721 kB: adbd (pid 3555)
+      610 kB: netshared (pid 1611)
+      602 kB: dhcpcd (pid 5002)
+      585 kB: lmkd (pid 1597)
+      580 kB: healthd (pid 1596)
+      468 kB: ueventd (pid 1107)
+      461 kB: coocaa_guard (pid 1617)
+      445 kB: logcat (pid 1830)
+      442 kB: teecd (pid 1623)
+      395 kB: sh (pid 1638)
+      372 kB: installd (pid 1606)
+      367 kB: sh (pid 1757)
+      364 kB: sh (pid 1754)
+      359 kB: sh (pid 5499)
+      353 kB: debuggerd (pid 1602)
+      349 kB: sh (pid 1642)
+      332 kB: servicemanager (pid 1598)
+      317 kB: sh (pid 1813)
+      268 kB: hidrawd (pid 1618)
+      237 kB: smobsd (pid 2029)
+        0 kB: dumpsys (pid 12300)
+
+Total PSS by OOM adjustment:
+   159817 kB: Native
+               28351 kB: mediaserver (pid 1605)
+               28106 kB: app_process (pid 5501)
+               21026 kB: zygote64 (pid 1619)
+               14309 kB: zygote (pid 1620)
+               13660 kB: logd (pid 1595)
+                9083 kB: surfaceflinger (pid 1600)
+                5945 kB: tvserver (pid 1613)
+                5646 kB: displaysetting (pid 1612)
+                4280 kB: hiaoservice (pid 1608)
+                3494 kB: hisysmanager (pid 1609)
+                2676 kB: wpa_supplicant (pid 2846)
+                2244 kB: stbserver (pid 1746)
+                2074 kB: drmserver (pid 1604)
+                1553 kB: vold (pid 1599)
+                1220 kB: keystore (pid 1607)
+                1119 kB: netd (pid 1601)
+                1114 kB: android_ir_user (pid 1622)
+                1098 kB: VirtualEvent (pid 2025)
+                 889 kB: hikaraokeservice (pid 1610)
+                 863 kB: dtvloaderserver (pid 1614)
+                 817 kB: debuggerd64 (pid 1603)
+                 813 kB: /init (pid 1)
+                 810 kB: virtualkeypad (pid 1615)
+                 721 kB: adbd (pid 3555)
+                 610 kB: netshared (pid 1611)
+                 602 kB: dhcpcd (pid 5002)
+                 585 kB: lmkd (pid 1597)
+                 580 kB: healthd (pid 1596)
+                 468 kB: ueventd (pid 1107)
+                 461 kB: coocaa_guard (pid 1617)
+                 445 kB: logcat (pid 1830)
+                 442 kB: teecd (pid 1623)
+                 395 kB: sh (pid 1638)
+                 372 kB: installd (pid 1606)
+                 367 kB: sh (pid 1757)
+                 364 kB: sh (pid 1754)
+                 359 kB: sh (pid 5499)
+                 353 kB: debuggerd (pid 1602)
+                 349 kB: sh (pid 1642)
+                 332 kB: servicemanager (pid 1598)
+                 317 kB: sh (pid 1813)
+                 268 kB: hidrawd (pid 1618)
+                 237 kB: smobsd (pid 2029)
+                   0 kB: dumpsys (pid 12300)
+    68459 kB: System
+               68459 kB: system (pid 2235)
+    69943 kB: Persistent
+               54244 kB: com.android.systemui (pid 2472)
+                8787 kB: com.skyworth.android.skyRMService (pid 2642)
+                6912 kB: com.hisilicon.android.hiRMService (pid 2624)
+    12805 kB: Persistent Service
+               12805 kB: com.android.bluetooth (pid 3613)
+   522010 kB: Foreground
+              263648 kB: com.tianci.movieplatform (pid 2682 / activities)
+              100104 kB: com.skyworth.angel.voice (pid 4455)
+               55206 kB: com.tianci.de (pid 5093)
+               50463 kB: com.tianci.system (pid 2544)
+               31936 kB: com.tianci.push (pid 3139)
+               20653 kB: com.coocaa.os.softsettings.provider (pid 2906)
+    37612 kB: Visible
+               37612 kB: com.coocaa.os.ccosservice (pid 2975)
+    17123 kB: A Services
+               17123 kB: com.bajintech.karaok (pid 2453)
+    12977 kB: B Services
+               12977 kB: com.skyworth.dtv (pid 3842)
+   126103 kB: Cached
+               64387 kB: com.skyworth.setting (pid 4686)
+               28228 kB: com.coocaa.sysreport (pid 11405)
+                9225 kB: android.process.media (pid 2511)
+                6567 kB: com.android.managedprovisioning (pid 3809)
+                6418 kB: com.android.defcontainer (pid 2781)
+                6353 kB: com.android.externalstorage (pid 2592)
+                4925 kB: com.coocaa.messageprovider (pid 5440)
+
+Total PSS by category:
+   309296 kB: .dex mmap
+   245504 kB: Dalvik
+   149524 kB: Native
+   125785 kB: .so mmap
+    84927 kB: .oat mmap
+    36819 kB: .art mmap
+    19487 kB: Other mmap
+    17628 kB: Dalvik Other
+    10276 kB: .apk mmap
+    10114 kB: Stack
+    10040 kB: .ttf mmap
+     7045 kB: Unknown
+      252 kB: Other dev
+      128 kB: Ashmem
+       20 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: Gfx dev
+        0 kB: EGL mtrack
+        0 kB: GL mtrack
+        0 kB: Other mtrack
+
+Total RAM: 1880788 kB (status moderate)
+ Free RAM: 671495 kB (126103 cached pss + 233868 cached kernel + 311524 free)
+ Used RAM: 1217930 kB (900746 used pss + 317184 kernel)
+ Lost RAM: -8637 kB
+   Tuning: 192 (large 384), oom 65536 kB, restore limit 21845 kB (high-end-gfx)
+Applications Memory Usage (kB):
+Uptime: 814685 Realtime: 814685
+
+Total PSS by process:
+   262572 kB: com.tianci.movieplatform (pid 2682 / activities)
+   100104 kB: com.skyworth.angel.voice (pid 4455)
+    69447 kB: system (pid 2235)
+    64387 kB: com.skyworth.setting (pid 4686)
+    55206 kB: com.tianci.de (pid 5093)
+    54244 kB: com.android.systemui (pid 2472)
+    50463 kB: com.tianci.system (pid 2544)
+    37612 kB: com.coocaa.os.ccosservice (pid 2975)
+    31940 kB: com.tianci.push (pid 3139)
+    28380 kB: com.coocaa.sysreport (pid 11405)
+    28351 kB: mediaserver (pid 1605)
+    28106 kB: app_process (pid 5501)
+    21025 kB: zygote64 (pid 1619)
+    20653 kB: com.coocaa.os.softsettings.provider (pid 2906)
+    17173 kB: com.bajintech.karaok (pid 2453)
+    14309 kB: zygote (pid 1620)
+    13677 kB: logd (pid 1595)
+    13029 kB: com.skyworth.dtv (pid 3842)
+    12805 kB: com.android.bluetooth (pid 3613)
+     9224 kB: android.process.media (pid 2511)
+     9126 kB: surfaceflinger (pid 1600)
+     8787 kB: com.skyworth.android.skyRMService (pid 2642)
+     6912 kB: com.hisilicon.android.hiRMService (pid 2624)
+     6568 kB: com.android.managedprovisioning (pid 3809)
+     6417 kB: com.android.defcontainer (pid 2781)
+     6353 kB: com.android.externalstorage (pid 2592)
+     5945 kB: tvserver (pid 1613)
+     5638 kB: displaysetting (pid 1612)
+     4925 kB: com.coocaa.messageprovider (pid 5440)
+     4280 kB: hiaoservice (pid 1608)
+     3494 kB: hisysmanager (pid 1609)
+     2677 kB: wpa_supplicant (pid 2846)
+     2244 kB: stbserver (pid 1746)
+     2074 kB: drmserver (pid 1604)
+     1552 kB: vold (pid 1599)
+     1220 kB: keystore (pid 1607)
+     1119 kB: netd (pid 1601)
+     1114 kB: android_ir_user (pid 1622)
+     1098 kB: VirtualEvent (pid 2025)
+      889 kB: hikaraokeservice (pid 1610)
+      863 kB: dtvloaderserver (pid 1614)
+      817 kB: debuggerd64 (pid 1603)
+      813 kB: /init (pid 1)
+      810 kB: virtualkeypad (pid 1615)
+      721 kB: adbd (pid 3555)
+      610 kB: netshared (pid 1611)
+      602 kB: dhcpcd (pid 5002)
+      585 kB: lmkd (pid 1597)
+      580 kB: healthd (pid 1596)
+      513 kB: dumpsys (pid 12447)
+      468 kB: ueventd (pid 1107)
+      461 kB: coocaa_guard (pid 1617)
+      445 kB: logcat (pid 1830)
+      442 kB: teecd (pid 1623)
+      395 kB: sh (pid 1638)
+      372 kB: installd (pid 1606)
+      368 kB: sh (pid 1757)
+      364 kB: sh (pid 1754)
+      359 kB: sh (pid 5499)
+      353 kB: debuggerd (pid 1602)
+      349 kB: sh (pid 1642)
+      332 kB: servicemanager (pid 1598)
+      317 kB: sh (pid 1813)
+      268 kB: hidrawd (pid 1618)
+      237 kB: smobsd (pid 2029)
+        0 kB: busybox (pid 12443)
+
+Total PSS by OOM adjustment:
+   160382 kB: Native
+               28351 kB: mediaserver (pid 1605)
+               28106 kB: app_process (pid 5501)
+               21025 kB: zygote64 (pid 1619)
+               14309 kB: zygote (pid 1620)
+               13677 kB: logd (pid 1595)
+                9126 kB: surfaceflinger (pid 1600)
+                5945 kB: tvserver (pid 1613)
+                5638 kB: displaysetting (pid 1612)
+                4280 kB: hiaoservice (pid 1608)
+                3494 kB: hisysmanager (pid 1609)
+                2677 kB: wpa_supplicant (pid 2846)
+                2244 kB: stbserver (pid 1746)
+                2074 kB: drmserver (pid 1604)
+                1552 kB: vold (pid 1599)
+                1220 kB: keystore (pid 1607)
+                1119 kB: netd (pid 1601)
+                1114 kB: android_ir_user (pid 1622)
+                1098 kB: VirtualEvent (pid 2025)
+                 889 kB: hikaraokeservice (pid 1610)
+                 863 kB: dtvloaderserver (pid 1614)
+                 817 kB: debuggerd64 (pid 1603)
+                 813 kB: /init (pid 1)
+                 810 kB: virtualkeypad (pid 1615)
+                 721 kB: adbd (pid 3555)
+                 610 kB: netshared (pid 1611)
+                 602 kB: dhcpcd (pid 5002)
+                 585 kB: lmkd (pid 1597)
+                 580 kB: healthd (pid 1596)
+                 513 kB: dumpsys (pid 12447)
+                 468 kB: ueventd (pid 1107)
+                 461 kB: coocaa_guard (pid 1617)
+                 445 kB: logcat (pid 1830)
+                 442 kB: teecd (pid 1623)
+                 395 kB: sh (pid 1638)
+                 372 kB: installd (pid 1606)
+                 368 kB: sh (pid 1757)
+                 364 kB: sh (pid 1754)
+                 359 kB: sh (pid 5499)
+                 353 kB: debuggerd (pid 1602)
+                 349 kB: sh (pid 1642)
+                 332 kB: servicemanager (pid 1598)
+                 317 kB: sh (pid 1813)
+                 268 kB: hidrawd (pid 1618)
+                 237 kB: smobsd (pid 2029)
+                   0 kB: busybox (pid 12443)
+    69447 kB: System
+               69447 kB: system (pid 2235)
+    69943 kB: Persistent
+               54244 kB: com.android.systemui (pid 2472)
+                8787 kB: com.skyworth.android.skyRMService (pid 2642)
+                6912 kB: com.hisilicon.android.hiRMService (pid 2624)
+    12805 kB: Persistent Service
+               12805 kB: com.android.bluetooth (pid 3613)
+   520938 kB: Foreground
+              262572 kB: com.tianci.movieplatform (pid 2682 / activities)
+              100104 kB: com.skyworth.angel.voice (pid 4455)
+               55206 kB: com.tianci.de (pid 5093)
+               50463 kB: com.tianci.system (pid 2544)
+               31940 kB: com.tianci.push (pid 3139)
+               20653 kB: com.coocaa.os.softsettings.provider (pid 2906)
+    37612 kB: Visible
+               37612 kB: com.coocaa.os.ccosservice (pid 2975)
+    17173 kB: A Services
+               17173 kB: com.bajintech.karaok (pid 2453)
+    13029 kB: B Services
+               13029 kB: com.skyworth.dtv (pid 3842)
+   126254 kB: Cached
+               64387 kB: com.skyworth.setting (pid 4686)
+               28380 kB: com.coocaa.sysreport (pid 11405)
+                9224 kB: android.process.media (pid 2511)
+                6568 kB: com.android.managedprovisioning (pid 3809)
+                6417 kB: com.android.defcontainer (pid 2781)
+                6353 kB: com.android.externalstorage (pid 2592)
+                4925 kB: com.coocaa.messageprovider (pid 5440)
+
+Total PSS by category:
+   309296 kB: .dex mmap
+   245538 kB: Dalvik
+   149800 kB: Native
+   126061 kB: .so mmap
+    84927 kB: .oat mmap
+    36819 kB: .art mmap
+    19514 kB: Other mmap
+    17666 kB: Dalvik Other
+    10276 kB: .apk mmap
+    10136 kB: Stack
+    10040 kB: .ttf mmap
+     7101 kB: Unknown
+      257 kB: Other dev
+      128 kB: Ashmem
+       20 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: Gfx dev
+        0 kB: EGL mtrack
+        0 kB: GL mtrack
+        0 kB: Other mtrack
+
+Total RAM: 1880788 kB (status moderate)
+ Free RAM: 674462 kB (126254 cached pss + 240640 cached kernel + 307568 free)
+ Used RAM: 1218645 kB (901329 used pss + 317316 kernel)
+ Lost RAM: -12319 kB
+   Tuning: 192 (large 384), oom 65536 kB, restore limit 21845 kB (high-end-gfx)
+Applications Memory Usage (kB):
+Uptime: 818963 Realtime: 818963
+
+Total PSS by process:
+   262760 kB: com.tianci.movieplatform (pid 2682 / activities)
+   100104 kB: com.skyworth.angel.voice (pid 4455)
+    70156 kB: system (pid 2235)
+    64387 kB: com.skyworth.setting (pid 4686)
+    55206 kB: com.tianci.de (pid 5093)
+    54241 kB: com.android.systemui (pid 2472)
+    50463 kB: com.tianci.system (pid 2544)
+    37612 kB: com.coocaa.os.ccosservice (pid 2975)
+    31940 kB: com.tianci.push (pid 3139)
+    28351 kB: mediaserver (pid 1605)
+    28105 kB: app_process (pid 5501)
+    27644 kB: com.coocaa.sysreport (pid 11405)
+    21026 kB: zygote64 (pid 1619)
+    20653 kB: com.coocaa.os.softsettings.provider (pid 2906)
+    17173 kB: com.bajintech.karaok (pid 2453)
+    14309 kB: zygote (pid 1620)
+    13690 kB: logd (pid 1595)
+    13065 kB: com.skyworth.dtv (pid 3842)
+    12805 kB: com.android.bluetooth (pid 3613)
+     9226 kB: android.process.media (pid 2511)
+     9082 kB: surfaceflinger (pid 1600)
+     8795 kB: com.skyworth.android.skyRMService (pid 2642)
+     6912 kB: com.hisilicon.android.hiRMService (pid 2624)
+     6568 kB: com.android.managedprovisioning (pid 3809)
+     6419 kB: com.android.defcontainer (pid 2781)
+     6353 kB: com.android.externalstorage (pid 2592)
+     5945 kB: tvserver (pid 1613)
+     5646 kB: displaysetting (pid 1612)
+     4925 kB: com.coocaa.messageprovider (pid 5440)
+     4280 kB: hiaoservice (pid 1608)
+     3494 kB: hisysmanager (pid 1609)
+     2676 kB: wpa_supplicant (pid 2846)
+     2244 kB: stbserver (pid 1746)
+     2074 kB: drmserver (pid 1604)
+     1542 kB: vold (pid 1599)
+     1365 kB: debuggerd64 (pid 1603)
+     1220 kB: keystore (pid 1607)
+     1114 kB: netd (pid 1601)
+     1114 kB: android_ir_user (pid 1622)
+     1098 kB: VirtualEvent (pid 2025)
+      889 kB: hikaraokeservice (pid 1610)
+      863 kB: dtvloaderserver (pid 1614)
+      813 kB: /init (pid 1)
+      810 kB: virtualkeypad (pid 1615)
+      721 kB: adbd (pid 3555)
+      610 kB: netshared (pid 1611)
+      602 kB: dhcpcd (pid 5002)
+      583 kB: lmkd (pid 1597)
+      580 kB: healthd (pid 1596)
+      468 kB: ueventd (pid 1107)
+      461 kB: coocaa_guard (pid 1617)
+      445 kB: logcat (pid 1830)
+      442 kB: teecd (pid 1623)
+      395 kB: sh (pid 1638)
+      372 kB: installd (pid 1606)
+      368 kB: sh (pid 1757)
+      364 kB: sh (pid 1754)
+      359 kB: sh (pid 5499)
+      353 kB: debuggerd (pid 1602)
+      349 kB: sh (pid 1642)
+      330 kB: servicemanager (pid 1598)
+      317 kB: sh (pid 1813)
+      268 kB: hidrawd (pid 1618)
+      237 kB: smobsd (pid 2029)
+        0 kB: busybox (pid 12443)
+        0 kB: dumpsys (pid 12447)
+
+Total PSS by OOM adjustment:
+   160374 kB: Native
+               28351 kB: mediaserver (pid 1605)
+               28105 kB: app_process (pid 5501)
+               21026 kB: zygote64 (pid 1619)
+               14309 kB: zygote (pid 1620)
+               13690 kB: logd (pid 1595)
+                9082 kB: surfaceflinger (pid 1600)
+                5945 kB: tvserver (pid 1613)
+                5646 kB: displaysetting (pid 1612)
+                4280 kB: hiaoservice (pid 1608)
+                3494 kB: hisysmanager (pid 1609)
+                2676 kB: wpa_supplicant (pid 2846)
+                2244 kB: stbserver (pid 1746)
+                2074 kB: drmserver (pid 1604)
+                1542 kB: vold (pid 1599)
+                1365 kB: debuggerd64 (pid 1603)
+                1220 kB: keystore (pid 1607)
+                1114 kB: netd (pid 1601)
+                1114 kB: android_ir_user (pid 1622)
+                1098 kB: VirtualEvent (pid 2025)
+                 889 kB: hikaraokeservice (pid 1610)
+                 863 kB: dtvloaderserver (pid 1614)
+                 813 kB: /init (pid 1)
+                 810 kB: virtualkeypad (pid 1615)
+                 721 kB: adbd (pid 3555)
+                 610 kB: netshared (pid 1611)
+                 602 kB: dhcpcd (pid 5002)
+                 583 kB: lmkd (pid 1597)
+                 580 kB: healthd (pid 1596)
+                 468 kB: ueventd (pid 1107)
+                 461 kB: coocaa_guard (pid 1617)
+                 445 kB: logcat (pid 1830)
+                 442 kB: teecd (pid 1623)
+                 395 kB: sh (pid 1638)
+                 372 kB: installd (pid 1606)
+                 368 kB: sh (pid 1757)
+                 364 kB: sh (pid 1754)
+                 359 kB: sh (pid 5499)
+                 353 kB: debuggerd (pid 1602)
+                 349 kB: sh (pid 1642)
+                 330 kB: servicemanager (pid 1598)
+                 317 kB: sh (pid 1813)
+                 268 kB: hidrawd (pid 1618)
+                 237 kB: smobsd (pid 2029)
+                   0 kB: busybox (pid 12443)
+                   0 kB: dumpsys (pid 12447)
+    70156 kB: System
+               70156 kB: system (pid 2235)
+    69948 kB: Persistent
+               54241 kB: com.android.systemui (pid 2472)
+                8795 kB: com.skyworth.android.skyRMService (pid 2642)
+                6912 kB: com.hisilicon.android.hiRMService (pid 2624)
+    12805 kB: Persistent Service
+               12805 kB: com.android.bluetooth (pid 3613)
+   521126 kB: Foreground
+              262760 kB: com.tianci.movieplatform (pid 2682 / activities)
+              100104 kB: com.skyworth.angel.voice (pid 4455)
+               55206 kB: com.tianci.de (pid 5093)
+               50463 kB: com.tianci.system (pid 2544)
+               31940 kB: com.tianci.push (pid 3139)
+               20653 kB: com.coocaa.os.softsettings.provider (pid 2906)
+    37612 kB: Visible
+               37612 kB: com.coocaa.os.ccosservice (pid 2975)
+    17173 kB: A Services
+               17173 kB: com.bajintech.karaok (pid 2453)
+    13065 kB: B Services
+               13065 kB: com.skyworth.dtv (pid 3842)
+   125522 kB: Cached
+               64387 kB: com.skyworth.setting (pid 4686)
+               27644 kB: com.coocaa.sysreport (pid 11405)
+                9226 kB: android.process.media (pid 2511)
+                6568 kB: com.android.managedprovisioning (pid 3809)
+                6419 kB: com.android.defcontainer (pid 2781)
+                6353 kB: com.android.externalstorage (pid 2592)
+                4925 kB: com.coocaa.messageprovider (pid 5440)
+
+Total PSS by category:
+   309320 kB: .dex mmap
+   246066 kB: Dalvik
+   149680 kB: Native
+   125974 kB: .so mmap
+    84926 kB: .oat mmap
+    36819 kB: .art mmap
+    19601 kB: Other mmap
+    17534 kB: Dalvik Other
+    10276 kB: .apk mmap
+    10104 kB: Stack
+    10040 kB: .ttf mmap
+     7041 kB: Unknown
+      248 kB: Other dev
+      128 kB: Ashmem
+       20 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: Gfx dev
+        0 kB: EGL mtrack
+        0 kB: GL mtrack
+        0 kB: Other mtrack
+
+Total RAM: 1880788 kB (status moderate)
+ Free RAM: 673826 kB (125522 cached pss + 242896 cached kernel + 305408 free)
+ Used RAM: 1219675 kB (902259 used pss + 317416 kernel)
+ Lost RAM: -12713 kB
+   Tuning: 192 (large 384), oom 65536 kB, restore limit 21845 kB (high-end-gfx)

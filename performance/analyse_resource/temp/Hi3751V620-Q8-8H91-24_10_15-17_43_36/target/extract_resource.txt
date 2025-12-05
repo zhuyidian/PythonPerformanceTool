@@ -1,0 +1,4 @@
+{'27236'} com.coocaa.aigc.home: 13.2,11.8,0.0,0.0,0.0,0.0,0.0,0.0
+{'27236'} com.coocaa.aigc.home: min(0.0) max(13.2) average(3.12)
+{'27236'} com.coocaa.aigc.home(MB): 170.28,168.57,164.59,153.73,153.70,154.26,153.67
+{'27236'} com.coocaa.aigc.home(MB): min(153.67) max(170.28) average(159.83)

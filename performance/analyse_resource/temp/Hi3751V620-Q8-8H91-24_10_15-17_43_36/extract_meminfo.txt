@@ -1,0 +1,150 @@
+total_ram(MB): 1836.71,1836.71,1836.71,1836.71,1836.71,1836.71,1836.71
+total_ram(MB): min(1836.71) max(1836.71) average(1836.71)
+free_ram(MB): 419.78,383.34,385.39,415.59,414.70,426.47,399.18
+free_ram(MB): min(383.34) max(426.47) average(406.35)
+used_ram(MB): 2230.47,2262.44,2327.95,2315.77,2317.02,2346.40,2411.65
+used_ram(MB): min(2230.47) max(2411.65) average(2315.96)
+lost_ram(MB): -813.54,-809.07,-876.63,-894.66,-895.01,-936.16,-974.12
+lost_ram(MB): min(-974.12) max(-809.07) average(-885.6)
+free(MB): 194.34,155.58,149.31,179.62,178.15,187.91,160.95
+free(MB): min(149.31) max(194.34) average(172.27)
+used_pss(MB): 945.35,945.31,974.32,962.49,963.63,956.44,987.87
+used_pss(MB): min(945.31) max(987.87) average(962.2)
+kernel(MB): 0.00,0.00,0.00,0.00,0.00,0.00,0.00
+kernel(MB): min(0.0) max(0.0) average(0.0)
+buffers(MB): 0.00,0.00,0.00,0.00,0.00,0.00,0.00
+buffers(MB): min(0.0) max(0.0) average(0.0)
+shmem(MB): 0.00,0.00,0.00,0.00,0.00,0.00,0.00
+shmem(MB): min(0.0) max(0.0) average(0.0)
+slab(MB): 0.00,0.00,0.00,0.00,0.00,0.00,0.00
+slab(MB): min(0.0) max(0.0) average(0.0)
+total_swap(MB): 0.00,0.00,0.00,0.00,0.00,0.00,0.00
+total_swap(MB): min(0.0) max(0.0) average(0.0)
+used_swap(MB): 0.00,0.00,0.00,0.00,0.00,0.00,0.00
+used_swap(MB): min(0.0) max(0.0) average(0.0)
+{'2682'} com.tianci.movieplatform(MB): 226.32,226.14,249.57,250.91,250.98,251.04,271.40
+{'2682'} com.tianci.movieplatform(MB): min(226.14) max(271.4) average(246.62)
+{'27236'} com.coocaa.aigc.home(MB): 170.28,168.57,164.59,153.73,153.70,154.26,153.67
+{'27236'} com.coocaa.aigc.home(MB): min(153.67) max(170.28) average(159.83)
+{'2235'} system(MB): 83.43,86.58,86.54,84.08,84.74,85.60,84.72
+{'2235'} system(MB): min(83.43) max(86.58) average(85.1)
+{'4455'} com.skyworth.angel.voice(MB): 65.21,65.20,65.14,64.71,65.13,65.13,65.08
+{'4455'} com.skyworth.angel.voice(MB): min(64.71) max(65.21) average(65.09)
+{'2472'} com.android.systemui(MB): 56.12,56.12,56.11,56.11,56.11,56.13,56.13
+{'2472'} com.android.systemui(MB): min(56.11) max(56.13) average(56.12)
+{'5093'} com.tianci.de(MB): 50.76,50.76,50.76,50.78,50.79,50.81,50.82
+{'5093'} com.tianci.de(MB): min(50.76) max(50.82) average(50.78)
+{'2544'} com.tianci.system(MB): 40.92,40.89,40.88,40.88,40.88,40.88,40.88
+{'2544'} com.tianci.system(MB): min(40.88) max(40.92) average(40.89)
+{'4686'} com.skyworth.setting(MB): 36.99,36.98,36.98,36.98,36.98,36.98,36.98
+{'4686'} com.skyworth.setting(MB): min(36.98) max(36.99) average(36.98)
+{'26712'} com.coocaa.sysreport(MB): 36.81,37.33,37.94,36.62,37.10,36.87,37.05
+{'26712'} com.coocaa.sysreport(MB): min(36.62) max(37.94) average(37.1)
+{'3139'} com.tianci.push(MB): 29.02,29.02,29.02,29.02,29.02,29.02,29.02
+{'3139'} com.tianci.push(MB): min(29.02) max(29.02) average(29.02)
+{'2975'} com.coocaa.os.ccosservice(MB): 26.93,26.94,26.94,26.94,26.94,26.94,26.94
+{'2975'} com.coocaa.os.ccosservice(MB): min(26.93) max(26.94) average(26.94)
+{'5501'} app_process(MB): 23.59,23.61,23.70,23.71,23.71,23.72,23.75
+{'5501'} app_process(MB): min(23.59) max(23.75) average(23.68)
+{'2906'} com.coocaa.os.softsettings.provider(MB): 18.59,18.59,18.58,18.58,18.58,18.58,18.58
+{'2906'} com.coocaa.os.softsettings.provider(MB): min(18.58) max(18.59) average(18.58)
+{'1595'} logd(MB): 17.97,17.94,17.91,17.91,17.91,17.91,17.89
+{'1595'} logd(MB): min(17.89) max(17.97) average(17.92)
+{'1619'} zygote64(MB): 16.58,16.57,16.58,16.58,16.58,16.58,16.58
+{'1619'} zygote64(MB): min(16.57) max(16.58) average(16.58)
+{'1605'} mediaserver(MB): 14.73,14.73,24.02,24.02,24.02,15.27,28.21
+{'1605'} mediaserver(MB): min(14.73) max(28.21) average(20.71)
+{'2453'} com.bajintech.karaok(MB): 12.44,12.44,12.44,12.44,12.44,12.44,12.44
+{'2453'} com.bajintech.karaok(MB): min(12.44) max(12.44) average(12.44)
+{'1600'} surfaceflinger(MB): 10.66,10.70,10.84,10.83,10.75,10.78,10.83
+{'1600'} surfaceflinger(MB): min(10.66) max(10.84) average(10.77)
+{'3613'} com.android.bluetooth(MB): 10.09,10.09,10.09,10.09,10.09,10.09,10.09
+{'3613'} com.android.bluetooth(MB): min(10.09) max(10.09) average(10.09)
+{'1620'} zygote(MB): 9.82,9.82,9.82,9.82,9.82,9.82,9.82
+{'1620'} zygote(MB): min(9.82) max(9.82) average(9.82)
+{'3842'} com.skyworth.dtv(MB): 8.84,8.89,8.92,8.97,9.01,9.04,9.10
+{'3842'} com.skyworth.dtv(MB): min(8.84) max(9.1) average(8.97)
+{'2642'} com.skyworth.android.skyRMService(MB): 7.16,7.31,7.35,7.37,7.40,7.40,7.40
+{'2642'} com.skyworth.android.skyRMService(MB): min(7.16) max(7.4) average(7.34)
+{'2511'} android.process.media(MB): 6.73,6.73,6.73,6.73,6.73,6.73,6.73
+{'2511'} android.process.media(MB): min(6.73) max(6.73) average(6.73)
+{'1612'} displaysetting(MB): 5.45,5.44,5.45,5.45,5.45,5.45,5.45
+{'1612'} displaysetting(MB): min(5.44) max(5.45) average(5.45)
+{'2624'} com.hisilicon.android.hiRMService(MB): 5.38,5.38,5.38,5.38,5.38,5.38,5.38
+{'2624'} com.hisilicon.android.hiRMService(MB): min(5.38) max(5.38) average(5.38)
+{'2592'} com.android.externalstorage(MB): 4.96,4.96,4.96,4.96,4.96,4.96,4.96
+{'2592'} com.android.externalstorage(MB): min(4.96) max(4.96) average(4.96)
+{'2781'} com.android.defcontainer(MB): 4.94,4.95,4.95,4.94,4.95,4.95,4.94
+{'2781'} com.android.defcontainer(MB): min(4.94) max(4.95) average(4.95)
+{'3809'} com.android.managedprovisioning(MB): 4.93,4.93,4.93,4.93,4.93,4.93,4.93
+{'3809'} com.android.managedprovisioning(MB): min(4.93) max(4.93) average(4.93)
+{'1613'} tvserver(MB): 4.77,4.95,5.01,5.01,5.01,5.01,5.01
+{'1613'} tvserver(MB): min(4.77) max(5.01) average(4.97)
+{'5440'} com.coocaa.messageprovider(MB): 3.87,3.87,3.87,3.87,3.87,3.87,3.87
+{'5440'} com.coocaa.messageprovider(MB): min(3.87) max(3.87) average(3.87)
+{'1608'} hiaoservice(MB): 2.98,2.98,2.98,2.98,2.98,2.98,2.98
+{'1608'} hiaoservice(MB): min(2.98) max(2.98) average(2.98)
+{'1609'} hisysmanager(MB): 2.70,2.70,2.70,2.70,2.70,2.70,2.70
+{'1609'} hisysmanager(MB): min(2.7) max(2.7) average(2.7)
+{'2846'} wpa_supplicant(MB): 2.54,2.54,2.54,2.55,2.55,2.55,2.55
+{'2846'} wpa_supplicant(MB): min(2.54) max(2.55) average(2.55)
+{'1746'} stbserver(MB): 1.62,1.62,1.62,1.62,1.62,1.62,1.62
+{'1746'} stbserver(MB): min(1.62) max(1.62) average(1.62)
+{'1604'} drmserver(MB): 1.50,1.50,1.50,1.50,1.50,1.50,1.50
+{'1604'} drmserver(MB): min(1.5) max(1.5) average(1.5)
+{'1599'} vold(MB): 1.31,1.31,1.31,1.31,1.31,1.31,1.31
+{'1599'} vold(MB): min(1.31) max(1.31) average(1.31)
+{'1607'} keystore(MB): 1.16,1.14,1.16,1.16,1.15,1.15,1.15
+{'1607'} keystore(MB): min(1.14) max(1.16) average(1.15)
+{'28303', '27857'} busybox(MB): 1.10,0.00,0.00,0.00
+{'28303', '27857'} busybox(MB): min(0.0) max(1.1) average(0.28)
+{'2025'} VirtualEvent(MB): 1.07,1.07,1.07,1.07,1.07,1.07,1.07
+{'2025'} VirtualEvent(MB): min(1.07) max(1.07) average(1.07)
+{'1601'} netd(MB): 1.06,1.11,1.06,1.06,1.05,1.05,1.06
+{'1601'} netd(MB): min(1.05) max(1.11) average(1.06)
+{'1'} /init(MB): 0.79,0.79,0.79,0.79,0.79,0.79,0.79
+{'1'} /init(MB): min(0.79) max(0.79) average(0.79)
+{'1603'} debuggerd64(MB): 0.79,0.79,0.79,0.80,1.33,0.79,0.79
+{'1603'} debuggerd64(MB): min(0.79) max(1.33) average(0.87)
+{'1622'} android_ir_user(MB): 0.79,0.79,0.79,0.79,0.79,0.79,0.79
+{'1622'} android_ir_user(MB): min(0.79) max(0.79) average(0.79)
+{'3555'} adbd(MB): 0.71,0.71,0.71,0.71,0.71,0.71,0.71
+{'3555'} adbd(MB): min(0.71) max(0.71) average(0.71)
+{'1614'} dtvloaderserver(MB): 0.63,0.63,0.63,0.63,0.63,0.63,0.63
+{'1614'} dtvloaderserver(MB): min(0.63) max(0.63) average(0.63)
+{'1610'} hikaraokeservice(MB): 0.61,0.61,0.61,0.61,0.61,0.61,0.61
+{'1610'} hikaraokeservice(MB): min(0.61) max(0.61) average(0.61)
+{'5002'} dhcpcd(MB): 0.59,0.58,0.58,0.59,0.59,0.59,0.59
+{'5002'} dhcpcd(MB): min(0.58) max(0.59) average(0.59)
+{'1611'} netshared(MB): 0.58,0.58,0.58,0.58,0.58,0.58,0.58
+{'1611'} netshared(MB): min(0.58) max(0.58) average(0.58)
+{'1596'} healthd(MB): 0.57,0.57,0.57,0.57,0.57,0.57,0.57
+{'1596'} healthd(MB): min(0.57) max(0.57) average(0.57)
+{'1597'} lmkd(MB): 0.57,0.57,0.57,0.57,0.57,0.57,0.57
+{'1597'} lmkd(MB): min(0.57) max(0.57) average(0.57)
+{'1615'} virtualkeypad(MB): 0.55,0.55,0.55,0.55,0.55,0.55,0.55
+{'1615'} virtualkeypad(MB): min(0.55) max(0.55) average(0.55)
+{'28275', '27858', '28140'} dumpsys(MB): 0.51,0.00,0.50,0.00,0.50,0.00
+{'28275', '27858', '28140'} dumpsys(MB): min(0.0) max(0.51) average(0.25)
+{'1107'} ueventd(MB): 0.46,0.46,0.46,0.46,0.46,0.46,0.46
+{'1107'} ueventd(MB): min(0.46) max(0.46) average(0.46)
+{'1617'} coocaa_guard(MB): 0.44,0.44,0.44,0.44,0.44,0.44,0.44
+{'1617'} coocaa_guard(MB): min(0.44) max(0.44) average(0.44)
+{'1830'} logcat(MB): 0.43,0.43,0.43,0.43,0.43,0.43,0.43
+{'1830'} logcat(MB): min(0.43) max(0.43) average(0.43)
+{'1623'} teecd(MB): 0.41,0.41,0.41,0.41,0.41,0.41,0.41
+{'1623'} teecd(MB): min(0.41) max(0.41) average(0.41)
+{'5499', '1754', '15480', '1638', '1642', '1757', '1813'} sh(MB): 0.38,0.38,0.35,0.35,0.34,0.34,0.30,0.37,0.37,0.34,0.34,0.34,0.33,0.30,0.38,0.38,0.35,0.35,0.34,0.34,0.30,0.38,0.38,0.35,0.35,0.34,0.34,0.30,0.38,0.38,0.35,0.35,0.34,0.33,0.30,0.38,0.38,0.35,0.35,0.34,0.33,0.30,0.38,0.38,0.35,0.35,0.34,0.33,0.30
+{'5499', '1754', '15480', '1638', '1642', '1757', '1813'} sh(MB): min(0.3) max(0.38) average(0.35)
+{'1602'} debuggerd(MB): 0.33,0.33,0.33,0.33,0.33,0.33,0.33
+{'1602'} debuggerd(MB): min(0.33) max(0.33) average(0.33)
+{'1598'} servicemanager(MB): 0.32,0.32,0.32,0.32,0.32,0.32,0.32
+{'1598'} servicemanager(MB): min(0.32) max(0.32) average(0.32)
+{'1606'} installd(MB): 0.31,0.31,0.31,0.31,0.31,0.31,0.31
+{'1606'} installd(MB): min(0.31) max(0.31) average(0.31)
+{'2029'} smobsd(MB): 0.23,0.23,0.23,0.23,0.23,0.23,0.23
+{'2029'} smobsd(MB): min(0.23) max(0.23) average(0.23)
+{'1618'} hidrawd(MB): 0.20,0.20,0.20,0.20,0.20,0.20,0.20
+{'1618'} hidrawd(MB): min(0.2) max(0.2) average(0.2)
+{'28302'} grep(MB): 0.00,0.00
+{'28302'} grep(MB): min(0.0) max(0.0) average(0.0)

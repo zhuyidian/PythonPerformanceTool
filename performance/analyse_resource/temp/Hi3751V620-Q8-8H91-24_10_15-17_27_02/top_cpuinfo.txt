@@ -1,0 +1,625 @@
+Using fallback suid method
+[H[JMem: 1387172K used, 493616K free, 0K shrd, 4926008K buff, 0K cached
+CPU: 29.5% usr 20.4% sys  0.0% nic 50.0% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 11.12 10.13 7.27 8/1127 17470
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 2682  1620 1000     S <  1750m 95.0   1 24.9 com.tianci.movieplatform
+ 1600     1 1000     S <   154m  8.3   2  6.8 /system/bin/surfaceflinger
+17467  3555 2000     R <   2120  0.1   2  6.8 busybox top -n 1
+ 1605     1 1013     S     224m 12.1   2  2.2 /system/bin/mediaserver
+ 1595     1 1036     S    37424  1.9   2  2.2 /system/bin/logd
+ 1076     2 0        DW       0  0.0   0  2.2 [HI_VPSS_Process]
+    3     2 0        SW       0  0.0   0  2.2 [ksoftirqd/0]
+ 2235  1619 1000     S <  1764m 95.8   2  0.0 system_server
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+ 2472  1619 10007    S    1665m 90.4   3  0.0 com.android.systemui
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   1  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   2  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+ 1619     1 0        S    1628m 88.4   3  0.0 zygote64
+ 5501  5499 2000     S <  1507m 81.8   1  0.0 app_process / com.wetest.uia2.Main
+ 4455  1620 1000     S    1358m 73.7   2  0.0 com.skyworth.angel.voice
+ 5093  1620 1000     S    1351m 73.3   2  0.0 com.tianci.de
+ 2544  1620 1000     S    1293m 70.2   2  0.0 com.tianci.system
+Using fallback suid method
+[H[JMem: 1387012K used, 493776K free, 0K shrd, 4586048K buff, 0K cached
+CPU: 28.5% usr 19.0% sys  0.0% nic 52.3% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 11.11 10.14 7.29 3/1126 17516
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 2682  1620 1000     S <  1750m 95.0   0 23.7 com.tianci.movieplatform
+ 1600     1 1000     S <   154m  8.3   1  4.7 /system/bin/surfaceflinger
+ 1595     1 1036     S    37424  1.9   2  4.7 /system/bin/logd
+17514  3555 2000     R <   2120  0.1   2  2.3 busybox top -n 1
+15126     2 0        SW       0  0.0   0  2.3 [kworker/u8:3]
+ 2235  1619 1000     S <  1764m 95.8   2  0.0 system_server
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+ 2472  1619 10007    S    1665m 90.4   3  0.0 com.android.systemui
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   1  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   2  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+ 1619     1 0        S    1628m 88.4   3  0.0 zygote64
+ 5501  5499 2000     S <  1507m 81.8   1  0.0 app_process / com.wetest.uia2.Main
+ 4455  1620 1000     S    1358m 73.7   2  0.0 com.skyworth.angel.voice
+ 5093  1620 1000     S    1351m 73.3   2  0.0 com.tianci.de
+ 2544  1620 1000     S    1293m 70.2   2  0.0 com.tianci.system
+ 4686  1620 1000     S    1268m 68.8   3  0.0 com.skyworth.setting
+ 2975  1620 10019    S    1256m 68.2   1  0.0 com.coocaa.os.ccosservice
+Using fallback suid method
+[H[JMem: 1397012K used, 483776K free, 0K shrd, 7486040K buff, 0K cached
+CPU: 56.8% usr 31.8% sys  0.0% nic 11.3% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 11.11 10.14 7.29 5/1138 17562
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 2235  1619 1000     S <  1764m 95.8   1 22.6 system_server
+ 2682  1620 1000     S <  1750m 95.0   3 20.4 com.tianci.movieplatform
+17544  1638 0        R    1462m 79.4   1 18.1 app_process /system/bin com.androi
+ 1600     1 1000     S <   154m  8.3   2  6.8 /system/bin/surfaceflinger
+ 1595     1 1036     S    37424  1.9   2  6.8 /system/bin/logd
+ 5093  1620 1000     S    1351m 73.3   3  2.2 com.tianci.de
+ 1605     1 1013     S     224m 12.1   3  2.2 /system/bin/mediaserver
+ 1613     1 0        S    71600  3.8   2  2.2 /system/bin/tvserver
+17561  3555 2000     R <   2120  0.1   2  2.2 busybox top -n 1
+ 1076     2 0        DW       0  0.0   0  2.2 [HI_VPSS_Process]
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+ 2472  1619 10007    S    1665m 90.4   3  0.0 com.android.systemui
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   1  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   2  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+ 1619     1 0        S    1628m 88.4   3  0.0 zygote64
+ 5501  5499 2000     S <  1507m 81.8   1  0.0 app_process / com.wetest.uia2.Main
+ 4455  1620 1000     S    1358m 73.7   3  0.0 com.skyworth.angel.voice
+Using fallback suid method
+[H[JMem: 1514400K used, 366388K free, 0K shrd, 5171840K buff, 0K cached
+CPU: 78.2% usr 17.3% sys  0.0% nic  2.1% idle  2.1% io  0.0% irq  0.0% sirq
+Load average: 12.15 10.37 7.38 11/1228 17765
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+17584  1620 1000     R    1307m 70.9   0 36.8 com.coocaa.aigc.home
+17641  1620 10023    S    1227m 66.6   0 26.0 com.tianci.user
+ 1595     1 1036     S    37424  1.9   2 13.0 /system/bin/logd
+ 2235  1619 1000     S <  1772m 96.2   1  2.1 system_server
+ 2682  1620 1000     S <  1667m 90.5   1  2.1 com.tianci.movieplatform
+ 5093  1620 1000     S    1351m 73.3   3  2.1 com.tianci.de
+ 3555     1 2000     S <  20268  1.0   0  2.1 /sbin/adbd --root_seclabel=u:r:su:
+ 1830     1 0        S <   9932  0.5   2  2.1 /system/bin/logcat -v threadtime -
+17754  3555 2000     R <   2120  0.1   2  2.1 busybox top -n 1
+  914     2 0        SW       0  0.0   0  2.1 [mmcqd/0]
+ 1881     2 0        DW       0  0.0   1  2.1 [VdecKernelThrea]
+17566  1619 10015    S    1671m 90.7   1  0.0 com.coocaa.sysreport
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+ 2472  1619 10007    S    1666m 90.5   3  0.0 com.android.systemui
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   3  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   0  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+ 1619     1 0        S    1628m 88.4   2  0.0 zygote64
+Using fallback suid method
+[H[JMem: 1590088K used, 290700K free, 0K shrd, 3627608K buff, 0K cached
+CPU: 72.4% usr 25.8% sys  0.0% nic  0.0% idle  0.0% io  0.0% irq  1.7% sirq
+Load average: 12.15 10.37 7.38 11/1260 17861
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+17584  1620 1000     R    1393m 75.6   2 41.2 com.coocaa.aigc.home
+ 2235  1619 1000     S <  1772m 96.2   1 29.2 system_server
+ 1595     1 1036     S    37424  1.9   2  6.8 /system/bin/logd
+ 2682  1620 1000     R <  1667m 90.5   1  1.7 com.tianci.movieplatform
+ 4455  1620 1000     S    1358m 73.7   0  1.7 com.skyworth.angel.voice
+ 5093  1620 1000     S    1351m 73.3   3  1.7 com.tianci.de
+ 2544  1620 1000     S    1293m 70.2   2  1.7 com.tianci.system
+ 1613     1 0        S    71600  3.8   2  1.7 /system/bin/tvserver
+ 1601     1 0        S    23860  1.2   2  1.7 /system/bin/netd
+ 1830     1 0        S <   9932  0.5   2  1.7 /system/bin/logcat -v threadtime -
+17851  3555 2000     R <   2120  0.1   0  1.7 busybox top -n 1
+  914     2 0        SW       0  0.0   2  1.7 [mmcqd/0]
+17566  1619 10015    S    1670m 90.6   1  0.0 com.coocaa.sysreport
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+ 2472  1619 10007    S    1666m 90.5   3  0.0 com.android.systemui
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   2  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   0  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+Using fallback suid method
+[H[JMem: 1585232K used, 295556K free, 0K shrd, 4029016K buff, 0K cached
+CPU: 86.6% usr  6.6% sys  0.0% nic  6.6% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 11.97 10.37 7.40 6/1266 17919
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+17584  1620 1000     S    1448m 78.6   2 71.0 com.coocaa.aigc.home
+ 1595     1 1036     S    37424  1.9   2 11.0 /system/bin/logd
+ 2682  1620 1000     S <  1667m 90.5   1  2.2 com.tianci.movieplatform
+ 5093  1620 1000     S    1351m 73.3   3  2.2 com.tianci.de
+17918  3555 2000     R <   2120  0.1   3  2.2 busybox top -n 1
+ 2235  1619 1000     S <  1764m 95.8   0  0.0 system_server
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+17566  1619 10015    S    1669m 90.6   1  0.0 com.coocaa.sysreport
+ 2472  1619 10007    S    1666m 90.5   3  0.0 com.android.systemui
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   2  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   0  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+ 1619     1 0        S    1628m 88.4   2  0.0 zygote64
+ 5501  5499 2000     S <  1507m 81.8   1  0.0 app_process / com.wetest.uia2.Main
+ 4455  1620 1000     S    1358m 73.7   0  0.0 com.skyworth.angel.voice
+ 2544  1620 1000     S    1293m 70.2   2  0.0 com.tianci.system
+ 4686  1620 1000     S    1268m 68.8   3  0.0 com.skyworth.setting
+ 2975  1620 10019    S    1257m 68.2   1  0.0 com.coocaa.os.ccosservice
+Using fallback suid method
+[H[JMem: 1591852K used, 288936K free, 0K shrd, 9828936K buff, 0K cached
+CPU: 80.0% usr 15.5% sys  0.0% nic  4.4% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 11.97 10.37 7.40 7/1263 17966
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+17584  1620 1000     S    1449m 78.6   2 59.6 com.coocaa.aigc.home
+ 1595     1 1036     S    37424  1.9   2 13.9 /system/bin/logd
+ 1600     1 1000     S <   127m  6.9   1  5.9 /system/bin/surfaceflinger
+ 5501  5499 2000     S <  1507m 81.8   2  3.9 app_process / com.wetest.uia2.Main
+ 2235  1619 1000     S <  1764m 95.8   0  1.9 system_server
+ 2682  1620 1000     S <  1667m 90.5   3  1.9 com.tianci.movieplatform
+ 5093  1620 1000     S    1351m 73.3   3  1.9 com.tianci.de
+ 1622     1 0        S    22460  1.1   1  1.9 /system/bin/android_ir_user
+ 1830     1 0        S <   9932  0.5   2  1.9 /system/bin/logcat -v threadtime -
+17965  3555 2000     R <   2120  0.1   3  1.9 busybox top -n 1
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+17566  1619 10015    S    1669m 90.6   3  0.0 com.coocaa.sysreport
+ 2472  1619 10007    S    1666m 90.5   3  0.0 com.android.systemui
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   2  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   0  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+ 1619     1 0        S    1628m 88.4   2  0.0 zygote64
+ 4455  1620 1000     S    1358m 73.7   0  0.0 com.skyworth.angel.voice
+Using fallback suid method
+[H[JMem: 1606796K used, 273992K free, 0K shrd, 6838888K buff, 0K cached
+CPU: 72.7% usr 25.0% sys  0.0% nic  2.2% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 11.90 10.38 7.42 9/1271 18020
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+17584  1620 1000     D    1467m 79.6   2 52.1 com.coocaa.aigc.home
+ 2235  1619 1000     S <  1764m 95.8   1 27.2 system_server
+ 1595     1 1036     S    37424  1.9   2  9.0 /system/bin/logd
+ 5093  1620 1000     S    1351m 73.3   3  2.2 com.tianci.de
+ 1600     1 1000     S <   127m  6.9   0  2.2 /system/bin/surfaceflinger
+ 1613     1 0        S    71600  3.8   2  2.2 /system/bin/tvserver
+18015  3555 2000     R <   2120  0.1   2  2.2 busybox top -n 1
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+17566  1619 10015    S    1669m 90.6   3  0.0 com.coocaa.sysreport
+ 2472  1619 10007    S    1666m 90.5   3  0.0 com.android.systemui
+ 2682  1620 1000     S <  1666m 90.4   2  0.0 com.tianci.movieplatform
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   2  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   0  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+ 1619     1 0        S    1628m 88.4   2  0.0 zygote64
+ 5501  5499 2000     S <  1507m 81.8   2  0.0 app_process / com.wetest.uia2.Main
+ 4455  1620 1000     S    1358m 73.7   0  0.0 com.skyworth.angel.voice
+ 2544  1620 1000     S    1293m 70.2   2  0.0 com.tianci.system
+Using fallback suid method
+[H[JMem: 1622356K used, 258432K free, 0K shrd, 6167112K buff, 0K cached
+CPU: 42.8% usr 14.2% sys  0.0% nic 40.4% idle  2.3% io  0.0% irq  0.0% sirq
+Load average: 11.90 10.38 7.42 3/1264 18072
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+17584  1620 1000     S    1481m 80.4   2 23.7 com.coocaa.aigc.home
+ 1595     1 1036     S    37424  1.9   2 11.8 /system/bin/logd
+ 2235  1619 1000     S <  1764m 95.8   3  2.3 system_server
+17566  1619 10015    S    1669m 90.6   0  2.3 com.coocaa.sysreport
+ 2682  1620 1000     S <  1666m 90.4   2  2.3 com.tianci.movieplatform
+ 4455  1620 1000     S    1358m 73.7   0  2.3 com.skyworth.angel.voice
+ 5093  1620 1000     S    1351m 73.3   3  2.3 com.tianci.de
+ 1600     1 1000     S <   127m  6.9   0  2.3 /system/bin/surfaceflinger
+18067  3555 2000     R <   2120  0.1   1  2.3 busybox top -n 1
+    7     2 0        SW       0  0.0   0  2.3 [rcu_sched]
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+ 2472  1619 10007    S    1666m 90.5   3  0.0 com.android.systemui
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   2  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   0  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+ 1619     1 0        S    1628m 88.4   2  0.0 zygote64
+ 5501  5499 2000     S <  1507m 81.8   2  0.0 app_process / com.wetest.uia2.Main
+ 2544  1620 1000     S    1293m 70.2   2  0.0 com.tianci.system
+Using fallback suid method
+[H[JMem: 1616340K used, 264448K free, 0K shrd, 5544536K buff, 0K cached
+CPU: 34.0% usr 22.7% sys  0.0% nic 43.1% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 11.90 10.40 7.44 6/1265 18100
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 2235  1619 1000     S <  1764m 95.8   0 20.8 system_server
+17584  1620 1000     S    1480m 80.3   0 17.0 com.coocaa.aigc.home
+ 2682  1620 1000     S <  1664m 90.3   1  1.8 com.tianci.movieplatform
+ 5093  1620 1000     S    1351m 73.3   3  1.8 com.tianci.de
+ 1600     1 1000     S <   127m  6.9   2  1.8 /system/bin/surfaceflinger
+ 1613     1 0        S    71600  3.8   2  1.8 /system/bin/tvserver
+18098  3555 2000     R <   2120  0.1   1  1.8 busybox top -n 1
+ 1076     2 0        DW       0  0.0   0  1.8 [HI_VPSS_Process]
+    7     2 0        SW       0  0.0   1  1.8 [rcu_sched]
+  975     2 0        DW       0  0.0   2  1.8 [HDMIRX main tas]
+ 1881     2 0        DW       0  0.0   2  1.8 [VdecKernelThrea]
+13542     2 0        SW       0  0.0   3  1.8 [kworker/3:1]
+17566  1619 10015    S    1670m 90.6   3  0.0 com.coocaa.sysreport
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+ 2472  1619 10007    S    1666m 90.5   3  0.0 com.android.systemui
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   2  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   0  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+Using fallback suid method
+[H[JMem: 1617128K used, 263660K free, 0K shrd, 6580792K buff, 0K cached
+CPU: 19.0% usr  7.1% sys  0.0% nic 73.8% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 11.90 10.40 7.44 3/1262 18152
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+17584  1620 1000     S    1489m 80.8   2 16.1 com.coocaa.aigc.home
+ 1605     1 1013     S     173m  9.4   3  4.0 /system/bin/mediaserver
+ 5093  1620 1000     S    1351m 73.3   3  2.0 com.tianci.de
+ 1613     1 0        S    71600  3.8   2  2.0 /system/bin/tvserver
+18150  3555 2000     R <   2120  0.1   1  2.0 busybox top -n 1
+ 2235  1619 1000     S <  1764m 95.8   1  0.0 system_server
+17566  1619 10015    S    1670m 90.6   1  0.0 com.coocaa.sysreport
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+ 2472  1619 10007    S    1666m 90.5   3  0.0 com.android.systemui
+ 2682  1620 1000     S <  1664m 90.3   0  0.0 com.tianci.movieplatform
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   2  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   0  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+ 1619     1 0        S    1628m 88.4   2  0.0 zygote64
+ 5501  5499 2000     S <  1507m 81.8   2  0.0 app_process / com.wetest.uia2.Main
+ 4455  1620 1000     S    1358m 73.7   0  0.0 com.skyworth.angel.voice
+ 2544  1620 1000     S    1293m 70.2   2  0.0 com.tianci.system
+ 4686  1620 1000     S    1268m 68.8   3  0.0 com.skyworth.setting
+Using fallback suid method
+[H[JMem: 1617036K used, 263752K free, 0K shrd, 3500632K buff, 0K cached
+CPU: 36.3% usr 20.4% sys  0.0% nic 43.1% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 11.75 10.40 7.46 5/1265 18178
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 2235  1619 1000     S <  1764m 95.8   3 24.9 system_server
+17584  1620 1000     S    1477m 80.2   1 20.4 com.coocaa.aigc.home
+ 2682  1620 1000     S <  1664m 90.3   2  2.2 com.tianci.movieplatform
+ 1613     1 0        S    71600  3.8   2  2.2 /system/bin/tvserver
+    1     0 0        S <   9132  0.4   1  2.2 /init
+18175  1642 0        R     2124  0.1   1  2.2 busybox top -n 3 -d 2
+18176  3555 2000     R <   2120  0.1   2  2.2 busybox top -n 1
+17566  1619 10015    S    1670m 90.6   0  0.0 com.coocaa.sysreport
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+ 2472  1619 10007    S    1666m 90.5   3  0.0 com.android.systemui
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   2  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   0  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+ 1619     1 0        S    1628m 88.4   2  0.0 zygote64
+ 5501  5499 2000     S <  1507m 81.8   2  0.0 app_process / com.wetest.uia2.Main
+ 4455  1620 1000     S    1358m 73.7   0  0.0 com.skyworth.angel.voice
+ 5093  1620 1000     S    1351m 73.3   3  0.0 com.tianci.de
+ 2544  1620 1000     S    1293m 70.2   2  0.0 com.tianci.system
+Using fallback suid method
+[H[JMem: 1616740K used, 264048K free, 0K shrd, 9243192K buff, 0K cached
+CPU: 20.4% usr  9.0% sys  0.0% nic 70.4% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 11.75 10.40 7.46 4/1260 18231
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+17584  1620 1000     S    1477m 80.2   1 22.6 com.coocaa.aigc.home
+ 1605     1 1013     S     173m  9.4   3  2.2 /system/bin/mediaserver
+18229  3555 2000     R <   2120  0.1   2  2.2 busybox top -n 1
+ 2235  1619 1000     S <  1764m 95.8   0  0.0 system_server
+17566  1619 10015    S    1670m 90.6   0  0.0 com.coocaa.sysreport
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+ 2472  1619 10007    S    1666m 90.5   3  0.0 com.android.systemui
+ 2682  1620 1000     S <  1664m 90.3   2  0.0 com.tianci.movieplatform
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   2  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   0  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+ 1619     1 0        S    1628m 88.4   2  0.0 zygote64
+ 5501  5499 2000     S <  1507m 81.8   2  0.0 app_process / com.wetest.uia2.Main
+ 4455  1620 1000     S    1358m 73.7   0  0.0 com.skyworth.angel.voice
+ 5093  1620 1000     S    1351m 73.3   3  0.0 com.tianci.de
+ 2544  1620 1000     S    1293m 70.2   2  0.0 com.tianci.system
+ 4686  1620 1000     S    1268m 68.8   3  0.0 com.skyworth.setting
+ 2975  1620 10019    S    1256m 68.2   1  0.0 com.coocaa.os.ccosservice
+Using fallback suid method
+[H[JMem: 1616860K used, 263928K free, 0K shrd, 9747000K buff, 0K cached
+CPU: 28.5% usr 14.2% sys  0.0% nic 57.1% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 11.75 10.40 7.46 2/1261 18261
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+17584  1620 1000     S    1476m 80.1   3 26.1 com.coocaa.aigc.home
+ 1600     1 1000     S <   127m  6.9   1  2.3 /system/bin/surfaceflinger
+ 1613     1 0        S    71600  3.8   2  2.3 /system/bin/tvserver
+ 2235  1619 1000     S <  1764m 95.8   3  0.0 system_server
+17566  1619 10015    S    1670m 90.6   3  0.0 com.coocaa.sysreport
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+ 2472  1619 10007    S    1666m 90.5   3  0.0 com.android.systemui
+ 2682  1620 1000     S <  1664m 90.3   1  0.0 com.tianci.movieplatform
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   2  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   0  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+ 1619     1 0        S    1628m 88.4   2  0.0 zygote64
+ 5501  5499 2000     S <  1507m 81.8   2  0.0 app_process / com.wetest.uia2.Main
+ 4455  1620 1000     S    1358m 73.7   0  0.0 com.skyworth.angel.voice
+ 5093  1620 1000     S    1351m 73.3   3  0.0 com.tianci.de
+ 2544  1620 1000     S    1293m 70.2   2  0.0 com.tianci.system
+ 4686  1620 1000     S    1268m 68.8   3  0.0 com.skyworth.setting
+ 2975  1620 10019    S    1256m 68.2   1  0.0 com.coocaa.os.ccosservice
+Using fallback suid method
+[H[JMem: 1617400K used, 263388K free, 0K shrd, 2370136K buff, 0K cached
+CPU: 38.0% usr 19.0% sys  0.0% nic 42.8% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 11.53 10.37 7.46 4/1264 18300
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 2235  1619 1000     S <  1764m 95.8   3 26.1 system_server
+17584  1620 1000     S    1479m 80.3   0 21.3 com.coocaa.aigc.home
+ 2682  1620 1000     R <  1664m 90.3   3  2.3 com.tianci.movieplatform
+ 5093  1620 1000     S    1351m 73.3   3  2.3 com.tianci.de
+ 1595     1 1036     S    37424  1.9   2  2.3 /system/bin/logd
+18299  3555 2000     R <   2120  0.1   1  2.3 busybox top -n 1
+17566  1619 10015    S    1670m 90.6   3  0.0 com.coocaa.sysreport
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+ 2472  1619 10007    S    1666m 90.5   3  0.0 com.android.systemui
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   2  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   0  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+ 1619     1 0        S    1628m 88.4   2  0.0 zygote64
+ 5501  5499 2000     S <  1507m 81.8   2  0.0 app_process / com.wetest.uia2.Main
+ 4455  1620 1000     S    1358m 73.7   0  0.0 com.skyworth.angel.voice
+ 2544  1620 1000     S    1293m 70.2   2  0.0 com.tianci.system
+ 4686  1620 1000     S    1268m 68.8   3  0.0 com.skyworth.setting
+ 2975  1620 10019    S    1256m 68.2   1  0.0 com.coocaa.os.ccosservice
+Using fallback suid method
+[H[JMem: 1617460K used, 263328K free, 0K shrd, 10275384K buff, 0K cached
+CPU: 25.0% usr 13.6% sys  0.0% nic 54.5% idle  4.5% io  0.0% irq  2.2% sirq
+Load average: 11.53 10.37 7.46 5/1256 18352
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+17584  1620 1000     S    1482m 80.5   0 20.4 com.coocaa.aigc.home
+17566  1619 10015    S    1670m 90.6   2  2.2 com.coocaa.sysreport
+ 2682  1620 1000     S <  1664m 90.3   0  2.2 com.tianci.movieplatform
+ 5093  1620 1000     S    1351m 73.3   3  2.2 com.tianci.de
+ 1595     1 1036     S    37424  1.9   2  2.2 /system/bin/logd
+  914     2 0        SW       0  0.0   0  2.2 [mmcqd/0]
+ 2235  1619 1000     S <  1764m 95.8   3  0.0 system_server
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+ 2472  1619 10007    S    1666m 90.5   3  0.0 com.android.systemui
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   2  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   0  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+ 1619     1 0        S    1628m 88.4   2  0.0 zygote64
+ 5501  5499 2000     S <  1507m 81.8   2  0.0 app_process / com.wetest.uia2.Main
+ 4455  1620 1000     S    1358m 73.7   0  0.0 com.skyworth.angel.voice
+ 2544  1620 1000     S    1293m 70.2   2  0.0 com.tianci.system
+ 4686  1620 1000     S    1268m 68.8   3  0.0 com.skyworth.setting
+ 2975  1620 10019    S    1256m 68.2   1  0.0 com.coocaa.os.ccosservice
+Using fallback suid method
+[H[JMem: 1616080K used, 264708K free, 0K shrd, 5179992K buff, 0K cached
+CPU: 38.6% usr 15.9% sys  0.0% nic 45.4% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 11.25 10.33 7.47 6/1255 18378
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 2235  1619 1000     S <  1764m 95.8   1 24.9 system_server
+17584  1620 1000     S    1471m 79.8   0 20.4 com.coocaa.aigc.home
+ 4455  1620 1000     S    1358m 73.7   0  2.2 com.skyworth.angel.voice
+18377  3555 2000     R <   2120  0.1   1  2.2 busybox top -n 1
+17566  1619 10015    S    1670m 90.6   2  0.0 com.coocaa.sysreport
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+ 2472  1619 10007    S    1666m 90.5   3  0.0 com.android.systemui
+ 2682  1620 1000     S <  1664m 90.3   1  0.0 com.tianci.movieplatform
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   2  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   0  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+ 1619     1 0        S    1628m 88.4   2  0.0 zygote64
+ 5501  5499 2000     S <  1507m 81.8   2  0.0 app_process / com.wetest.uia2.Main
+ 5093  1620 1000     S    1351m 73.3   3  0.0 com.tianci.de
+ 2544  1620 1000     S    1293m 70.2   2  0.0 com.tianci.system
+ 4686  1620 1000     S    1268m 68.8   3  0.0 com.skyworth.setting
+ 2975  1620 10019    S    1256m 68.2   1  0.0 com.coocaa.os.ccosservice
+17641  1620 10023    S    1240m 67.3   2  0.0 com.tianci.user
+Using fallback suid method
+[H[JMem: 1615800K used, 264988K free, 0K shrd, 7064120K buff, 0K cached
+CPU: 19.0% usr  9.5% sys  0.0% nic 66.6% idle  2.3% io  0.0% irq  2.3% sirq
+Load average: 11.25 10.33 7.47 3/1252 18429
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+17584  1620 1000     S    1472m 79.9   2 19.8 com.coocaa.aigc.home
+ 2235  1619 1000     S <  1764m 95.8   2  2.2 system_server
+ 1600     1 1000     S <   127m  6.9   1  2.2 /system/bin/surfaceflinger
+18428  3555 2000     R <   2120  0.1   1  2.2 busybox top -n 1
+  914     2 0        SW       0  0.0   0  2.2 [mmcqd/0]
+ 1032     2 0        DW       0  0.0   1  2.2 [ThreadCommipMan]
+17566  1619 10015    S    1670m 90.6   0  0.0 com.coocaa.sysreport
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+ 2472  1619 10007    S    1666m 90.5   3  0.0 com.android.systemui
+ 2682  1620 1000     S <  1664m 90.3   2  0.0 com.tianci.movieplatform
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   2  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   0  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+ 1619     1 0        S    1628m 88.4   2  0.0 zygote64
+ 5501  5499 2000     S <  1507m 81.8   2  0.0 app_process / com.wetest.uia2.Main
+ 4455  1620 1000     S    1358m 73.7   0  0.0 com.skyworth.angel.voice
+ 5093  1620 1000     S    1351m 73.3   3  0.0 com.tianci.de
+ 2544  1620 1000     S    1293m 70.2   2  0.0 com.tianci.system
+Using fallback suid method
+[H[JMem: 1617816K used, 262972K free, 0K shrd, 2828904K buff, 0K cached
+CPU: 34.8% usr 18.6% sys  0.0% nic 46.5% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 11.15 10.33 7.48 5/1256 18456
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 2235  1619 1000     S <  1764m 95.8   0 25.6 system_server
+17584  1620 1000     S    1482m 80.4   2 19.2 com.coocaa.aigc.home
+ 2682  1620 1000     S <  1664m 90.3   3  2.1 com.tianci.movieplatform
+ 5093  1620 1000     S    1351m 73.3   3  2.1 com.tianci.de
+ 1613     1 0        S    71600  3.8   2  2.1 /system/bin/tvserver
+ 1622     1 0        S    22460  1.1   1  2.1 /system/bin/android_ir_user
+17566  1619 10015    S    1670m 90.6   1  0.0 com.coocaa.sysreport
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+ 2472  1619 10007    S    1666m 90.5   3  0.0 com.android.systemui
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   2  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   0  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+ 1619     1 0        S    1628m 88.4   2  0.0 zygote64
+ 5501  5499 2000     S <  1507m 81.8   2  0.0 app_process / com.wetest.uia2.Main
+ 4455  1620 1000     S    1358m 73.7   1  0.0 com.skyworth.angel.voice
+ 2544  1620 1000     S    1293m 70.2   2  0.0 com.tianci.system
+ 4686  1620 1000     S    1268m 68.8   3  0.0 com.skyworth.setting
+ 2975  1620 10019    S    1256m 68.2   1  0.0 com.coocaa.os.ccosservice
+Using fallback suid method
+[H[JMem: 1617504K used, 263284K free, 0K shrd, 4184648K buff, 0K cached
+CPU: 18.6% usr  9.3% sys  0.0% nic 72.0% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 11.15 10.33 7.48 2/1253 18508
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+17584  1620 1000     S    1471m 79.8   2 21.4 com.coocaa.aigc.home
+ 1600     1 1000     S <   127m  6.9   0  2.1 /system/bin/surfaceflinger
+ 1613     1 0        S    71600  3.8   2  2.1 /system/bin/tvserver
+18507  3555 2000     R <   2120  0.1   0  2.1 busybox top -n 1
+ 2235  1619 1000     S <  1764m 95.8   2  0.0 system_server
+17566  1619 10015    S    1670m 90.6   3  0.0 com.coocaa.sysreport
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+ 2472  1619 10007    S    1666m 90.5   3  0.0 com.android.systemui
+ 2682  1620 1000     S <  1664m 90.3   2  0.0 com.tianci.movieplatform
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   2  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   0  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+ 1619     1 0        S    1628m 88.4   2  0.0 zygote64
+ 5501  5499 2000     S <  1507m 81.8   2  0.0 app_process / com.wetest.uia2.Main
+ 4455  1620 1000     S    1358m 73.7   1  0.0 com.skyworth.angel.voice
+ 5093  1620 1000     S    1351m 73.3   3  0.0 com.tianci.de
+ 2544  1620 1000     S    1293m 70.2   2  0.0 com.tianci.system
+ 4686  1620 1000     S    1268m 68.8   3  0.0 com.skyworth.setting
+Using fallback suid method
+[H[JMem: 1618328K used, 262460K free, 0K shrd, 4737624K buff, 0K cached
+CPU: 36.3% usr 20.4% sys  0.0% nic 43.1% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 10.98 10.31 7.49 7/1254 18542
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+17584  1620 1000     S    1474m 80.0   3 22.6 com.coocaa.aigc.home
+ 1613     1 0        S    71600  3.8   2  4.5 /system/bin/tvserver
+ 5093  1620 1000     S    1351m 73.3   0  2.2 com.tianci.de
+ 1600     1 1000     S <   127m  6.9   1  2.2 /system/bin/surfaceflinger
+ 1595     1 1036     S    37424  1.9   2  2.2 /system/bin/logd
+ 3555     1 2000     S <  19244  1.0   0  2.2 /sbin/adbd --root_seclabel=u:r:su:
+ 1757     1 0        S    10092  0.5   0  2.2 sh /system/bin/imi_chmod_permissio
+18531  3555 2000     R <   2120  0.1   2  2.2 busybox top -n 1
+ 1879     2 0        SW       0  0.0   0  2.2 [HI_VFMW_VideoDe]
+ 1881     2 0        DW       0  0.0   0  2.2 [VdecKernelThrea]
+ 2235  1619 1000     S <  1764m 95.8   3  0.0 system_server
+17566  1619 10015    S    1670m 90.6   2  0.0 com.coocaa.sysreport
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+ 2472  1619 10007    S    1666m 90.5   3  0.0 com.android.systemui
+ 2682  1620 1000     S <  1664m 90.3   1  0.0 com.tianci.movieplatform
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   2  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   0  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+Using fallback suid method
+[H[JMem: 1617676K used, 263112K free, 0K shrd, 8698456K buff, 0K cached
+CPU: 37.2% usr 23.2% sys  0.0% nic 39.5% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 10.98 10.31 7.49 4/1256 18595
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 2235  1619 1000     S <  1764m 95.8   0 27.9 system_server
+17584  1620 1000     S    1475m 80.1   3 25.5 com.coocaa.aigc.home
+ 5093  1620 1000     S    1351m 73.3   0  2.3 com.tianci.de
+ 1613     1 0        S    71600  3.8   2  2.3 /system/bin/tvserver
+18593  3555 2000     R <   2120  0.1   0  2.3 busybox top -n 1
+17566  1619 10015    S    1670m 90.6   2  0.0 com.coocaa.sysreport
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+ 2472  1619 10007    S    1666m 90.5   3  0.0 com.android.systemui
+ 2682  1620 1000     S <  1664m 90.3   2  0.0 com.tianci.movieplatform
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   2  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   0  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+ 1619     1 0        S    1628m 88.4   2  0.0 zygote64
+ 5501  5499 2000     S <  1507m 81.8   3  0.0 app_process / com.wetest.uia2.Main
+ 4455  1620 1000     S    1358m 73.7   1  0.0 com.skyworth.angel.voice
+ 2544  1620 1000     S    1293m 70.2   2  0.0 com.tianci.system
+ 4686  1620 1000     S    1268m 68.8   3  0.0 com.skyworth.setting
+ 2975  1620 10019    S    1256m 68.2   1  0.0 com.coocaa.os.ccosservice
+Using fallback suid method
+[H[JMem: 1618216K used, 262572K free, 0K shrd, 5364296K buff, 0K cached
+CPU: 20.4% usr  9.0% sys  0.0% nic 70.4% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 10.90 10.30 7.50 3/1251 18630
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+17584  1620 1000     S    1471m 79.8   0 16.5 com.coocaa.aigc.home
+ 2235  1619 1000     S <  1764m 95.8   1  1.8 system_server
+ 2682  1620 1000     S <  1664m 90.3   2  1.8 com.tianci.movieplatform
+ 5093  1620 1000     S    1351m 73.3   0  1.8 com.tianci.de
+ 1605     1 1013     S     173m  9.4   3  1.8 /system/bin/mediaserver
+ 1600     1 1000     S <   127m  6.9   3  1.8 /system/bin/surfaceflinger
+18629  3555 2000     R <   2120  0.1   1  1.8 busybox top -n 1
+15126     2 0        SW       0  0.0   0  1.8 [kworker/u8:3]
+17566  1619 10015    S    1670m 90.6   1  0.0 com.coocaa.sysreport
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+ 2472  1619 10007    S    1666m 90.5   3  0.0 com.android.systemui
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   2  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   0  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   3  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+ 1619     1 0        S    1628m 88.4   2  0.0 zygote64
+ 5501  5499 2000     S <  1507m 81.8   3  0.0 app_process / com.wetest.uia2.Main
+ 4455  1620 1000     S    1358m 73.7   1  0.0 com.skyworth.angel.voice
+ 2544  1620 1000     S    1293m 70.2   2  0.0 com.tianci.system
+Using fallback suid method
+[H[JMem: 1609504K used, 271284K free, 0K shrd, 2644568K buff, 0K cached
+CPU: 36.3% usr 20.4% sys  0.0% nic 43.1% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 10.90 10.30 7.50 5/1217 18655
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+ 2235  1619 1000     S <  1764m 95.8   2 24.9 system_server
+17584  1620 1000     S    1471m 79.8   1 20.4 com.coocaa.aigc.home
+ 1600     1 1000     S <   127m  6.9   0  4.5 /system/bin/surfaceflinger
+ 1613     1 0        S    71600  3.8   2  2.2 /system/bin/tvserver
+15126     2 0        SW       0  0.0   3  2.2 [kworker/u8:3]
+  820     2 0        SW       0  0.0   1  2.2 [cfinteractive]
+17566  1619 10015    S    1670m 90.6   3  0.0 com.coocaa.sysreport
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+ 2472  1619 10007    S    1666m 90.5   3  0.0 com.android.systemui
+ 2682  1620 1000     S <  1663m 90.3   3  0.0 com.tianci.movieplatform
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   2  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   0  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   1  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+ 1619     1 0        S    1628m 88.4   2  0.0 zygote64
+ 5501  5499 2000     S <  1507m 81.8   3  0.0 app_process / com.wetest.uia2.Main
+ 4455  1620 1000     S    1358m 73.7   1  0.0 com.skyworth.angel.voice
+ 5093  1620 1000     S    1351m 73.3   0  0.0 com.tianci.de
+ 2544  1620 1000     S    1293m 70.2   2  0.0 com.tianci.system
+Using fallback suid method
+[H[JMem: 1609256K used, 271532K free, 0K shrd, 2259528K buff, 0K cached
+CPU: 20.9% usr  6.9% sys  0.0% nic 72.0% idle  0.0% io  0.0% irq  0.0% sirq
+Load average: 10.83 10.30 7.52 3/1215 18709
+[7m  PID  PPID USER     STAT   VSZ %MEM CPU %CPU COMMAND[0m
+17584  1620 1000     S    1477m 80.2   0 18.6 com.coocaa.aigc.home
+ 5093  1620 1000     S    1351m 73.3   2  2.3 com.tianci.de
+ 1600     1 1000     S <   127m  6.9   2  2.3 /system/bin/surfaceflinger
+18708  3555 2000     R <   2120  0.1   1  2.3 busybox top -n 1
+ 1879     2 0        SW       0  0.0   3  2.3 [HI_VFMW_VideoDe]
+ 2235  1619 1000     S <  1764m 95.8   1  0.0 system_server
+17566  1619 10015    S    1670m 90.6   3  0.0 com.coocaa.sysreport
+ 3139  1619 1000     S    1669m 90.6   1  0.0 com.tianci.push
+ 2472  1619 10007    S    1666m 90.5   3  0.0 com.android.systemui
+ 2682  1620 1000     S <  1663m 90.3   0  0.0 com.tianci.movieplatform
+ 2511  1619 10002    S    1639m 89.0   2  0.0 android.process.media
+ 2642  1619 1000     S    1639m 89.0   2  0.0 com.skyworth.android.skyRMService
+ 2592  1619 10003    S    1637m 88.9   0  0.0 com.android.externalstorage
+ 3809  1619 10004    S    1637m 88.9   1  0.0 com.android.managedprovisioning
+ 2781  1619 10001    S    1636m 88.8   1  0.0 com.android.defcontainer
+ 1619     1 0        S    1628m 88.4   2  0.0 zygote64
+ 5501  5499 2000     S <  1507m 81.8   3  0.0 app_process / com.wetest.uia2.Main
+ 4455  1620 1000     S    1358m 73.7   1  0.0 com.skyworth.angel.voice
+ 2544  1620 1000     S    1293m 70.2   2  0.0 com.tianci.system
+ 4686  1620 1000     S    1268m 68.8   3  0.0 com.skyworth.setting

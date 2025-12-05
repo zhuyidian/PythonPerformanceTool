@@ -1,0 +1,108 @@
+usr: 24.4,31.1,27.2,27.9,54.3,43.4,12.1,25.0,10.0,25.5,28.5,25.0,29.1,28.5,13.3,23.0,26.1,13.3,23.8,21.4,13.9,23.8,13.6,22.2,21.4,19.0
+usr: min(10.0) max(54.3) average(24.11)
+sys: 15.5,20.0,22.7,13.9,28.2,21.7,9.7,15.9,10.0,16.2,9.5,22.7,20.8,11.9,11.1,10.2,14.2,15.5,11.9,11.9,16.2,19.0,15.9,20.0,16.6,9.5
+sys: min(9.5) max(28.2) average(15.8)
+nic: 0.0,0.0,0.0,0.0,4.3,2.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+nic: min(0.0) max(4.3) average(0.33)
+idle: 55.5,44.4,45.4,53.4,8.6,15.2,65.8,47.7,70.0,48.8,50.0,40.9,39.5,47.6,66.6,56.4,50.0,55.5,52.3,54.7,58.1,42.8,59.0,46.6,50.0,54.7
+idle: min(8.6) max(70.0) average(49.21)
+io: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3
+io: min(0.0) max(2.3) average(0.09)
+irq: 2.2,2.2,2.2,2.3,2.1,6.5,7.3,6.8,5.0,4.6,7.1,6.8,6.2,7.1,4.4,5.1,4.7,6.6,7.1,7.1,6.9,7.1,6.8,6.6,7.1,4.7
+irq: min(2.1) max(7.3) average(5.48)
+sirq: 2.2,2.2,2.2,2.3,2.1,10.8,4.8,4.5,5.0,4.6,4.7,4.5,4.1,4.7,4.4,5.1,4.7,6.6,4.7,4.7,4.6,7.1,4.5,4.4,4.7,9.5
+sirq: min(2.1) max(10.8) average(4.76)
+{'1033'} system_server: 11.0,22.1,0.0,23.2,21.6,6.5,0.0,22.6,0.0,20.9,21.3,0.0,18.7,23.7,0.0,20.6,23.7,0.0,22.6,19.0,11.6,19.0,6.8,19.9,21.3,2.3
+{'1033'} system_server: min(0.0) max(23.7) average(13.78)
+{'10112'} com.coocaa.aigc.home: 6.6,8.8,4.5,4.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'10112'} com.coocaa.aigc.home: min(0.0) max(8.8) average(0.94)
+{'497'} /system/bin/surfaceflinger: 4.4,4.4,2.2,4.6,2.1,6.5,4.8,2.5,2.3,4.5,2.0,2.3,4.7,2.2,2.2,4.7
+{'497'} /system/bin/surfaceflinger: min(2.0) max(6.5) average(3.53)
+{'309', '446', '435', '451'} /vendor/bin/hw/vendor.skyworth.har: 2.2,2.2,2.2,2.2,2.1,2.1,2.1,2.0,2.2,2.3,2.3,2.3,4.5
+{'309', '446', '435', '451'} /vendor/bin/hw/vendor.skyworth.har: min(2.0) max(4.5) average(2.36)
+{'382'} /vendor/bin/hw/android.hardware.au: 2.2,4.4,4.5,4.6,4.3,4.3,4.8,2.2,5.0,4.6,4.7,4.5,4.1,4.7,4.4,4.5,4.7,4.4,2.2,4.7,4.6,2.3,4.5,4.4,4.7,4.7
+{'382'} /vendor/bin/hw/android.hardware.au: min(2.2) max(5.0) average(4.19)
+{'240'} /system/bin/logd: 2.2
+{'240'} /system/bin/logd: min(2.2) max(2.2) average(2.2)
+{'10364', '10843', '10589', '10414', '10709', '10655', '10434', '10775', '10826', '10502', '10638', '10880', '10626', '10687', '10868', '10397', '10551', '10675', '10573', '10724', '10811'} 1-ntopbusybox: 2.2,4.4,2.2,2.3,4.3,2.1,2.4,2.2,2.3,2.3,2.2,2.0,2.3,2.2,2.2,2.2,4.6,2.3,2.2,2.2,2.3
+{'10364', '10843', '10589', '10414', '10709', '10655', '10434', '10775', '10826', '10502', '10638', '10880', '10626', '10687', '10868', '10397', '10551', '10675', '10573', '10724', '10811'} 1-ntopbusybox: min(2.0) max(4.6) average(2.54)
+{'649'} [hdmi_task]: 2.2,2.2,4.5,2.3,2.1,2.3,2.3,2.2,2.2,2.3,2.3,2.3,2.3
+{'649'} [hdmi_task]: min(2.1) max(4.5) average(2.42)
+{'24'} [ksoftirqd/1]: 2.2,2.3
+{'24'} [ksoftirqd/1]: min(2.2) max(2.3) average(2.25)
+{'153'} [hdmi_detect_tsk]: 2.2
+{'153'} [hdmi_detect_tsk]: min(2.2) max(2.2) average(2.2)
+{'660'} [AtvThread0]: 2.2
+{'660'} [AtvThread0]: min(2.2) max(2.2) average(2.2)
+{'5476'} com.tianci.movieplatform: 0.0,0.0,0.0,0.0,49.8,36.8,14.6,6.8,10.0,6.9,4.7,4.5,6.2,7.1,6.6,6.8,4.7,13.3,4.5,4.7,6.9,14.2,9.0,4.4,4.7,7.1
+{'5476'} com.tianci.movieplatform: min(0.0) max(49.8) average(9.01)
+{'1619'} com.tianci.system: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'1619'} com.tianci.system: min(0.0) max(0.0) average(0.0)
+{'1587'} com.skyworth.angel.voice: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'1587'} com.skyworth.angel.voice: min(0.0) max(0.0) average(0.0)
+{'10136'} com.coocaa.aigc.home:splash: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'10136'} com.coocaa.aigc.home:splash: min(0.0) max(0.0) average(0.0)
+{'3053'} com.sogou.inputmethod.iot: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'3053'} com.sogou.inputmethod.iot: min(0.0) max(0.0) average(0.0)
+{'2894'} com.tianci.appstore: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'2894'} com.tianci.appstore: min(0.0) max(0.0) average(0.0)
+{'4793'} com.coocaa.screensaver: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'4793'} com.coocaa.screensaver: min(0.0) max(0.0) average(0.0)
+{'399'} /vendor/bin/hw/android.hardware.gr: 2.2,2.2,2.5,2.3,2.2
+{'399'} /vendor/bin/hw/android.hardware.gr: min(2.2) max(2.5) average(2.28)
+{'292'} [kworker/u9:1-ma]: 2.2
+{'292'} [kworker/u9:1-ma]: min(2.2) max(2.2) average(2.2)
+{'2530'} com.xiaodianshi.tv.yst:stats: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'2530'} com.xiaodianshi.tv.yst:stats: min(0.0) max(0.0) average(0.0)
+{'3844'} com.skyworth.setting: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'3844'} com.skyworth.setting: min(0.0) max(0.0) average(0.0)
+{'1880'} com.tianci.de: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'1880'} com.tianci.de: min(0.0) max(2.2) average(0.09)
+{'1682'} com.coocaa.os.service: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.1
+{'1682'} com.coocaa.os.service: min(0.0) max(7.1) average(0.34)
+{'229'} /system/bin/ueventd: 4.5
+{'229'} /system/bin/ueventd: min(4.5) max(4.5) average(4.5)
+{'2802'} com.loostone.tuning: 2.2
+{'2802'} com.loostone.tuning: min(2.2) max(2.2) average(2.2)
+{'3959'} --/apex/com.android.adbd/bin/adbd: 2.2,2.3
+{'3959'} --/apex/com.android.adbd/bin/adbd: min(2.2) max(2.3) average(2.25)
+{'8057'} com.tianci.de:core: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'8057'} com.tianci.de:core: min(0.0) max(0.0) average(0.0)
+{'7835'} com.tianci.user: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'7835'} com.tianci.user: min(0.0) max(0.0) average(0.0)
+{'2370'} com.skyworth.quickcenter: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'2370'} com.skyworth.quickcenter: min(0.0) max(0.0) average(0.0)
+{'401', '422'} /vendor/bin/hw/android.hardware.me: 2.1,2.2,2.3,4.7,2.3,2.0,2.2,4.5,2.3,2.3,2.2,4.5,2.3,2.3,2.2,2.3,2.3
+{'401', '422'} /vendor/bin/hw/android.hardware.me: min(2.0) max(4.7) average(2.65)
+{'308'} /vendor/bin/rtkd: 2.1,2.3
+{'308'} /vendor/bin/rtkd: min(2.1) max(2.3) average(2.2)
+{'653'} [infoframe_task]: 2.1
+{'653'} [infoframe_task]: min(2.1) max(2.1) average(2.1)
+{'433'} /vendor/bin/hw/vendor.realtek.tv@1: 2.4
+{'433'} /vendor/bin/hw/vendor.realtek.tv@1: min(2.4) max(2.4) average(2.4)
+{'527'} /system/bin/socketsys: 2.4,2.2
+{'527'} /system/bin/socketsys: min(2.2) max(2.4) average(2.3)
+{'4188'} com.coocaa.simple.launcher: 0.0,0.0,0.0,0.0,0.0
+{'4188'} com.coocaa.simple.launcher: min(0.0) max(0.0) average(0.0)
+{'164'} film_mode_][init: 2.0
+{'164'} film_mode_][init: min(2.0) max(2.0) average(2.0)
+{'166'} [film_mode_detec]: 2.3,2.2
+{'166'} [film_mode_detec]: min(2.2) max(2.3) average(2.25)
+{'474'} /system/bin/audioserver: 2.2,2.2,2.2
+{'474'} /system/bin/audioserver: min(2.2) max(2.2) average(2.2)
+{'12'} [ksoftirqd/0]: 2.3
+{'12'} [ksoftirqd/0]: min(2.3) max(2.3) average(2.3)
+{'4674'} com.github.uiautomator: 0.0
+{'4674'} com.github.uiautomator: min(0.0) max(0.0) average(0.0)
+{'30'} [ksoftirqd/2]: 2.2
+{'30'} [ksoftirqd/2]: min(2.2) max(2.2) average(2.2)
+{'561'} /vendor/bin/audioserver_sky: 2.3,2.3,2.3
+{'561'} /vendor/bin/audioserver_sky: min(2.3) max(2.3) average(2.3)
+{'366'} /system/bin/netd: 2.3
+{'366'} /system/bin/netd: min(2.3) max(2.3) average(2.3)
+{'626'} /vendor/bin/tvservice: 2.3
+{'626'} /vendor/bin/tvservice: min(2.3) max(2.3) average(2.3)
+{'4043', '4041'} /data/local/tmp/.studio/process-tr: 2.3,2.3
+{'4043', '4041'} /data/local/tmp/.studio/process-tr: min(2.3) max(2.3) average(2.3)
+{'36'} [ksoftirqd/3]: 2.3
+{'36'} [ksoftirqd/3]: min(2.3) max(2.3) average(2.3)

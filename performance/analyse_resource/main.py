@@ -8,12 +8,12 @@ from analyse_resource.process_manager import ProcessManager
 from utils.adb_utils import check_adb_device
 from utils.file_utils import create_dir
 from ui.progress_window import show
-from ui.tip import show as tip_show
 from utils.device_utils import get_device_chip_for_adb, get_device_type_for_adb, get_device_model_for_adb
 import time
 import os
 from multiprocessing import Process, Queue
 
+from utils.adb_utils import check_adb_device
 
 analyse_dir = ''  # 性能分析缓存一级目录
 device_filename = 'device.txt'  # 平台资源文件

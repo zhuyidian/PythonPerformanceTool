@@ -10,7 +10,7 @@ class ProgressWindow(QWidget):
     def __init__(self,total_time):
         super().__init__()
         self.total_time = total_time
-        self.step_value = (1 / (100 / total_time)) * 1000
+        self.step_value = int((1 / (100 / total_time)) * 1000)
         print(f'total_time={self.total_time},step_value={self.step_value}')
         self.initUI()
 

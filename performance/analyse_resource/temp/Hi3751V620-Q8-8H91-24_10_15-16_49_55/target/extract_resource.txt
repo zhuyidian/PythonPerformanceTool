@@ -1,0 +1,4 @@
+{'22425'} com.tianci.movieplatform: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3,0.0,0.0,0.0,0.0
+{'22425'} com.tianci.movieplatform: min(0.0) max(2.3) average(0.19)
+{'22425'} com.tianci.movieplatform(MB): 201.83,201.85,201.90,201.96,202.01,202.03,202.10,202.18
+{'22425'} com.tianci.movieplatform(MB): min(201.83) max(202.18) average(201.98)

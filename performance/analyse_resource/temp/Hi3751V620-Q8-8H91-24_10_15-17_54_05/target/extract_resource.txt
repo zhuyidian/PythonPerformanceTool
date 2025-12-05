@@ -1,0 +1,4 @@
+{'892'} com.tianci.movieplatform: 36.3,9.2,27.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'892'} com.tianci.movieplatform: min(0.0) max(36.3) average(7.31)
+{'2682', '892'} com.tianci.movieplatform(MB): 0.00,89.09,90.52,90.24,90.18,90.11,90.08
+{'2682', '892'} com.tianci.movieplatform(MB): min(0.0) max(90.52) average(77.17)

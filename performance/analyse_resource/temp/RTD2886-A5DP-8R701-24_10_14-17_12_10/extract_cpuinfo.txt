@@ -1,0 +1,102 @@
+usr: 9.0,37.2,4.5,24.3,44.1,14.2,20.0,2.3,18.6,11.1,20.9,20.9,45.8
+usr: min(2.3) max(45.8) average(20.99)
+sys: 11.3,27.9,4.5,12.1,27.9,19.0,13.3,4.6,13.9,8.8,11.6,11.6,25.0
+sys: min(4.5) max(27.9) average(14.73)
+nic: 0.0,16.2,0.0,0.0,4.6,0.0,0.0,0.0,0.0,2.2,4.6,0.0,6.2
+nic: min(0.0) max(16.2) average(2.6)
+idle: 77.2,16.2,86.3,63.4,20.9,66.6,62.2,88.3,65.1,73.3,60.4,65.1,16.6
+idle: min(16.2) max(88.3) average(58.58)
+io: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+io: min(0.0) max(0.0) average(0.0)
+irq: 2.2,2.3,2.2,0.0,2.3,0.0,2.2,2.3,0.0,2.2,2.3,0.0,2.0
+irq: min(0.0) max(2.3) average(1.54)
+sirq: 0.0,0.0,2.2,0.0,0.0,0.0,2.2,2.3,2.3,2.2,0.0,2.3,4.1
+sirq: min(0.0) max(4.1) average(1.35)
+{'1033'} system_server: 6.8,45.7,0.0,24.3,32.5,7.1,22.1,0.0,25.5,2.2,23.2,22.5,18.7
+{'1033'} system_server: min(0.0) max(45.7) average(17.74)
+{'382'} /vendor/bin/hw/android.hardware.au: 4.5,5.9,6.8,4.8,2.3,4.7,2.2,4.6,4.6,4.4,4.6,4.1,4.1
+{'382'} /vendor/bin/hw/android.hardware.au: min(2.2) max(6.8) average(4.43)
+{'12011', '12078', '12148', '12170', '12105', '12130', '11953', '11976', '11930', '12037', '12093', '12052'} 1-ntopbusybox: 2.2,1.9,2.2,2.3,2.3,2.2,2.3,2.3,2.2,2.3,2.0,2.0
+{'12011', '12078', '12148', '12170', '12105', '12130', '11953', '11976', '11930', '12037', '12093', '12052'} 1-ntopbusybox: min(1.9) max(2.3) average(2.18)
+{'12'} [ksoftirqd/0]: 2.2
+{'12'} [ksoftirqd/0]: min(2.2) max(2.2) average(2.2)
+{'11808'} com.tianci.movieplatform: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'11808'} com.tianci.movieplatform: min(0.0) max(0.0) average(0.0)
+{'1619'} com.tianci.system: 0.0,0.0,0.0,0.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,2.0,4.1
+{'1619'} com.tianci.system: min(0.0) max(4.1) average(0.65)
+{'1587'} com.skyworth.angel.voice: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,2.3,0.0,0.0
+{'1587'} com.skyworth.angel.voice: min(0.0) max(2.3) average(0.35)
+{'3053'} com.sogou.inputmethod.iot: 0.0,0.0,0.0,0.0,0.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'3053'} com.sogou.inputmethod.iot: min(0.0) max(2.3) average(0.18)
+{'2894'} com.tianci.appstore: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+{'2894'} com.tianci.appstore: min(0.0) max(2.0) average(0.15)
+{'4793'} com.coocaa.screensaver: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'4793'} com.coocaa.screensaver: min(0.0) max(0.0) average(0.0)
+{'2530'} com.xiaodianshi.tv.yst:stats: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'2530'} com.xiaodianshi.tv.yst:stats: min(0.0) max(0.0) average(0.0)
+{'3844'} com.skyworth.setting: 0.0,3.9,0.0,0.0,18.6,7.1,0.0,0.0,0.0,2.2,2.3,0.0,10.4
+{'3844'} com.skyworth.setting: min(0.0) max(18.6) average(3.42)
+{'1682'} com.coocaa.os.service: 0.0,0.0,0.0,0.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+{'1682'} com.coocaa.os.service: min(0.0) max(2.3) average(0.33)
+{'1880'} com.tianci.de: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'1880'} com.tianci.de: min(0.0) max(0.0) average(0.0)
+{'8057'} com.tianci.de:core: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'8057'} com.tianci.de:core: min(0.0) max(0.0) average(0.0)
+{'7835'} com.tianci.user: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'7835'} com.tianci.user: min(0.0) max(0.0) average(0.0)
+{'4188'} com.coocaa.simple.launcher: 0.0,5.9,0.0,0.0,0.0,0.0,0.0,0.0,2.3,0.0,0.0,8.3
+{'4188'} com.coocaa.simple.launcher: min(0.0) max(8.3) average(1.38)
+{'2370'} com.skyworth.quickcenter: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'2370'} com.skyworth.quickcenter: min(0.0) max(0.0) average(0.0)
+{'2202'} com.tianci.de:TianciDaemons: 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+{'2202'} com.tianci.de:TianciDaemons: min(0.0) max(0.0) average(0.0)
+{'4674'} com.github.uiautomator: 0.0,1.9,0.0,2.3,0.0,0.0,2.2,0.0
+{'4674'} com.github.uiautomator: min(0.0) max(2.3) average(0.8)
+{'497'} /system/bin/surfaceflinger: 7.9,2.3,2.2,6.2
+{'497'} /system/bin/surfaceflinger: min(2.2) max(7.9) average(4.65)
+{'626'} /vendor/bin/tvservice: 1.9,2.2,2.2
+{'626'} /vendor/bin/tvservice: min(1.9) max(2.2) average(2.1)
+{'401'} /vendor/bin/hw/android.hardware.me: 1.9
+{'401'} /vendor/bin/hw/android.hardware.me: min(1.9) max(1.9) average(1.9)
+{'240'} /system/bin/logd: 1.9,2.3,2.0,2.0
+{'240'} /system/bin/logd: min(1.9) max(2.3) average(2.05)
+{'649'} [hdmi_task]: 1.9,2.4
+{'649'} [hdmi_task]: min(1.9) max(2.4) average(2.15)
+{'342'} [jbd2/mmcblk0p23]: 1.9
+{'342'} [jbd2/mmcblk0p23]: min(1.9) max(1.9) average(1.9)
+{'451'} /vendor/bin/hw/vendor.skyworth.har: 2.2,2.2
+{'451'} /vendor/bin/hw/vendor.skyworth.har: min(2.2) max(2.2) average(2.2)
+{'1314'} com.android.bluetooth: 0.0,0.0
+{'1314'} com.android.bluetooth: min(0.0) max(0.0) average(0.0)
+{'398'} /vendor/bin/hw/android.hardware.gr: 2.3,4.1
+{'398'} /vendor/bin/hw/android.hardware.gr: min(2.3) max(4.1) average(3.2)
+{'42'} [kworker/3:1-mm_]: 2.3
+{'42'} [kworker/3:1-mm_]: min(2.3) max(2.3) average(2.3)
+{'242'} /system/bin/servicemanager: 2.3
+{'242'} /system/bin/servicemanager: min(2.3) max(2.3) average(2.3)
+{'36'} [ksoftirqd/3]: 2.3
+{'36'} [ksoftirqd/3]: min(2.3) max(2.3) average(2.3)
+{'527'} /system/bin/socketsys: 2.3
+{'527'} /system/bin/socketsys: min(2.3) max(2.3) average(2.3)
+{'653'} [infoframe_task]: 2.3
+{'653'} [infoframe_task]: min(2.3) max(2.3) average(2.3)
+{'3959'} --/apex/com.android.adbd/bin/adbd: 2.2
+{'3959'} --/apex/com.android.adbd/bin/adbd: min(2.2) max(2.2) average(2.2)
+{'4043'} /data/local/tmp/.studio/process-tr: 2.2
+{'4043'} /data/local/tmp/.studio/process-tr: min(2.2) max(2.2) average(2.2)
+{'166'} [film_mode_detec]: 2.2
+{'166'} [film_mode_detec]: min(2.2) max(2.2) average(2.2)
+{'1626'} com.skyworth.smartcast: 4.6
+{'1626'} com.skyworth.smartcast: min(4.6) max(4.6) average(4.6)
+{'30'} [ksoftirqd/2]: 2.0
+{'30'} [ksoftirqd/2]: min(2.0) max(2.0) average(2.0)
+{'1'} second_stage/system/bin/init: 2.0
+{'1'} second_stage/system/bin/init: min(2.0) max(2.0) average(2.0)
+{'641'} /vendor/bin/vscserver: 2.0
+{'641'} /vendor/bin/vscserver: min(2.0) max(2.0) average(2.0)
+{'308'} /vendor/bin/rtkd: 2.0
+{'308'} /vendor/bin/rtkd: min(2.0) max(2.0) average(2.0)
+{'24'} [ksoftirqd/1]: 2.0
+{'24'} [ksoftirqd/1]: min(2.0) max(2.0) average(2.0)
+{'11041'} [kworker/1:2H-kb]: 2.0
+{'11041'} [kworker/1:2H-kb]: min(2.0) max(2.0) average(2.0)
